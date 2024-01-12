@@ -1,0 +1,12 @@
+should_initiate_resistance = {
+	impassable = no
+	check_variable = { core_countries^num > 0 } # have no cores
+	NOT = { is_core_of = FROM  } # never for our cores
+}
+should_initiate_resistance_113_119_134_135 = {
+	OR = {
+		controller = { tag = ENG }
+		controller = { is_subject_of = ENG }
+		should_initiate_resistance = yes		
+	}
+}

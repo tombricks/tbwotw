@@ -1,0 +1,17 @@
+capital = 622
+
+set_politics = {
+	ruling_party = pro_chinese
+	last_election = "1960.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	pro_chinese = 100
+}
+
+set_variable = { subideology = token:subideology_marxism_leninism }
+
+create_faction = "Chinese Bloc"
+add_to_faction = PRC

@@ -1,0 +1,28 @@
+bookmarks = {
+	bookmark = {
+		name = "DEFAULT_NAME"
+		desc = "DEFAULT_DESC"
+		date = 1980.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "SOV"
+	
+		SOV = {
+			history = SOV_DEFAULT_DESC
+			ideology = pro_soviet
+		}
+
+		PRC = {
+			history = PRC_DEFAULT_DESC
+			ideology = pro_soviet
+		}
+		
+		"---"={
+			history = "OTHER_DEFAULT_DESC"
+		}
+
+		effect = {
+			randomize_weather = 12346 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

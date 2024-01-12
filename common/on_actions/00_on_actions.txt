@@ -1,0 +1,14 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			every_country = {
+				if = {
+					limit = {
+						NOT = { has_country_flag = has_starting_oob }
+					}
+					d_create_army = yes
+				}
+			}
+		}
+	}
+}

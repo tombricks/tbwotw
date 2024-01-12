@@ -1,0 +1,22 @@
+﻿capital = 126
+
+set_politics = {
+	ruling_party = reactionary
+	last_election = "1960.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	reactionary = 100
+}
+
+create_country_leader = {
+	name = "Lord Mountbatten"
+	picture = GFX_portrait_unknown
+	ideology = reactionary_type
+}
+
+set_variable = { subideology = token:subideology_national_government }
+
+puppet = IRE

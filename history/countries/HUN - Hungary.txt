@@ -1,0 +1,12 @@
+capital = 43
+
+set_politics = {
+	ruling_party = pro_soviet
+	last_election = "1960.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	pro_soviet = 100
+}

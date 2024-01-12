@@ -1,0 +1,118 @@
+ideologies = {
+	reactionary = {
+
+		types = {
+			reactionary_type  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 24 24 24 }
+
+		rules = {
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_fascist = yes
+	}
+	non_aligned = {
+
+		types = {
+			non_aligned_type  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 224 154 154 }
+
+		rules = {
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_fascist = yes
+	}
+	pro_soviet = {
+
+		types = {
+			pro_soviet_type  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 190 0 13 }
+
+		rules = {
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_fascist = yes
+	}
+	pro_chinese = {
+
+		types = {
+			pro_chinese_type  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 238 28 37 }
+
+		rules = {
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_fascist = yes
+	}
+}

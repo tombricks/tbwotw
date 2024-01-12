@@ -1,0 +1,15 @@
+guiTypes = {
+	containerWindowType = {
+		name = "politics_scripted_gui_window"
+		position = { x = 0 y = 0 }
+
+		instantTextboxType = {
+			name = "ideology"
+			position = { x = 97 y = 313 }
+			font = "hoi_18mbs"
+			text = "[THIS.GetSubideologyName]"
+			maxWidth = 155
+			maxHeight = 20
+		}
+	}
+}
