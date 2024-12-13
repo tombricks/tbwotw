@@ -19,14 +19,21 @@
  pro_chinese_type: "Chinese-Aligned Socialism"
  pro_chinese_type_desc: ""
 
- subideology_marxism_leninism: "Marxism-Leninism"
- subideology_socialism: "Socialism"
+ subideology_marxism_leninism: "Marxist-Leninist"
+ subideology_marxism_leninism_noun: "Marxism-Leninism"
+ subideology_socialism: "Socialist"
+ subideology_socialism_noun: "Socialism"
  subideology_national_government: "National Government"
+ subideology_national_government_noun: "National Government"
+ subideology_islamic_socialism: "Islamic Socialist"
+ subideology_islamic_socialism_noun: "Islamic Socialism"
+ subideology_anti_communism: "Anti-Communist"
+ subideology_anti_communism_noun: "Anti-Communism"
 
  SOV_reactionary_party: "Dissidents"
  SOV_reactionary_party_long: "Dissidents"
- SOV_non_aligned_party: "NCPSU"
- SOV_non_aligned_party_long: "Neo-Communist Party of the Soviet Union"
+ SOV_non_aligned_party: "New Left"
+ SOV_non_aligned_party_long: "New Left"
  SOV_pro_soviet_party: "CPSU"
  SOV_pro_soviet_party_long: "Communist Party of the Soviet Union"
  SOV_pro_chinese_party: "SRC(b)"
@@ -34,8 +41,40 @@
 
  ENG_reactionary_party: "National Government"
  ENG_reactionary_party_long: "National Government"
+ ENG_pro_soviet_party: "CPGB"
+ ENG_pro_soviet_party_long: "Communist Party of Great Britain"
+ ENG_pro_chinese_party: "FORUM"
+ ENG_pro_chinese_party_long: "FORUM for Marxist-Leninist Unity"
+ ENG_non_aligned_party: "SLP"
+ ENG_non_aligned_party_long: "Socialist Labour Party"
+
+ USA_non_aligned_party: "NCLC"
+ USA_non_aligned_party_long: "National Caucus of Labor Committees"
 
  ETH_pro_soviet_party: "COPWE"
  ETH_pro_soviet_party_long: "Commission for Organizing the Party of the Working People of Ethiopia"
- ETH_pro_chinese_party: "EPRDF"
- ETH_pro_chinese_party_long: "Ethiopian People's Revolutionary Democratic Front"
+ ETH_pro_chinese_party: "EPRP"
+ ETH_pro_chinese_party_long: "Ethiopian People's Revolutionary Party"
+
+ ERI_pro_chinese_party: "EPRP"
+ ERI_pro_chinese_party_long: "Eritrean People's Revolutionary Party"
+ ERI_pro_soviet_party: "ELF"
+ ERI_pro_soviet_party_long: "Eritrean Liberation Front"
+
+ SOM_pro_chinese_party: "SRSP"
+ SOM_pro_chinese_party_long: "Somali Revolutionary Socialist Party"
+
+ DJI_non_aligned_party: "RPP"
+ DJI_non_aligned_party_long: "People's Rally for Progress"
+
+ PRC_pro_chinese_party: "CPC"
+ PRC_pro_chinese_party_long: "Communist Party of China"
+
+ PAK_pro_chinese_party: "PPP"
+ PAK_pro_chinese_party_long: "Pakistan People's Party"
+
+ RAJ_pro_soviet_party: "INC"
+ RAJ_pro_soviet_party_long: "Indian National Congress"
+
+ BAN_pro_soviet_party: "BaKSAL"
+ BAN_pro_soviet_party_long: "Bangladesh Krishak Sramik Awami League"

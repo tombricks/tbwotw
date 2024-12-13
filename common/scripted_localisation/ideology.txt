@@ -1,7 +1,0 @@
-defined_text = {
-	name = GetSubideologyName
-	text = { trigger = { check_variable = { subideology = token:subideology_marxism_leninism } } localization_key = subideology_marxism_leninism }
-	text = { trigger = { check_variable = { subideology = token:subideology_national_government } } localization_key = subideology_national_government }
-	text = { trigger = { check_variable = { subideology = token:subideology_socialism } } localization_key = subideology_socialism }
-	text = { localization_key = subideology_socialism }
-}

@@ -10,3 +10,11 @@ set_politics = {
 set_popularities = {
 	pro_chinese = 100
 }
+
+create_country_leader = {
+	name = "Mohammed Siad Barre"
+	picture = "gfx/leaders/SOM/Mohammed Siad Barre.dds"
+	ideology = pro_chinese_type
+}
+
+set_variable = { subideology = token:subideology_marxism_leninism }

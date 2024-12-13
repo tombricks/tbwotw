@@ -1,0 +1,26 @@
+ERI = {
+	diplomatic_relation = {
+	    country = SOM
+	    relation = non_aggression_pact
+	    active = yes
+	}
+}
+ETH = {
+	diplomatic_relation = {
+	    country = DJI
+	    relation = guarantee
+	    active = yes
+	}
+	add_opinion_modifier = {
+		target = ERI
+		modifier = hostile_status
+	}
+	add_opinion_modifier = {
+		target = ETH
+		modifier = hostile_status
+	}
+	add_opinion_modifier = {
+		target = SOM
+		modifier = large_decrease
+	}
+}

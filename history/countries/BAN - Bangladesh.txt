@@ -1,12 +1,20 @@
 capital = 430
 
 set_politics = {
-	ruling_party = non_aligned
+	ruling_party = pro_soviet
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	non_aligned = 100
+	pro_soviet = 100
 }
+
+create_country_leader = {
+	name = "Sheikh Mujibur Rahman"
+	picture = "gfx/leaders/BAN/Sheikh Mujibur Rahman.dds"
+	ideology = pro_soviet_type
+}
+
+set_variable = { subideology = token:subideology_socialism }

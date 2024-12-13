@@ -1,7 +1,0 @@
-scripted_gui = {
-	politics_scripted_gui = {
-		window_name = politics_scripted_gui_window
-		context_type = player_context
-		parent_window_token = politics_tab
-	}
-}

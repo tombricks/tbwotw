@@ -1,0 +1,28 @@
+guiTypes = {
+	containerWindowType = {
+		name = "politics_scripted_gui_window"
+		position = { x = 0 y = 0 }
+
+		instantTextboxType = {
+			name = "ideology"
+			position = { x = 97 y = 312 }
+			font = "hoi_18mbs"
+			text = "[THIS.GetSubideologyNoun]"
+			maxWidth = 155
+			maxHeight = 20
+		}
+	}
+	containerWindowType = {
+		name = "diplomacy_scripted_gui_window"
+		position = { x = 0 y = 0 }
+
+		instantTextboxType = {
+			name = "ideology_name"
+			position = { x = 263 y = 140 }
+			font = "hoi_16mbs"
+			text = "[THIS.GetSubideologyNoun]"
+			maxWidth = 245
+			maxHeight = 20
+		}
+	}
+}

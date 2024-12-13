@@ -10,3 +10,11 @@ set_politics = {
 set_popularities = {
 	pro_soviet = 100
 }
+
+create_country_leader = {
+	name = "Mengistu Haile Mariam"
+	picture = "gfx/leaders/ETH/Mengistu Haile Mariam.dds"
+	ideology = pro_soviet_type
+}
+
+set_variable = { subideology = token:subideology_marxism_leninism }

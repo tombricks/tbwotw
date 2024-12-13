@@ -1,0 +1,12 @@
+defined_text = {
+	name = GetSubideologyAdj
+	text = { trigger = { has_variable = subideology } localization_key = [?subideology.GetTokenKey] }
+	text = { trigger=  { has_government = reactionary } localization_key = subideology_anti_communism }
+	text = { localization_key = subideology_socialism }
+}
+defined_text = {
+	name = GetSubideologyNoun
+	text = { trigger = { has_variable = subideology } localization_key = [?subideology.GetTokenKey]_noun }
+	text = { trigger=  { has_government = reactionary } localization_key = subideology_anti_communism_noun }
+	text = { localization_key = subideology_socialism_noun }
+}

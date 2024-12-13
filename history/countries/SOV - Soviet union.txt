@@ -11,12 +11,6 @@ set_popularities = {
 	pro_soviet = 100
 }
 
-create_country_leader = {
-	name = "Yegor Ligachyov"
-	picture = GFX_portrait_unknown
-	ideology = pro_soviet_type
-}
-
 set_variable = { subideology = token:subideology_marxism_leninism }
 
 create_faction = "Soviet Bloc"

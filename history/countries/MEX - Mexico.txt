@@ -10,3 +10,5 @@ set_politics = {
 set_popularities = {
 	non_aligned = 100
 }
+
+# Carlos Tello Macias - Ally of Lopez Portillo, pro-Soviet (historical ambassador to Cuba and USSR)

@@ -9,9 +9,11 @@ set_politics = {
 
 create_country_leader = {
 	name = "Nicolae Ceaușescu"
-	picture = GFX_portrait_unknown
+	picture = "gfx/leaders/ROM/Nicolae Ceausescu.dds"
 	ideology = pro_chinese_type
 }
+
+set_variable = { subideology = token:subideology_marxism_leninism }
 
 set_popularities = {
 	pro_chinese = 100

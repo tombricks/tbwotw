@@ -10,3 +10,11 @@ set_politics = {
 set_popularities = {
 	non_aligned = 100
 }
+
+create_country_leader = {
+	name = "Hassan Gouled Aptidon"
+	picture = "gfx/leaders/DJI/Hassan Gouled Aptidon.dds"
+	ideology = non_aligned_type
+}
+
+set_variable = { subideology = token:subideology_socialism }

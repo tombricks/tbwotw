@@ -1,0 +1,67 @@
+scripted_map_modes = {
+	subideology_map_mode = {
+		top = {
+			type = country
+
+			# this trigger will be used for setting the color of a specific border
+			# if trigger returns true then it will render that border
+			# scope depends on type of the layer
+			# scope is player
+			# from scope depends on type
+			#   country: current country that will be rendered
+			#   state: current state that will be rendered
+			#   state_controller: current state that will be rendered and from from scope will be the controller of current portion of the state
+			# if return value is true the game expects you to set some temp variables which will be used as border color etc
+
+			color = {
+				FROM = {
+					set_temp_variable = { alpha = 1.0 }
+					if = {
+						limit = {
+							has_variable = subideology
+						}
+						set_temp_variable = { red = global.subideology_color_r_@var:subideology }
+						set_temp_variable = { blue = global.subideology_color_b_@var:subideology }
+						set_temp_variable = { green = global.subideology_color_g_@var:subideology }
+					}
+					else_if = {
+						limit = {
+							has_government = reactionary
+						}
+						set_temp_variable = { red = global.subideology_color_r_@token:subideology_anti_communism }
+						set_temp_variable = { blue = global.subideology_color_b_@token:subideology_anti_communism }
+						set_temp_variable = { green = global.subideology_color_g_@token:subideology_anti_communism }
+					}
+					else = {
+						set_temp_variable = { red = global.subideology_color_r_@token:subideology_socialism }
+						set_temp_variable = { blue = global.subideology_color_b_@token:subideology_socialism }
+						set_temp_variable = { green = global.subideology_color_g_@token:subideology_socialism }
+					}
+				}
+
+				set_temp_variable = { thickness = 10.0 }
+
+				#always = yes
+			}
+
+			thickness = no
+		}
+
+		bottom = {
+
+			type = none
+		}
+
+
+		# if we want to show texts on map this you can set far_text & near_text
+		# must be one of the:
+		#  none
+		#  country
+		#  state
+		#  faction
+		#  player
+
+		far_text = country
+		near_text = country
+	}
+}

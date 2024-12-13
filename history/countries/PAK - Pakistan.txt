@@ -10,3 +10,11 @@ set_politics = {
 set_popularities = {
 	pro_chinese = 100
 }
+
+create_country_leader = {
+	name = "Zulfikar Ali Bhutto"
+	picture = "gfx/leaders/PAK/Zulfikar Ali Bhutto.dds"
+	ideology = pro_chinese_type
+}
+
+set_variable = { subideology = token:subideology_islamic_socialism }

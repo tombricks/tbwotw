@@ -1,0 +1,33 @@
+capital = 439
+
+set_politics = {
+	ruling_party = pro_soviet
+	last_election = "1960.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	pro_soviet = 100
+}
+
+create_country_leader = {
+	name = "Indira Gandhi"
+	picture = "gfx/leaders/RAJ/Indira Gandhi.dds"
+	ideology = pro_soviet_type
+	female = yes
+}
+
+set_variable = { subideology = token:subideology_socialism }
+
+diplomatic_relation = {
+	country = BAN
+	relation = guarantee
+	active = yes
+}
+
+diplomatic_relation = {
+	country = BAN
+	relation = non_aggression_pact
+	active = yes
+}

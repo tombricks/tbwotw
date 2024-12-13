@@ -10,3 +10,11 @@ set_politics = {
 set_popularities = {
 	non_aligned = 100
 }
+
+create_country_leader = {
+	name = "Lyndon LaRouche"
+	picture = "gfx/leaders/USA/Lyndon LaRouche.dds"
+	ideology = non_aligned_type
+}
+
+set_variable = { subideology = token:subideology_socialism }

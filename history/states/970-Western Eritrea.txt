@@ -1,0 +1,22 @@
+
+state={
+	id=970
+	name="STATE_970"
+	provinces={
+		5017 5047 12723 13251 
+	}
+	history={
+		owner = ERI
+		add_core_of = ERI
+		victory_points = {
+			12723 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=331600
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

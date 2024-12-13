@@ -101,7 +101,7 @@ ideologies = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 
-		color = { 238 28 37 }
+		color = { 228 188 0 }
 
 		rules = {
 			can_send_volunteers = yes

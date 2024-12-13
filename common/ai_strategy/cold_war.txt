@@ -47,6 +47,7 @@ SOV_cold_war = {
 
 SOV_soft_aid = {
 	reversed = yes
+	abort_when_not_enabled = yes
 
 	enable = {
 		SOV_soft_aid_trigger = yes
@@ -68,6 +69,7 @@ SOV_soft_aid = {
 
 SOV_volunteers = {
 	reversed = yes
+	abort_when_not_enabled = yes
 
 	enable = {
 		SOV_volunteers_trigger = yes
@@ -81,7 +83,7 @@ SOV_volunteers = {
 }
 
 friendly_to_SOV = {
-
+	abort_when_not_enabled = yes
 	enable = {
 		SOV_soft_aid_trigger = yes
 	}
@@ -147,6 +149,7 @@ PRC_cold_war = {
 }
 
 PRC_soft_aid = {
+	abort_when_not_enabled = yes
 	reversed = yes
 
 	enable = {
@@ -168,6 +171,7 @@ PRC_soft_aid = {
 }
 
 PRC_volunteers = {
+	abort_when_not_enabled = yes
 	reversed = yes
 
 	enable = {
@@ -182,6 +186,7 @@ PRC_volunteers = {
 }
 
 friendly_to_PRC = {
+	abort_when_not_enabled = yes
 
 	enable = {
 		PRC_soft_aid_trigger = yes

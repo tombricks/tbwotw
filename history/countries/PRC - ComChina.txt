@@ -11,6 +11,12 @@ set_popularities = {
 	pro_chinese = 100
 }
 
+create_country_leader = {
+	name = "Hua Guofeng"
+	picture = "gfx/leaders/PRC/Hua Guofeng.dds"
+	ideology = pro_chinese_type
+}
+
 set_variable = { subideology = token:subideology_marxism_leninism }
 
 create_faction = "Chinese Bloc"

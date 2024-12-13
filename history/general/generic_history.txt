@@ -1,0 +1,19 @@
+set_variable = { global.subideology_color_r_@token:subideology_socialism = 0.867 }
+set_variable = { global.subideology_color_g_@token:subideology_socialism = 0.165 }
+set_variable = { global.subideology_color_b_@token:subideology_socialism = 0.188 }
+
+set_variable = { global.subideology_color_r_@token:subideology_anti_communism = 0.094 }
+set_variable = { global.subideology_color_g_@token:subideology_anti_communism = 0.094 }
+set_variable = { global.subideology_color_b_@token:subideology_anti_communism = 0.094 }
+
+set_variable = { global.subideology_color_r_@token:subideology_marxism_leninism = 0.498 }
+set_variable = { global.subideology_color_g_@token:subideology_marxism_leninism = 0.019 }
+set_variable = { global.subideology_color_b_@token:subideology_marxism_leninism = 0.043 }
+
+set_variable = { global.subideology_color_r_@token:subideology_national_government = 0.333 }
+set_variable = { global.subideology_color_g_@token:subideology_national_government = 0.352 }
+set_variable = { global.subideology_color_b_@token:subideology_national_government = 0.388 }
+
+set_variable = { global.subideology_color_r_@token:subideology_islamic_socialism = 0.271 }
+set_variable = { global.subideology_color_g_@token:subideology_islamic_socialism = 0.427 }
+set_variable = { global.subideology_color_b_@token:subideology_islamic_socialism = 0.161 }
