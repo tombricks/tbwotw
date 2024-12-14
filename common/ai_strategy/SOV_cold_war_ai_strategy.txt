@@ -17,13 +17,13 @@ SOV_cold_war = {
 	ai_strategy = {
 		type = contain
 		id = PRC
-		value = 150
+		value = 500
 	}
 
 	ai_strategy = {
 		type = antagonize
 		id = PRC
-		value = 150
+		value = 500
 	}
 
 	ai_strategy = {
@@ -50,7 +50,8 @@ SOV_soft_aid = {
 	abort_when_not_enabled = yes
 
 	enable = {
-		SOV_soft_aid_trigger = yes
+		set_temp_variable = { superpower = SOV }
+		TAG_wanted_by_SUPERPOWER = yes
 	}
 
 	ai_strategy = {
@@ -72,7 +73,8 @@ SOV_volunteers = {
 	abort_when_not_enabled = yes
 
 	enable = {
-		SOV_volunteers_trigger = yes
+		set_temp_variable = { superpower = SOV }
+		SUPERPOWER_volunteers_trigger = yes
 	}
 
 	ai_strategy = {
@@ -82,10 +84,31 @@ SOV_volunteers = {
 	}
 }
 
+SOV_volunteers_cheers = {
+	abort_when_not_enabled = yes
+
+	enable = {
+		OR = {
+			has_volunteers_amount_from = {
+				tag = SOV
+				count > 0
+			}
+			has_country_flag = had_volunteers_from@SOV
+		}
+	}
+
+	ai_strategy = {
+		type = befriend
+		id = SOV
+		value = 50
+	}
+}
+
 friendly_to_SOV = {
 	abort_when_not_enabled = yes
 	enable = {
-		SOV_soft_aid_trigger = yes
+		set_temp_variable = { superpower = SOV }
+		TAG_wants_SUPERPOWER = yes
 	}
 
 	ai_strategy = {
@@ -101,6 +124,7 @@ friendly_to_SOV = {
 		value = 150
 	}
 }
+
 PRC_cold_war = {
 	allowed = {
 		original_tag = PRC
@@ -120,13 +144,13 @@ PRC_cold_war = {
 	ai_strategy = {
 		type = contain
 		id = SOV
-		value = 150
+		value = 500
 	}
 
 	ai_strategy = {
 		type = antagonize
 		id = SOV
-		value = 150
+		value = 500
 	}
 
 	ai_strategy = {
@@ -149,11 +173,12 @@ PRC_cold_war = {
 }
 
 PRC_soft_aid = {
-	abort_when_not_enabled = yes
 	reversed = yes
+	abort_when_not_enabled = yes
 
 	enable = {
-		PRC_soft_aid_trigger = yes
+		set_temp_variable = { superpower = PRC }
+		TAG_wanted_by_SUPERPOWER = yes
 	}
 
 	ai_strategy = {
@@ -171,11 +196,12 @@ PRC_soft_aid = {
 }
 
 PRC_volunteers = {
-	abort_when_not_enabled = yes
 	reversed = yes
+	abort_when_not_enabled = yes
 
 	enable = {
-		PRC_volunteers_trigger = yes
+		set_temp_variable = { superpower = PRC }
+		SUPERPOWER_volunteers_trigger = yes
 	}
 
 	ai_strategy = {
@@ -185,11 +211,31 @@ PRC_volunteers = {
 	}
 }
 
-friendly_to_PRC = {
+PRC_volunteers_cheers = {
 	abort_when_not_enabled = yes
 
 	enable = {
-		PRC_soft_aid_trigger = yes
+		OR = {
+			has_volunteers_amount_from = {
+				tag = PRC
+				count > 0
+			}
+			has_country_flag = had_volunteers_from@PRC
+		}
+	}
+
+	ai_strategy = {
+		type = befriend
+		id = PRC
+		value = 50
+	}
+}
+
+friendly_to_PRC = {
+	abort_when_not_enabled = yes
+	enable = {
+		set_temp_variable = { superpower = PRC }
+		TAG_wants_SUPERPOWER = yes
 	}
 
 	ai_strategy = {

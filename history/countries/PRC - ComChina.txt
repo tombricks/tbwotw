@@ -18,6 +18,11 @@ create_country_leader = {
 }
 
 set_variable = { subideology = token:subideology_marxism_leninism }
+set_variable = { party = token:PRC_communist_party }
 
 create_faction = "Chinese Bloc"
 add_to_faction = PRC
+
+add_to_array = { global.superpowers = THIS }
+set_variable = { superpower_ideology = pro_chinese }
+set_variable = { superpower_enemy = SOV }

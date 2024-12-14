@@ -18,3 +18,4 @@ create_country_leader = {
 }
 
 set_variable = { subideology = token:subideology_marxism_leninism }
+set_variable = { party = token:ETH_copwe_party }

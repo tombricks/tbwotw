@@ -10,3 +10,5 @@ set_politics = {
 set_popularities = {
 	non_aligned = 100
 }
+
+set_variable = { party = token:IRQ_baath_party }

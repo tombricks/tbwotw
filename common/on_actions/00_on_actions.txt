@@ -11,4 +11,14 @@ on_actions = {
 			}
 		}
 	}
+	on_send_volunteers = {
+		effect = {
+			FROM = {
+				set_country_flag = {
+					flag = had_volunteers_from@FROM
+					days = 3650
+				} 
+			}
+		}
+	}
 }

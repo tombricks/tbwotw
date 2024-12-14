@@ -12,6 +12,11 @@ set_popularities = {
 }
 
 set_variable = { subideology = token:subideology_marxism_leninism }
+set_variable = { party = token:SOV_communist_party }
 
 create_faction = "Soviet Bloc"
 add_to_faction = SOV
+
+add_to_array = { global.superpowers = THIS }
+set_variable = { superpower_ideology = pro_soviet }
+set_variable = { superpower_enemy = PRC }

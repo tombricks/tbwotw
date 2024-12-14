@@ -1,72 +1,27 @@
-SOV_is_friend = {
-	SOV_soft_aid_trigger = yes
-}
-SOV_is_enemy = {
+TAG_wanted_by_SUPERPOWER = { # Trigger for if SOV wants you
 	OR = {
-		has_war_with = SOV
-		has_country_flag = enemy_of@SOV
+		has_government = var:superpower
+		is_in_array = { superpower:friends = THIS }
+		is_in_array = { superpower:superpower_wants = THIS }
 	}
 }
-SOV_soft_aid_trigger = {
-	NOT = { SOV_is_enemy = yes }
-	NOT = { has_government = reactionary }
+TAG_wants_SUPERPOWER = { # Trigger for if you want SOV
 	OR = {
-		has_country_flag = friend_of@SOV
-		has_government = pro_soviet
+		has_government = var:superpower
+		is_in_array = { superpower:friends = THIS }
+		is_in_array = { superpower:superpower_wanted_by = THIS }
 	}
 }
-SOV_volunteers_trigger = {
-	NOT = { has_government = reactionary }
+SUPERPOWER_volunteers_trigger = {
 	OR = {
-		any_country = {
-			AND = {
-				has_war_with = PREV
-				OR = {
-					has_government = pro_chinese
-					SOV_is_enemy = yes
-					PRC_is_friend = yes
-				}
+		TAG_wanted_by_SUPERPOWER = yes
+		AND = {
+			set_temp_variable = { ROOT_superpower = superpower }
+			set_temp_variable = { superpower = superpower:superpower_enemy }
+			any_enemy_country = {
+				TAG_wanted_by_SUPERPOWER = yes
 			}
 		}
-		AND = {
-			SOV_soft_aid_trigger = yes
-			enemies_strength_ratio > 0.65
-		}
-	}
-}
-PRC_is_friend = {
-	PRC_soft_aid_trigger = yes
-}
-PRC_is_enemy = {
-	OR = {
-		has_war_with = PRC
-		has_country_flag = enemy_of@PRC
-	}
-}
-PRC_soft_aid_trigger = {
-	NOT = { PRC_is_enemy = yes }
-	NOT = { has_government = reactionary }
-	OR = {
-		has_country_flag = friend_of@PRC
-		has_government = pro_chinese
-	}
-}
-PRC_volunteers_trigger = {
-	NOT = { has_government = reactionary }
-	OR = {
-		any_country = {
-			AND = {
-				has_war_with = PREV
-				OR = {
-					has_government = pro_soviet
-					PRC_is_enemy = yes
-					SOV_is_friend = yes
-				}
-			}
-		}
-		AND = {
-			PRC_soft_aid_trigger = yes
-			enemies_strength_ratio > 0.65
-		}
+			
 	}
 }
