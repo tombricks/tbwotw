@@ -22,7 +22,6 @@ create_country_leader = {
 }
 
 set_variable = { subideology = token:subideology_socialism }
-set_variable = { party = token:RAJ_inc_party }
 
 diplomatic_relation = {
 	country = BAN

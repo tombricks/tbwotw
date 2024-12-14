@@ -57,10 +57,10 @@ ideologies = {
 
 		ai_fascist = yes
 	}
-	communism = {
+	real_socialism = {
 
 		types = {
-			communism_type  = {
+			real_socialism_type  = {
 			}
 		}
 
@@ -72,7 +72,36 @@ ideologies = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 
-		color = { 190 0 13 }
+		color = { 250 0 13 }
+
+		rules = {
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_communist = yes
+	}
+	anti_revisionism = {
+
+		types = {
+			anti_revisionism_type  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NONALIGNED_1"
+			"FACTION_NAME_NONALIGNED_2"
+			"FACTION_NAME_NONALIGNED_3"
+			"FACTION_NAME_NONALIGNED_4"
+			"FACTION_NAME_NONALIGNED_5"
+		}
+
+		color = { 107 30 23 }
 
 		rules = {
 			can_send_volunteers = yes

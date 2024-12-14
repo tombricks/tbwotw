@@ -8,12 +8,12 @@ bookmarks = {
 	
 		SOV = {
 			history = SOV_DEFAULT_DESC
-			ideology = communism
+			ideology = real_socialism
 		}
 
 		PRC = {
 			history = PRC_DEFAULT_DESC
-			ideology = communism
+			ideology = real_socialism
 		}
 		
 		"---"={

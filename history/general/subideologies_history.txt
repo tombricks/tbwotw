@@ -1,0 +1,56 @@
+add_to_array = { global.subideologies = token:subideology_socialism }
+set_variable = { global.default_subideology_@socialism = token:subideology_socialism }
+set_variable = { global.subideology_color_r_@token:subideology_socialism = 224 }
+set_variable = { global.subideology_color_g_@token:subideology_socialism = 154 }
+set_variable = { global.subideology_color_b_@token:subideology_socialism = 154 }
+
+add_to_array = { global.subideologies = token:subideology_anti_communism }
+set_variable = { global.default_subideology_@reactionary = token:subideology_anti_communism }
+set_variable = { global.subideology_color_r_@token:subideology_anti_communism = 24 }
+set_variable = { global.subideology_color_g_@token:subideology_anti_communism = 24 }
+set_variable = { global.subideology_color_b_@token:subideology_anti_communism = 24 }
+
+add_to_array = { global.subideologies = token:subideology_marxism_leninism }
+set_variable = { global.default_subideology_@real_socialism = token:subideology_marxism_leninism }
+set_variable = { global.default_subideology_@anti_revisionism = token:subideology_marxism_leninism }
+set_variable = { global.subideology_color_r_@token:subideology_marxism_leninism = 250 }
+set_variable = { global.subideology_color_g_@token:subideology_marxism_leninism = 0 }
+set_variable = { global.subideology_color_b_@token:subideology_marxism_leninism = 13 }
+
+add_to_array = { global.subideologies = token:subideology_national_government }
+set_variable = { global.subideology_color_r_@token:subideology_national_government = 85 }
+set_variable = { global.subideology_color_g_@token:subideology_national_government = 90 }
+set_variable = { global.subideology_color_b_@token:subideology_national_government = 99 }
+
+add_to_array = { global.subideologies = token:subideology_islamic_socialism }
+set_variable = { global.subideology_color_r_@token:subideology_islamic_socialism = 69 }
+set_variable = { global.subideology_color_g_@token:subideology_islamic_socialism = 109 }
+set_variable = { global.subideology_color_b_@token:subideology_islamic_socialism = 41 }
+
+add_to_array = { global.subideologies = token:subideology_hitlerian_marxism }
+set_variable = { global.subideology_color_r_@token:subideology_hitlerian_marxism = 131 }
+set_variable = { global.subideology_color_g_@token:subideology_hitlerian_marxism = 51 }
+set_variable = { global.subideology_color_b_@token:subideology_hitlerian_marxism = 0 }
+
+add_to_array = { global.subideologies = token:subideology_titoism }
+set_variable = { global.subideology_color_r_@token:subideology_titoism = 47 }
+set_variable = { global.subideology_color_g_@token:subideology_titoism = 65 }
+set_variable = { global.subideology_color_b_@token:subideology_titoism = 177 }
+
+add_to_array = { global.subideologies = token:subideology_hoxhaism }
+set_variable = { global.subideology_color_r_@token:subideology_hoxhaism = 149 }
+set_variable = { global.subideology_color_g_@token:subideology_hoxhaism = 45 }
+set_variable = { global.subideology_color_b_@token:subideology_hoxhaism = 102 }
+
+add_to_array = { global.subideologies = token:subideology_national_communism }
+set_variable = { global.subideology_color_r_@token:subideology_national_communism = 140 }
+set_variable = { global.subideology_color_g_@token:subideology_national_communism = 0 }
+set_variable = { global.subideology_color_b_@token:subideology_national_communism = 78 }
+
+for_each_loop = {
+	array = global.subideologies
+	value = subideology
+	divide_variable = { global.subideology_color_r_@var:subideology = 255 }
+	divide_variable = { global.subideology_color_g_@var:subideology = 255 }
+	divide_variable = { global.subideology_color_b_@var:subideology = 255 }
+}

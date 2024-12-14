@@ -1,22 +1,21 @@
 capital = 219
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = real_socialism
 	last_election = "1976.2.20"
 	election_frequency = 60
 	elections_allowed = yes
 }
 
 set_popularities = {
-	communism = 100
+	real_socialism = 100
 }
 
 set_variable = { subideology = token:subideology_marxism_leninism }
-set_variable = { party = token:SOV_communist_party }
 
 create_faction = "Soviet Bloc"
 add_to_faction = SOV
 
 add_to_array = { global.superpowers = THIS }
-set_variable = { superpower_ideology = communism }
+set_variable = { superpower_ideology = real_socialism }
 set_variable = { superpower_enemy = PRC }

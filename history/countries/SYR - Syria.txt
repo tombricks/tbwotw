@@ -10,5 +10,3 @@ set_politics = {
 set_popularities = {
 	socialism = 100
 }
-
-set_variable = { party = token:SYR_baath_party }

@@ -18,6 +18,5 @@ create_country_leader = {
 }
 
 set_variable = { subideology = token:subideology_hitlerian_marxism }
-set_variable = { party = token:EQG_united_national_workers_party }
 
 add_ideas = EQG_there_is_no_other_god

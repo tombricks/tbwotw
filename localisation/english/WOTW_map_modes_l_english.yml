@@ -1,0 +1,6 @@
+﻿l_english:
+ MAPMODE_SUBIDEOLOGY_MAP_MODE_NAME: "Subideology"
+ MAPMODE_SUBIDEOLOGY_MAP_MODE: "§YSubideology§! map mode"
+ MAPMODE_SUBIDEOLOGY_MAP_MODE_DESCRIPTION: "Shows the countries by their subideology."
+ subideology_map_mode_tooltip: "§Y[FROM.owner.GetFlag] [FROM.owner.GetName]§!\nParty: §Y[?FROM.owner.GetRulingPartyLong]§!\nIdeology: §Y[?FROM.owner:country_leader.GetIdeology]§!\nSubideology: §Y[?FROM.owner.GetSubideologyAdj]§!"
+ subideology_map_mode_tooltip_delayed: ""

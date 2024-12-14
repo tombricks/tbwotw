@@ -18,6 +18,5 @@ create_country_leader = {
 }
 
 set_variable = { subideology = token:subideology_national_government }
-set_variable = { party = token:ENG_national_government_party }
 
 puppet = IRE

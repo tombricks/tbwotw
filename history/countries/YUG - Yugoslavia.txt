@@ -7,6 +7,14 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Josip Broz Tito"
+	picture = "gfx/leaders/YUG/Josip Broz Tito.dds"
+	ideology = socialism_type
+}
+
+set_variable = { subideology = token:subideology_titoism }
+
 set_popularities = {
 	socialism = 100
 }

@@ -312,3 +312,27 @@ d_create_wargoal = {
 		}
 	}
 }
+d_powers_test = {
+	for_each_loop = {
+		array = global.superpowers
+		value = superpower
+		if = {
+			limit = {
+				TAG_wanted_by_SUPERPOWER = yes
+			}
+			log = "[THIS.GetTag] ([THIS.GetRulingIdeology]) is wanted by [?superpower.GetTag] ([?superpower.GetRulingIdeology])"
+		}
+		if = {
+			limit = {
+				TAG_wants_SUPERPOWER = yes
+			}
+			log = "[THIS.GetTag] ([THIS.GetRulingIdeology]) wants [?superpower.GetTag] ([?superpower.GetRulingIdeology])"
+		}
+		if = {
+			limit = {
+				SUPERPOWER_volunteers_trigger = yes
+			}
+			log = "[THIS.GetTag] ([THIS.GetRulingIdeology]) will get volunteers from [?superpower.GetTag] ([?superpower.GetRulingIdeology])"
+		}
+	}
+}

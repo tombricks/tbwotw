@@ -1,12 +1,18 @@
 defined_text = {
 	name = GetSubideologyAdj
+	text = { localization_key = [d_GetSubideologyAdj] }
+}
+defined_text = {
+	name = d_GetSubideologyAdj
 	text = { trigger = { has_variable = subideology } localization_key = [?subideology.GetTokenKey] }
-	text = { trigger=  { has_government = reactionary } localization_key = subideology_anti_communism }
-	text = { localization_key = subideology_socialism }
+	text = { localization_key = [?global.default_subideology_@var:THIS.current_party_ideology_group.GetTokenKey] }
 }
 defined_text = {
 	name = GetSubideologyNoun
+	text = { localization_key = [d_GetSubideologyNoun] }
+}
+defined_text = {
+	name = d_GetSubideologyNoun
 	text = { trigger = { has_variable = subideology } localization_key = [?subideology.GetTokenKey]_noun }
-	text = { trigger=  { has_government = reactionary } localization_key = subideology_anti_communism_noun }
-	text = { localization_key = subideology_socialism_noun }
+	text = { localization_key = [?global.default_subideology_@var:THIS.current_party_ideology_group.GetTokenKey]_noun }
 }

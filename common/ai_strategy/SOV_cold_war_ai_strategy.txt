@@ -80,7 +80,13 @@ SOV_volunteers = {
 	ai_strategy = {
 		type = send_volunteers_desire
 		id = SOV
-		value = 150
+		value = 250
+	}
+
+	ai_strategy = {
+		type = support
+		id = SOV
+		value = 250
 	}
 }
 
@@ -207,7 +213,13 @@ PRC_volunteers = {
 	ai_strategy = {
 		type = send_volunteers_desire
 		id = PRC
-		value = 150
+		value = 250
+	}
+
+	ai_strategy = {
+		type = support
+		id = PRC
+		value = 250
 	}
 }
 

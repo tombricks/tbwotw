@@ -1,7 +1,7 @@
 capital = 271
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = real_socialism
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -11,14 +11,13 @@ add_to_array = { SOV.superpower_wants = THIS }
 add_to_array = { SOV.superpower_wanted_by = THIS }
 
 set_popularities = {
-	communism = 100
+	real_socialism = 100
 }
 
 create_country_leader = {
 	name = "Mengistu Haile Mariam"
 	picture = "gfx/leaders/ETH/Mengistu Haile Mariam.dds"
-	ideology = communism_type
+	ideology = real_socialism_type
 }
 
 set_variable = { subideology = token:subideology_marxism_leninism }
-set_variable = { party = token:ETH_copwe_party }

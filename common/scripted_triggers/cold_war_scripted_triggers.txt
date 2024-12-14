@@ -2,15 +2,28 @@ TAG_wanted_by_SUPERPOWER = { # Trigger for if SOV wants you
 	OR = {
 		is_in_array = { superpower:friends = THIS }
 		is_in_array = { superpower:superpower_wants = THIS }
+		has_government = var:superpower
+	}
+	NOT = {
+		is_in_array = { superpower:enemies = THIS }
 	}
 }
 TAG_wants_SUPERPOWER = { # Trigger for if you want SOV
 	OR = {
 		is_in_array = { superpower:friends = THIS }
 		is_in_array = { superpower:superpower_wanted_by = THIS }
+		has_government = var:superpower
+	}
+	NOT = {
+		is_in_array = { superpower:enemies = THIS }
 	}
 }
 SUPERPOWER_volunteers_trigger = {
+	NOT = {
+		any_enemy_country = {
+			TAG_wanted_by_SUPERPOWER = yes
+		}
+	}
 	OR = {
 		TAG_wanted_by_SUPERPOWER = yes
 		AND = {
@@ -20,6 +33,5 @@ SUPERPOWER_volunteers_trigger = {
 				TAG_wanted_by_SUPERPOWER = yes
 			}
 		}
-			
 	}
 }

@@ -21,4 +21,3 @@ create_country_leader = {
 }
 
 set_variable = { subideology = token:subideology_islamic_socialism }
-set_variable = { party = token:PAK_peoples_party }

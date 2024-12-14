@@ -5,4 +5,7 @@ leader_traits = {
 	subideology_islamic_socialism = { random = no }
 	subideology_anti_communism = { random = no }
 	subideology_hitlerian_marxism = { random = no }
+	subideology_titoism = { random = no }
+	subideology_national_communism = { random = no }
+	subideology_hoxhaism = { random = no }
 }
