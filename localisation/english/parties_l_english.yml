@@ -29,6 +29,8 @@
  subideology_islamic_socialism_noun: "Islamic Socialism"
  subideology_anti_communism: "Anti-Communist"
  subideology_anti_communism_noun: "Anti-Communism"
+ subideology_hitlerian_marxism: "Hitlerian-Marxism"
+ subideology_hitlerian_marxism_noun: "Hitlerian-Marxist"
 
  SOV_reactionary_party: "Dissidents"
  SOV_reactionary_party_long: "Dissidents"
@@ -78,3 +80,27 @@
 
  BAN_pro_soviet_party: "BaKSAL"
  BAN_pro_soviet_party_long: "Bangladesh Krishak Sramik Awami League"
+
+ EQG_non_aligned_party: "PUNT" 
+ EQG_non_aligned_party_long: "United National Workers' Party" 
+
+ EGY_pro_soviet_party: "ASU"
+ EGY_pro_soviet_party_long: "Arab Socialist Union"
+
+ SYR_baath_party: "Syrian Ba'ath"
+ SYR_baath_party_long: "Arab Socialist Ba'ath Party - Syrian Regional Branch"
+ SYR_non_aligned_party: "$SYR_baath_party$"
+ SYR_non_aligned_party_long: "$SYR_baath_party_long$"
+ SYR_pro_soviet_party: "$SYR_baath_party$"
+ SYR_pro_soviet_party_long: "$SYR_baath_party_long$"
+ SYR_pro_chinese_party: "$SYR_baath_party$"
+ SYR_pro_chinese_party_long: "$SYR_baath_party_long$"
+
+ IRQ_baath_party: "Iraqi Ba'ath"
+ IRQ_baath_party_long: "Arab Socialist Ba'ath Party - Iraqi Regional Branch"
+ IRQ_non_aligned_party: "$IRQ_baath_party$"
+ IRQ_non_aligned_party_long: "$IRQ_baath_party_long$"
+ IRQ_pro_soviet_party: "$IRQ_baath_party$"
+ IRQ_pro_soviet_party_long: "$IRQ_baath_party_long$"
+ IRQ_pro_chinese_party: "$IRQ_baath_party$"
+ IRQ_pro_chinese_party_long: "$IRQ_baath_party_long$"

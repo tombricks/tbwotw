@@ -1,0 +1,12 @@
+ideas = {
+	country = {
+		EQG_there_is_no_other_god = {
+			picture = EQG_there_is_no_other_god
+			modifier = {
+				stability_factor = -1.0
+				monthly_population = -1.0
+				custom_modifier_tooltip = EQG_there_is_no_other_god_tt
+			}
+		}
+	}
+}

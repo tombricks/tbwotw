@@ -17,3 +17,7 @@ set_variable = { global.subideology_color_b_@token:subideology_national_governme
 set_variable = { global.subideology_color_r_@token:subideology_islamic_socialism = 0.271 }
 set_variable = { global.subideology_color_g_@token:subideology_islamic_socialism = 0.427 }
 set_variable = { global.subideology_color_b_@token:subideology_islamic_socialism = 0.161 }
+
+set_variable = { global.subideology_color_r_@token:subideology_hitlerian_marxism = 0.514 }
+set_variable = { global.subideology_color_g_@token:subideology_hitlerian_marxism = 0.200 }
+set_variable = { global.subideology_color_b_@token:subideology_hitlerian_marxism = 0.000 }

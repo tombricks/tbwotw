@@ -10,3 +10,13 @@ set_politics = {
 set_popularities = {
 	non_aligned = 100
 }
+
+create_country_leader = {
+	name = "Macías Nguema"
+	picture = "gfx/leaders/EQG/Macias Nguema.dds"
+	ideology = non_aligned_type
+}
+
+set_variable = { subideology = token:subideology_hitlerian_marxism }
+
+add_ideas = EQG_there_is_no_other_god
