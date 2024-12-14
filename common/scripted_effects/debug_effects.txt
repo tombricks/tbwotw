@@ -312,26 +312,3 @@ d_create_wargoal = {
 		}
 	}
 }
-
-d_do_blocs = {
-	PRC = {
-		every_other_country = {
-			limit = {
-				has_government = pro_chinese
-			}
-			PREV = {
-				add_to_faction = PREV
-			}
-		}
-	}
-	SOV = {
-		every_other_country = {
-			limit = {
-				has_government = pro_soviet
-			}
-			PREV = {
-				add_to_faction = PREV
-			}
-		}
-	}
-}

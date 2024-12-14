@@ -1,13 +1,11 @@
 TAG_wanted_by_SUPERPOWER = { # Trigger for if SOV wants you
 	OR = {
-		has_government = var:superpower
 		is_in_array = { superpower:friends = THIS }
 		is_in_array = { superpower:superpower_wants = THIS }
 	}
 }
 TAG_wants_SUPERPOWER = { # Trigger for if you want SOV
 	OR = {
-		has_government = var:superpower
 		is_in_array = { superpower:friends = THIS }
 		is_in_array = { superpower:superpower_wanted_by = THIS }
 	}

@@ -1,14 +1,14 @@
 capital = 277
 
 set_politics = {
-	ruling_party = non_aligned
+	ruling_party = socialism
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	non_aligned = 100
+	socialism = 100
 }
 
 # Carlos Tello Macias - Ally of Lopez Portillo, pro-Soviet (historical ambassador to Cuba and USSR)

@@ -1,20 +1,23 @@
 capital = 46
 
 set_politics = {
-	ruling_party = pro_chinese
+	ruling_party = communism
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+add_to_array = { PRC.friends = THIS }
+add_to_array = { PRC.superpower_wants = THIS }
+add_to_array = { PRC.superpower_wanted_by = THIS }
 
 create_country_leader = {
 	name = "Nicolae Ceaușescu"
 	picture = "gfx/leaders/ROM/Nicolae Ceausescu.dds"
-	ideology = pro_chinese_type
+	ideology = communism_type
 }
 
 set_variable = { subideology = token:subideology_marxism_leninism }
 
 set_popularities = {
-	pro_chinese = 100
+	communism = 100
 }

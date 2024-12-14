@@ -23,7 +23,7 @@ SOV_cold_war = {
 	ai_strategy = {
 		type = antagonize
 		id = PRC
-		value = 500
+		value = 5000
 	}
 
 	ai_strategy = {
@@ -150,7 +150,7 @@ PRC_cold_war = {
 	ai_strategy = {
 		type = antagonize
 		id = SOV
-		value = 500
+		value = 5000
 	}
 
 	ai_strategy = {

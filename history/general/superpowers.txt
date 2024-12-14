@@ -1,0 +1,20 @@
+SOV = {
+	add_opinion_modifier = {
+		target = PRC
+		modifier = cold_war_rivalry
+	}
+	add_opinion_modifier = {
+		target = PRC
+		modifier = cold_war_rivalry_trade
+	}
+}
+PRC = {
+	add_opinion_modifier = {
+		target = SOV
+		modifier = cold_war_rivalry
+	}
+	add_opinion_modifier = {
+		target = SOV
+		modifier = cold_war_rivalry_trade
+	}
+}

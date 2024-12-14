@@ -28,10 +28,10 @@ ideologies = {
 
 		ai_fascist = yes
 	}
-	non_aligned = {
+	socialism = {
 
 		types = {
-			non_aligned_type  = {
+			socialism_type  = {
 			}
 		}
 
@@ -57,10 +57,10 @@ ideologies = {
 
 		ai_fascist = yes
 	}
-	pro_soviet = {
+	communism = {
 
 		types = {
-			pro_soviet_type  = {
+			communism_type  = {
 			}
 		}
 
@@ -84,35 +84,6 @@ ideologies = {
 		faction_modifiers = {
 		}
 
-		ai_fascist = yes
-	}
-	pro_chinese = {
-
-		types = {
-			pro_chinese_type  = {
-			}
-		}
-
-		dynamic_faction_names = {
-			"FACTION_NAME_NONALIGNED_1"
-			"FACTION_NAME_NONALIGNED_2"
-			"FACTION_NAME_NONALIGNED_3"
-			"FACTION_NAME_NONALIGNED_4"
-			"FACTION_NAME_NONALIGNED_5"
-		}
-
-		color = { 228 188 0 }
-
-		rules = {
-			can_send_volunteers = yes
-		}
-
-		modifiers = {
-		}
-
-		faction_modifiers = {
-		}
-
-		ai_fascist = yes
+		ai_communist = yes
 	}
 }

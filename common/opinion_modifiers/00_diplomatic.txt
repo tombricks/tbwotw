@@ -14,4 +14,12 @@ opinion_modifiers = {
 		months = 18
 		decay = 1
 	}
+
+	cold_war_rivalry = {
+		value = -200
+	}
+	cold_war_rivalry_trade = {
+		trade = yes
+		value = -200
+	}
 }

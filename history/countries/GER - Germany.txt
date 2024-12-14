@@ -1,12 +1,15 @@
 capital = 64
 
 set_politics = {
-	ruling_party = pro_soviet
+	ruling_party = communism
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+add_to_array = { SOV.friends = THIS }
+add_to_array = { SOV.superpower_wants = THIS }
+add_to_array = { SOV.superpower_wanted_by = THIS }
 
 set_popularities = {
-	pro_soviet = 100
+	communism = 100
 }

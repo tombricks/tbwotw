@@ -5,26 +5,4 @@ leader_traits = {
 	subideology_islamic_socialism = { random = no }
 	subideology_anti_communism = { random = no }
 	subideology_hitlerian_marxism = { random = no }
-
-	SOV_communist_party = { random = no }
-	SOV_revolutionary_bolshevik_party = { random = no }
-	ENG_national_government_party = { random = no }
-	ENG_communist_party = { random = no }
-	ENG_forum_party = { random = no }
-	ENG_socialist_labour_party = { random = no }
-	USA_nclc_party = { random = no }
-	ETH_copwe_party = { random = no }
-	ETH_peoples_revolutionary_party = { random = no }
-	ERI_peoples_revolutionary_party = { random = no }
-	ERI_liberation_front_party = { random = no }
-	SOM_revolutionary_socialist_party = { random = no }
-	DJI_rpp_party = { random = no }
-	PRC_communist_party = { random = no }
-	PAK_peoples_party = { random = no }
-	RAJ_inc_party = { random = no }
-	BAN_baksal_party = { random = no }
-	EQG_united_national_workers_party = { random = no }
-	EGY_arab_socialist_union_party = { random = no }
-	SYR_baath_party = { random = no }
-	IRQ_baath_party = { random = no }
 }

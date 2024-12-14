@@ -1,20 +1,20 @@
 capital = 268
 
 set_politics = {
-	ruling_party = non_aligned
+	ruling_party = socialism
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	non_aligned = 100
+	socialism = 100
 }
 
 create_country_leader = {
 	name = "Hassan Gouled Aptidon"
 	picture = "gfx/leaders/DJI/Hassan Gouled Aptidon.dds"
-	ideology = non_aligned_type
+	ideology = socialism_type
 }
 
 set_variable = { subideology = token:subideology_socialism }
