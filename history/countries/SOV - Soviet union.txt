@@ -11,6 +11,12 @@ set_popularities = {
 	real_socialism = 100
 }
 
+create_country_leader = {
+	name = "Leonid Brezhnev"
+	picture = "gfx/leaders/SOV/Leonid Brezhnev.dds"
+	ideology = real_socialism_type
+}
+
 set_variable = { subideology = token:subideology_marxism_leninism }
 
 create_faction = "Soviet Bloc"

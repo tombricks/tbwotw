@@ -47,6 +47,26 @@ set_variable = { global.subideology_color_r_@token:subideology_national_communis
 set_variable = { global.subideology_color_g_@token:subideology_national_communism = 0 }
 set_variable = { global.subideology_color_b_@token:subideology_national_communism = 78 }
 
+add_to_array = { global.subideologies = token:subideology_democratic_socialism }
+set_variable = { global.subideology_color_r_@token:subideology_democratic_socialism = 249 }
+set_variable = { global.subideology_color_g_@token:subideology_democratic_socialism = 69 }
+set_variable = { global.subideology_color_b_@token:subideology_democratic_socialism = 91 }
+
+add_to_array = { global.subideologies = token:subideology_larouchism }
+set_variable = { global.subideology_color_r_@token:subideology_larouchism = 55 }
+set_variable = { global.subideology_color_g_@token:subideology_larouchism = 106 }
+set_variable = { global.subideology_color_b_@token:subideology_larouchism = 128 }
+
+add_to_array = { global.subideologies = token:subideology_christian_democracy }
+set_variable = { global.subideology_color_r_@token:subideology_christian_democracy = 0 }
+set_variable = { global.subideology_color_g_@token:subideology_christian_democracy = 183 }
+set_variable = { global.subideology_color_b_@token:subideology_christian_democracy = 174 }
+
+add_to_array = { global.subideologies = token:subideology_national_conservatism }
+set_variable = { global.subideology_color_r_@token:subideology_national_conservatism = 84 }
+set_variable = { global.subideology_color_g_@token:subideology_national_conservatism = 106 }
+set_variable = { global.subideology_color_b_@token:subideology_national_conservatism = 142 }
+
 for_each_loop = {
 	array = global.subideologies
 	value = subideology

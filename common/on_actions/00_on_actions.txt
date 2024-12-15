@@ -21,4 +21,30 @@ on_actions = {
 			}
 		}
 	}
+	on_declare_war = {
+		effect = {
+			ROOT = {
+				if = {
+					limit = {
+						civilwar_target = FROM
+					}
+					log = "Civil War: [ROOT.GetTag] ([ROOT.GetRulingIdeology]) vs [FROM.GetTag] ([FROM.GetRulingIdeology])"
+
+					# Indian Civil War
+					if = {
+						limit = {
+							original_tag = RAJ
+						}
+						random_country = {
+							limit = {
+								original_tag = PREV
+								has_government = anti_revisionism
+							}
+							set_cosmetic_tag = RAJ_maoist_zones
+						}
+					}
+				}
+			}
+		}
+	}
 }

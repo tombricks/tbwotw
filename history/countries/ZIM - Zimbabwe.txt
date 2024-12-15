@@ -10,3 +10,11 @@ set_politics = {
 set_popularities = {
 	reactionary = 100
 }
+
+create_country_leader = {
+	name = "Ian Smith"
+	picture = "gfx/leaders/ZIM/Ian Smith.dds"
+	ideology = reactionary_type
+}
+
+set_variable = { subideology = token:subideology_national_conservatism }

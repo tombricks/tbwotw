@@ -12,8 +12,8 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Hua Guofeng"
-	picture = "gfx/leaders/PRC/Hua Guofeng.dds"
+	name = "Mao Zedong"
+	picture = "gfx/leaders/PRC/Mao Zedong.dds"
 	ideology = anti_revisionism_type
 }
 

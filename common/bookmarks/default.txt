@@ -2,7 +2,7 @@ bookmarks = {
 	bookmark = {
 		name = "DEFAULT_NAME"
 		desc = "DEFAULT_DESC"
-		date = 1980.1.1.12
+		date = 1975.1.1.12
 		picture = "GFX_select_date_1939"
 		default_country = "SOV"
 	
@@ -13,7 +13,17 @@ bookmarks = {
 
 		PRC = {
 			history = PRC_DEFAULT_DESC
-			ideology = real_socialism
+			ideology = anti_revisionism
+		}
+
+		FRA = {
+			history = FRA_DEFAULT_DESC
+			ideology = socialism
+		}
+
+		ENG = {
+			history = FRA_DEFAULT_DESC
+			ideology = reactionary
 		}
 		
 		"---"={

@@ -11,4 +11,13 @@ set_popularities = {
 	socialism = 100
 }
 
+create_country_leader = {
+	name = "José López Portillo"
+	picture = "gfx/leaders/MEX/Jose Lopez Portillo.dds"
+	ideology = socialism_type
+}
+
+#set_variable = { subideology = token:subideology_larouchism }
+
+# José López Portillo - LaRoucheite
 # Carlos Tello Macias - Ally of Lopez Portillo, pro-Soviet (historical ambassador to Cuba and USSR)

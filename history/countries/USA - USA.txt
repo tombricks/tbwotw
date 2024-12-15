@@ -11,10 +11,10 @@ set_popularities = {
 	socialism = 100
 }
 
-create_country_leader = {
-	name = "Lyndon LaRouche"
-	picture = "gfx/leaders/USA/Lyndon LaRouche.dds"
-	ideology = socialism_type
-}
-
-set_variable = { subideology = token:subideology_socialism }
+#create_country_leader = {
+#	name = "Lyndon LaRouche"
+#	picture = "gfx/leaders/USA/Lyndon LaRouche.dds"
+#	ideology = socialism_type
+#}
+#
+#set_variable = { subideology = token:subideology_larouchism }

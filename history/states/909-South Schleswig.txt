@@ -8,7 +8,9 @@ state = {
 		victory_points = {
 			317 3 
 		}
-		owner = GER
+		owner = WGR
+		add_core_of = WGR
+		add_core_of = DDR
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1

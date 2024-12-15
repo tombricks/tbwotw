@@ -8,4 +8,6 @@ leader_traits = {
 	subideology_titoism = { random = no }
 	subideology_national_communism = { random = no }
 	subideology_hoxhaism = { random = no }
+	subideology_democratic_socialism = { random = no }
+	subideology_christian_democracy = { random = no }
 }

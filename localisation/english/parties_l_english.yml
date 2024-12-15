@@ -37,6 +37,14 @@
  subideology_national_communism_noun: "National Communism"
  subideology_hoxhaism: "Hoxhaist"
  subideology_hoxhaism_noun: "Hoxhaism"
+ subideology_democratic_socialism: "Democratic Socialist"
+ subideology_democratic_socialism_noun: "Democratic Socialist"
+ subideology_larouchism: "LaRouchism"
+ subideology_larouchism_noun: "LaRouchist"
+ subideology_christian_democracy: "Christian Democratic"
+ subideology_christian_democracy_noun: "Christian Democracy"
+ subideology_national_conservatism: "National Conservative"
+ subideology_national_conservatism_noun: "National Conservatism"
 
  SOV_real_socialism_party: "CPSU"
  SOV_real_socialism_party_long: "Communist Party of the Soviet Union"
@@ -51,6 +59,15 @@
  ENG_anti_revisionism_party_long: "FORUM for Marxist-Leninist Unity"
  ENG_socialism_party: "SLP"
  ENG_socialism_party_long: "Socialist Labour Party"
+
+ IRE_reactionary_party: "FG"
+ IRE_reactionary_party_long: "Fine Gael"
+
+ ZIM_reactionary_party: "RF"
+ ZIM_reactionary_party_long: "Rhodesian Front"
+
+ SAF_reactionary_party: "NP"
+ SAF_reactionary_party_long: "National Party"
 
  USA_socialism_party: "NCLC"
  USA_socialism_party_long: "National Caucus of Labor Committees"
@@ -79,6 +96,10 @@
 
  RAJ_socialism_party: "INC"
  RAJ_socialism_party_long: "Indian National Congress"
+ RAJ_real_socialism_party: "CPI"
+ RAJ_real_socialism_party_long: "Communist Party of India"
+ RAJ_anti_revisionism_party: "CPI(M)"
+ RAJ_anti_revisionism_party_long: "Communist Party of India (Marxist)"
 
  BAN_socialism_party: "BaKSAL"
  BAN_socialism_party_long: "Bangladesh Krishak Sramik Awami League"
@@ -94,3 +115,16 @@
 
  IRQ_socialism_party: "Iraqi Ba'ath"
  IRQ_socialism_party_long: "Arab Socialist Ba'ath Party - Iraqi Regional Branch"
+
+ ALB_anti_revisionism_party: "PPSh"
+ ALB_anti_revisionism_party_long: "Party of Labour of Albania"
+
+ ROM_anti_revisionism_party: "PCR"
+ ROM_anti_revisionism_party_long: "Romanian Communist Party"
+
+ YUG_socialism_party: "SKJ"
+ YUG_socialism_party_long: "League of Communists of Yugoslavia"
+
+ MEX_socialism_party: "PRI"
+ MEX_socialism_party_long: "Institutional Revolutionary Party"
+ 

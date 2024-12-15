@@ -17,4 +17,4 @@ create_country_leader = {
 	ideology = socialism_type
 }
 
-set_variable = { subideology = token:subideology_socialism }
+set_variable = { subideology = token:subideology_democratic_socialism }

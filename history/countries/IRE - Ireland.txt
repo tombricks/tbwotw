@@ -10,3 +10,11 @@ set_politics = {
 set_popularities = {
 	reactionary = 100
 }
+
+create_country_leader = {
+	name = "Liam Cosgrave"
+	picture = "gfx/leaders/IRE/Liam Cosgrave.dds"
+	ideology = reactionary_type
+}
+
+set_variable = { subideology = token:subideology_christian_democracy }
