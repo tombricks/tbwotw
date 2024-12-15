@@ -1,0 +1,9 @@
+ideas = {
+	country = {
+		ARAB_federation_of_arab_republics_member = {
+			picture = ARAB_federation_of_arab_republics_member
+			modifier = {
+			}
+		}
+	}
+}

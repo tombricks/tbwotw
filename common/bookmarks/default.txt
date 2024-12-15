@@ -21,6 +21,11 @@ bookmarks = {
 			ideology = socialism
 		}
 
+		EGY = {
+			history = EGY_DEFAULT_DESC
+			ideology = socialism
+		}
+
 		ENG = {
 			history = FRA_DEFAULT_DESC
 			ideology = reactionary

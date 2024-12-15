@@ -11,27 +11,6 @@ state={
 		
 		add_core_of = COG
 
-		DRC = {
-			set_province_controller = 2126 
-			set_province_controller = 10025 
-			set_province_controller = 10766 
-			set_province_controller = 10883 
-			set_province_controller = 13836 
-			set_province_controller = 13845 
-			set_province_controller = 13862 
-			set_province_controller = 15937 
-			set_province_controller = 15949 
-			set_province_controller = 15950 
-			set_province_controller = 15973 
-			set_province_controller = 15995 
-			set_province_controller = 16029 
-			set_province_controller = 16178 
-			set_province_controller = 16208 
-			set_province_controller = 16271 
-			set_province_controller = 16295 
-			set_province_controller = 16303
-		}
-
 	}
 
 	provinces={

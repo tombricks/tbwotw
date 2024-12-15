@@ -8,15 +8,6 @@ state={
 		owner = POR
 		add_core_of = ANG
 		
-		UNI = {
-			set_province_controller = 16015
-			set_province_controller = 15936
-			set_province_controller = 16207
-			set_province_controller = 16165
-			set_province_controller = 16251
-			set_province_controller = 16050
-			set_province_controller = 16221
-		}
 	}
 	manpower=314049
 	buildings_max_level_factor=1.000

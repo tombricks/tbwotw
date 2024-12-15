@@ -45,6 +45,10 @@
  subideology_christian_democracy_noun: "Christian Democracy"
  subideology_national_conservatism: "National Conservative"
  subideology_national_conservatism_noun: "National Conservatism"
+ subideology_arab_socialism: "Arab Socialist"
+ subideology_arab_socialism_noun: "Arab Socialism"
+ subideology_baathism: "Ba'athist"
+ subideology_baathism_noun: "Ba'athism"
 
  SOV_real_socialism_party: "CPSU"
  SOV_real_socialism_party_long: "Communist Party of the Soviet Union"

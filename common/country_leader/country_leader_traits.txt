@@ -10,4 +10,6 @@ leader_traits = {
 	subideology_hoxhaism = { random = no }
 	subideology_democratic_socialism = { random = no }
 	subideology_christian_democracy = { random = no }
+	subideology_arab_socialism = { random = no }
+	subideology_baathism = { random = no }
 }

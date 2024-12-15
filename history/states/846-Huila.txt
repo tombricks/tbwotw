@@ -15,14 +15,6 @@ state={
 
 		}
 
-		UNI = {
-			set_province_controller = 15929
-			set_province_controller = 16249
-			set_province_controller = 16301
-			set_province_controller = 16139
-			set_province_controller = 16073
-		}
-
 	}
 
 	provinces={

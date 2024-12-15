@@ -8,23 +8,6 @@ state={
 		owner = COG
 		
 		add_core_of = COG
-
-		DRC = {
-			set_province_controller = 13830 
-			set_province_controller = 16012 
-			set_province_controller = 16053 
-			set_province_controller = 16088 
-			set_province_controller = 16112 
-			set_province_controller = 16130 
-			set_province_controller = 16157 
-			set_province_controller = 16256 
-			set_province_controller = 16377 
-			set_province_controller = 16388 
-			set_province_controller = 16390 
-			set_province_controller = 16392 
-			set_province_controller = 16404 
-			set_province_controller = 16407 
-		}
 	}
 	manpower=1892632
 	state_category=state_03

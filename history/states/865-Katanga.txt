@@ -8,9 +8,6 @@ state={
 		
 		add_core_of = COG
 
-		DRC = {
-			set_province_controller = 16373
-		}
 	}
 
 	provinces={

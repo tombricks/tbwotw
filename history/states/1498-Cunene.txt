@@ -7,17 +7,6 @@ state={
 	history={
 		owner = POR
 		add_core_of = ANG
-		
-		UNI = {
-			set_province_controller = 15960
-			set_province_controller = 16034
-			set_province_controller = 16059
-			set_province_controller = 16082
-			set_province_controller = 16115
-			set_province_controller = 16212
-			set_province_controller = 16297
-			set_province_controller = 16310 
-		}
 	}
 	manpower=701276
 	buildings_max_level_factor=1.000

@@ -6,10 +6,17 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-add_to_array = { SOV.friends = THIS }
-add_to_array = { SOV.superpower_wants = THIS }
-add_to_array = { SOV.superpower_wanted_by = THIS }
+
+create_country_leader = {
+	name = "Gamal Abdel Nasser"
+	picture = "gfx/leaders/EGY/Gamal Abdel Nasser.dds"
+	ideology = socialism_type
+}
+
+set_variable = { subideology = token:subideology_arab_socialism }
 
 set_popularities = {
 	socialism = 100
 }
+
+add_ideas = ARAB_federation_of_arab_republics_member

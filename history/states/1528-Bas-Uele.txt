@@ -8,16 +8,6 @@ state={
 		owner = COG
 		
 		add_core_of = COG
-
-		DRC = {
-			set_province_controller = 16293
-			set_province_controller = 13833
-			set_province_controller = 13858
-			set_province_controller = 16075
-			set_province_controller = 16318
-			set_province_controller = 16169
-			set_province_controller = 16134
-		}
 	}
 	manpower=673646
 	buildings_max_level_factor=1.000

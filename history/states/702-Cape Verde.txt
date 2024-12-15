@@ -6,7 +6,7 @@ state={
 	state_category = state_default
 
 	history={
-		owner = VER
+		owner = POR
 		buildings = {
 			infrastructure = 2
 			industrial_complex  = 2
@@ -15,7 +15,6 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = VER
 	}
 
 	provinces={

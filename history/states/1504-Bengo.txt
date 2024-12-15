@@ -7,14 +7,6 @@ state={
 	history={
 		owner = POR
 		add_core_of = ANG
-		
-
-		UNI = {
-			set_province_controller = 15932
-			set_province_controller = 16114
-			set_province_controller = 16081
-			
-		} 	
 
 	}
 	manpower=252608

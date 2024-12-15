@@ -9,24 +9,6 @@ state={
 		
 		add_core_of = COG
 
-		DRC = {
-			set_province_controller = 16147
-			set_province_controller = 16172
-			set_province_controller = 13847
-			set_province_controller = 16192
-			set_province_controller = 16233
-			set_province_controller = 15948
-			set_province_controller = 13832
-			set_province_controller = 4201
-			set_province_controller = 8219
-			set_province_controller = 12775
-			set_province_controller = 16011
-			set_province_controller = 16181
-			set_province_controller = 16001
-			set_province_controller = 16132
-			set_province_controller = 16257
-
-		}
 	}
 	manpower=1391806
 	buildings_max_level_factor=1.000

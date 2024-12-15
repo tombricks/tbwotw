@@ -67,6 +67,16 @@ set_variable = { global.subideology_color_r_@token:subideology_national_conserva
 set_variable = { global.subideology_color_g_@token:subideology_national_conservatism = 106 }
 set_variable = { global.subideology_color_b_@token:subideology_national_conservatism = 142 }
 
+add_to_array = { global.subideologies = token:subideology_arab_socialism }
+set_variable = { global.subideology_color_r_@token:subideology_arab_socialism = 0 }
+set_variable = { global.subideology_color_g_@token:subideology_arab_socialism = 159 }
+set_variable = { global.subideology_color_b_@token:subideology_arab_socialism = 96 }
+
+add_to_array = { global.subideologies = token:subideology_baathism }
+set_variable = { global.subideology_color_r_@token:subideology_baathism = 1 }
+set_variable = { global.subideology_color_g_@token:subideology_baathism = 123 }
+set_variable = { global.subideology_color_b_@token:subideology_baathism = 72 }
+
 for_each_loop = {
 	array = global.subideologies
 	value = subideology
