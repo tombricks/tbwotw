@@ -3,4 +3,8 @@ spriteTypes = {
 		name = "GFX_idea_EQG_there_is_no_other_god"
 		texturefile = "gfx/interface/ideas/EQG_there_is_no_other_god.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_ARAB_federation_of_arab_republics_member"
+		texturefile = "gfx/interface/ideas/ARAB_federation_of_arab_republics_member.dds"
+	}
 }
