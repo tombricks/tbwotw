@@ -1,0 +1,49 @@
+
+state={
+	id=783
+	name="STATE_783"
+	resources={
+		tungsten=100.000
+		rubber=24.000
+		oil=2.000
+		steel=1.000
+	}
+
+	history={
+		owner = VIN
+		victory_points = {
+			4401 20 
+		}
+		victory_points = {
+			12232 3
+		}
+		victory_points = {
+			10261 2
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 4
+			arms_factory  = 1
+			air_base = 5
+			4401 = {
+				naval_base = 8
+
+			}
+			12232 = {
+				naval_base = 5
+
+			}
+
+		}
+		add_core_of = VIN
+
+	}
+
+	provinces={
+		4401 7238 7347 10261 12232 
+	}
+	manpower=19129113
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

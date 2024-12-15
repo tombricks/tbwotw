@@ -1,0 +1,25 @@
+state={
+	id=1487
+	name="STATE_1487"
+
+	history={
+		owner = BOL
+		victory_points = {
+			5179 3
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = BOL
+
+	}
+
+	provinces={
+		5179 12979 15877 15880 
+	}
+	manpower=637000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

@@ -1,30 +1,28 @@
-state = {
-	id = 742
-	name = "STATE_742"
 
-	history = {
+state={
+	id=742
+	name="STATE_742"
+	resources={
+		oil=1.000
+	}
 
-		owner = SOV
+	history={
+		owner = POL
 		victory_points = {
-			1384 1
+			6464 5 
 		}
 		buildings = {
-			infrastructure = 1
-
+			infrastructure = 3
+			industrial_complex  = 1
+			air_base = 2
 		}
-		add_core_of = SOV
-		add_core_of = TAJ
-		add_core_of = BUK
 
 	}
 
-	provinces = {
-		1216 1384 1919 4542 7224 8027 10187 10417 12218 12250 12430 12805 
+	provinces={
+		506 6464 9412 11467 
 	}
-	
-	manpower = 230000
-	buildings_max_level_factor = 1.000
-	state_category = wasteland
-
-	local_supplies = 0.0 
+	manpower=4593358
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

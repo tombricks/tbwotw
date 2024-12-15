@@ -2,32 +2,35 @@
 state={
 	id=658
 	name="STATE_658"
-	manpower = 170200
 	resources={
-		oil=5 # was: 6
+		chromium=2.000
+		aluminium=36.000
+		oil=95.000
 	}
-	
-	state_category = pastoral
-
 
 	history={
-		add_core_of = UAE
 		owner = UAE
-		victory_points = {
-			7960 1 
-		}
+		add_core_of = UAE
+	    victory_points = {
+			13944 10 
+        }
 		buildings = {
-			infrastructure = 1
-			7960 = {
-				naval_base = 3
+			infrastructure = 3
+			industrial_complex  = 4
+			air_base = 4
+			13944 = {
+				naval_base = 5
+
 			}
+
 		}
 
 	}
 
 	provinces={
-		2048 7960 8108 10904 
+		2048 7960 8108 13942 13943 13944 
 	}
-
-	local_supplies=4.0 
+	manpower=2784490
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

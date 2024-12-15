@@ -1,26 +1,29 @@
 
 state={
 	id=557
-	name="STATE_557" # Mauritania
-	manpower = 225000
-	
-	state_category = pastoral
+	name="STATE_557"
+	resources={
+		oil=1.000
+		steel=7.000
+	}
 
 	history={
 		owner = MRT
 		add_core_of = MRT
-		victory_points = {
-			5034 1
-		}
 		buildings = {
 			infrastructure = 1
+
+		}
+		victory_points = {
+			10771 1 
 		}
 
 	}
 
 	provinces={
-		5034 5077 7992 8058 10814
+		1897 1962 5077 7943 8058 10771 10779 10814 10838 
 	}
-
-	local_supplies=0.0 
+	manpower=729200
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

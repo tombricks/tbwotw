@@ -1,0 +1,31 @@
+
+state={
+	id=808
+	name="STATE_808"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			318 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 1
+			air_base = 3
+
+		}
+
+	}
+
+	provinces={
+		318 3281 3309 3366 3393 6340 6359 6413 9304 9359 11341 11391 
+	}
+	manpower=1170500
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=942
+	name="STATE_942"
+
+	history={
+		owner = SOM
+		victory_points = {
+			15382 3
+		}
+		victory_points = {
+			15379 2
+		}
+		victory_points = {
+			13471 1
+		}
+		victory_points = {
+			2063 1
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+
+		}
+		add_core_of = SOM
+
+	}
+
+	provinces={
+		2063 8164 13330 13471 15379 15380 15381 15382 15384 
+	}
+	manpower=1900000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

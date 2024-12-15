@@ -1,0 +1,16 @@
+state={
+	id=1508
+	name="STATE_1508"
+	provinces={
+		15980 16030 16239 16243 16276 16279 16296 16321 
+	}
+	history={
+		owner = POR
+		add_core_of = ANG
+		
+	}
+	manpower=698638
+	buildings_max_level_factor=1.000
+	state_category=state_01
+	local_supplies=0.000
+}

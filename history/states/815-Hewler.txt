@@ -1,0 +1,29 @@
+
+state={
+	id=815
+	name="STATE_815"
+
+	history={
+		owner = IRQ
+		victory_points = {
+			3916 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 1
+			air_base = 2
+
+		}
+		add_core_of = IRQ
+		add_core_of = KUR
+
+	}
+
+	provinces={
+		3916 5014 13353 14441 
+	}
+	manpower=2113391
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=843
+	name="STATE_843"
+
+	history={
+		owner = POR
+		add_core_of = ANG
+		
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		10966 15938 15952 15984 15986 16042 16110 16121 16156 16171 16173 16203 16219 16224 16226 16228 16242 16284 16292 16312 
+	}
+	manpower=537292
+	buildings_max_level_factor=1.000
+	state_category=state_01
+	local_supplies=0.000
+}

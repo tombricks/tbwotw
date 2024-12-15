@@ -1,0 +1,45 @@
+
+state={
+	id=1000
+	name="STATE_1000"
+
+	history={
+		owner = SYE
+		victory_points = {
+			13478 1
+		}
+		victory_points = {
+			14116 1
+		}
+		buildings = {
+			infrastructure = 2
+			13478 = {
+				bunker = 5
+	
+			}
+			14116 = {
+				bunker = 5
+	
+			}
+			13480 = {
+				bunker = 5
+	
+			}
+			13483 = {
+				bunker = 5
+	
+			}
+
+		}
+		add_core_of = SYE
+
+	}
+
+	provinces={
+		12821 13478 13480 13483 14115 14116 14120 
+	}
+	manpower=875000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

@@ -2,36 +2,38 @@
 state={
 	id=477
 	name="STATE_477"
-	manpower = 1951460
-	
-	state_category = town
-	
 	resources={
-		oil=9
+		oil=68.000
+		steel=5.000
 	}
 
 	history={
 		owner = MEX
 		buildings = {
 			infrastructure = 2
-			dockyard = 1
+			industrial_complex  = 1
+			air_base = 1
 			12810 = {
 				naval_base = 3
+
 			}
+			10889 = {
+				naval_base = 2
+
+			}
+
 		}
 		add_core_of = MEX
 		victory_points = {
-			12810 5
+			12810 1 
 		}
-		victory_points = {
-			8089 10
-		}
+
 	}
 
 	provinces={
-		8079 8089 10732 12810 
+		2021 8079 10732 10889 12810 
 	}
-	
-
-	local_supplies=0.0 
+	manpower=8112505
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

@@ -1,0 +1,35 @@
+
+state={
+	id=813
+	name="STATE_813"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		set_demilitarized_zone = yes
+		victory_points = {
+			4161 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+			air_base = 1
+			4161 = {
+				bunker = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4161 10002 11922 11979 
+	}
+	manpower=457000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=778
+	name="STATE_778"
+
+	history={
+		owner = CAR
+		add_core_of = CAR
+		#add_core_of = ABL
+		#add_core_of = UPC
+		#add_core_of = FPR
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 2
+			arms_factory  = 1
+			12830 = {
+				bunker = 5
+
+			}
+
+		}
+		victory_points = {
+			12830 5
+		}
+
+	}
+
+	provinces={
+		12830 
+	}
+	manpower=734350
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

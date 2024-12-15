@@ -5,15 +5,39 @@ state={
 
 	history={
 		owner = SOV
+
 		add_core_of = SOV
 		victory_points = {
-			9221 1 
+			9221 5
 		}
 		victory_points = {
-			592 1 #Voru
+			9485 1 
+		}
+		victory_points = {
+			6099 1 
+		}
+		victory_points = {
+			592 1 
+		}
+		victory_points = {
+			6178 1 
+		}
+		victory_points = {
+			14272 1 
+		}
+		victory_points = {
+			308 1
+		}
+		victory_points = {
+			6408 1
 		}
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 2
+			industrial_complex  = 1
+			592 = {
+				bunker = 2
+
+			}
 
 		}
 		add_core_of = EST
@@ -21,10 +45,10 @@ state={
 	}
 
 	provinces={
-		592 6178 6408 9221 9485 
+		308 592 6099 6178 6381 6408 9221 9485 13127 14272 14274 14275 14276 14279 
 	}
-	manpower=225840
+	manpower=413891
 	buildings_max_level_factor=1.000
-	local_supplies=0.0 
-	state_category=rural
+	state_category=state_default
+	local_supplies=0.000
 }

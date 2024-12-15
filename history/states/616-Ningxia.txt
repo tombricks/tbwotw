@@ -1,0 +1,39 @@
+
+state={
+	id=616
+	name="STATE_616"
+	resources={
+		tungsten=75.000
+		aluminium=250.000
+	}
+
+	history={
+		owner = PRC
+		victory_points = {
+			13931 5
+		}
+		victory_points = {
+			13930 3
+		}
+		victory_points = {
+			5025 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+			arms_factory  = 1
+			air_base = 3
+
+		}
+		add_core_of = CHI
+		add_core_of = PRC
+
+	}
+
+	provinces={
+		1985 3742 5025 8081 13930 13931 
+	}
+	manpower=6620000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

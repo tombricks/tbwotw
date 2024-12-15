@@ -1,0 +1,32 @@
+
+state={
+	id=916
+	name="STATE_916"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+
+		}
+		victory_points = {
+			12863 2 
+		}
+		victory_points = {
+			12780 3 
+		}
+		victory_points = {
+			10913 5 
+		}
+
+	}
+
+	provinces={
+		1986 10913 11249 12780 12809 12863 
+	}
+	manpower=2626715
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

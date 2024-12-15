@@ -1,0 +1,41 @@
+
+state={
+	id=548
+	name="STATE_548"
+	resources={
+		tungsten=2.000
+	}
+
+	history={
+		owner = UGA
+		victory_points = {
+			12989 10
+		}
+		victory_points = {
+			14374 2
+		}
+		victory_points = {
+			14380 2
+		}
+		victory_points = {
+			14375 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 4
+			arms_factory  = 2
+			air_base = 1
+
+		}
+		add_core_of = UGA
+
+	}
+
+	provinces={
+		2308 12989 14374 14375 14378 14380 14382 14385 
+	}
+	manpower=9529227
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+state={
+	id=1432
+	name="STATE_1432"
+
+	history={
+		owner = BRA
+		victory_points = {
+			8143 3
+		}
+		buildings = {
+			infrastructure = 2
+			8143 = {
+				naval_base = 1
+				
+			}
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		8143 15528 
+	}
+	manpower=2068017
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

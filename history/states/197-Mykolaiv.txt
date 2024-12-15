@@ -2,31 +2,38 @@
 state={
 	id=197
 	name="STATE_197"
-	manpower = 896311
-	
-	state_category = rural
 
 	history={
-		victory_points = {
-			11683 3
-		}
 		owner = SOV
-		buildings = {
-			infrastructure = 3 #was: 5
-			dockyard = 1
-		}
+
 		add_core_of = SOV
-		add_core_of = UKR
-		1939.1.1 = {
-			buildings = {
-				dockyard = 2
-			}
+		victory_points = {
+			11683 5
 		}
+		victory_points = {
+			14305 1
+		}
+		victory_points = {
+			14300 1
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			11683 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = UKR
+
 	}
 
 	provinces={
-		409 574 3403 3755 6597 9573 11546 11683 
+		574 3575 3738 6597 11546 11683 11703 14300 14302 14305 
 	}
-
-	local_supplies=5.0 
+	manpower=896311
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

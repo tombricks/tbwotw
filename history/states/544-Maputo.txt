@@ -1,0 +1,35 @@
+
+state={
+	id=544
+	name="STATE_544"
+	resources={
+		aluminium=60.000
+	}
+
+	history={
+		owner = POR
+		victory_points = {
+			8245 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 3
+			air_base = 1
+			8245 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = MZB
+
+	}
+
+	provinces={
+		8245 15330 15331 
+	}
+	manpower=2216460
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

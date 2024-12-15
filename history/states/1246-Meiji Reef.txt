@@ -1,0 +1,33 @@
+state={
+	id=1246
+	name="STATE_1246"
+
+	history= {
+		owner = PRC
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+			anti_air_building = 2
+			radar_station = 1
+			14677 = {
+				bunker = 2
+				coastal_bunker = 2
+				naval_base = 2
+
+			}
+
+		}
+		add_claim_by = PRC
+		add_claim_by = CHI
+		add_claim_by = VIN
+		add_claim_by = PHI
+	}
+
+	provinces={
+		14677 
+	}
+	manpower=53
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

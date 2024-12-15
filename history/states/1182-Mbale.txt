@@ -1,0 +1,31 @@
+state={
+	id=1182
+	name="STATE_1182"
+
+	history={
+		owner = UGA
+		victory_points = {
+			14381 3
+		}
+		victory_points = {
+			12929 2
+		}
+		victory_points = {
+			14389 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = UGA
+
+	}
+
+	provinces={
+		12929 14373 14381 14384 14387 14389 
+	}
+	manpower=9042422
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

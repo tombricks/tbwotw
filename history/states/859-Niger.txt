@@ -1,0 +1,23 @@
+
+state={
+	id=859
+	name="STATE_859"
+
+	history={
+		owner = NGA
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		1932 8021 10820 13512 13513 
+	}
+	manpower=3954772
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

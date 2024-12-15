@@ -1,0 +1,34 @@
+
+state={
+	id=997
+	name="STATE_997"
+
+	history={
+		owner = YEM
+		victory_points = {
+			1920 1 
+		}
+		buildings = {
+			infrastructure = 2
+			13487 = {
+				bunker = 5
+
+			}
+			14131 = {
+				bunker = 5
+
+			}
+
+		}
+		add_core_of = YEM
+
+	}
+
+	provinces={
+		1920 13486 13487 14131 
+	}
+	manpower=838000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

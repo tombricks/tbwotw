@@ -2,26 +2,24 @@ state=
 {
 	id=638
 	name="STATE_638"
-	state_category = small_island
-	manpower=75153
+	state_category = state_default
+	manpower=167772
 	history=
 	{
 		owner = USA
-		add_core_of = GUM
+		victory_points = {
+			12140 1
+		}
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 3
+			air_base = 10
 			12140 = {
 				naval_base = 1
 			}
 		}
-		victory_points = {
-			12140 1
-		 }
 
 	}
 	provinces={
 		12140
 	}
-
-	local_supplies=0.0 
 }

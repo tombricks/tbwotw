@@ -1,0 +1,46 @@
+
+state={
+	id=132
+	name="STATE_132"
+	resources={
+		steel=28.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			6384 5 
+		}
+		victory_points = {
+			6318 5 
+		}
+		victory_points = {
+			6268 2 
+		}
+		victory_points = {
+			6335 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 5
+			arms_factory  = 2
+			dockyard = 1
+			air_base = 5
+			6384 = {
+				naval_base = 5
+
+			}
+
+		}
+		add_core_of = ENG
+
+	}
+
+	provinces={
+		3205 6268 6318 6335 6384 
+	}
+	manpower=7052000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

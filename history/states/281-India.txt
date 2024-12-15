@@ -2,27 +2,27 @@
 state={
 	id=281
 	name="STATE_281"
-	manpower=79300
+	manpower=344300
 	
-	state_category = enclave
+	state_category = state_default
+	
+	resources = {
+		rubber = 1
+	}
 
 	history={
 		owner = MLD
 		add_core_of = MLD
 		buildings = {
 			infrastructure = 2
-			4967 = {
-				naval_base = 1
-			}
+			industrial_complex  = 3
+			air_base = 1 #That plane must be somewhere, maybe Gan ITNL?
+			4967 = { naval_base = 1 }
 		}
-		victory_points = {
-			4967 1
-		}
+		victory_points = { 4967 1 }
 	}
 
 	provinces={
 		4967 
 	}
-
-	local_supplies=0.0 
 }

@@ -1,37 +1,56 @@
-state=
-{
+
+state={
 	id=312
 	name="STATE_312"
-	manpower=859761
-	resources={
-		chromium=1 # was: 1
-	}
-	
-	state_category = town
-	history=
-	{
+
+	history={
 		owner = HON
+		victory_points = {
+			12865 5
+		}
+		victory_points = {
+			8017 3
+		}
+		victory_points = {
+			15626 3
+		}
+		victory_points = {
+			15624 1
+		}
+		victory_points = {
+			15614 1
+		}
+		victory_points = {
+			15616 1
+		}
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 2 
+			industrial_complex  = 4
+			arms_factory  = 1
 			air_base = 1
-			12865 = {
-				naval_base = 1
-			}
 			8017 = {
-				naval_base = 1
+				naval_base = 2
+
 			}
+			15626 = {
+				naval_base = 2
+
+			}
+			15614 = {
+				naval_base = 1
+
+			}
+
 		}
 		add_core_of = HON
-		victory_points = {
-			12865 3 
-		}
 
 	}
+
 	provinces={
-		2031 8017 12865
+		2031 8017 12865 15614 15616 15618 15621 15622 15624 15626 
 	}
-
-	local_supplies=0.0 
+	manpower=8119761
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

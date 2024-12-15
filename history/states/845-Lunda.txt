@@ -1,0 +1,27 @@
+
+state={
+	id=845
+	name="STATE_845"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = POR
+		add_core_of = ANG
+		
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		15935 16010 16061 16066 16109 16183 16246 16281 
+	}
+	manpower=380771
+	buildings_max_level_factor=1.000
+	state_category=state_01
+	local_supplies=0.000
+}

@@ -1,39 +1,57 @@
-state= {
+
+state={
 	id=122
 	name="STATE_122"
-	manpower = 2309230
-	
-	state_category = city
-	
 	resources={
-		steel=11 # was: 16
-		aluminium=3 # was: 4
+		tungsten=4.000
+		steel=1.000
+		aluminium=1.000
 	}
 
-	history=
-	{
+	history={
 		owner = ENG
 		victory_points = {
-			407 3 #Swansea
+			377 5 
 		}
 		victory_points = {
-			311 1 #Wrexham
+			407 2
 		}
-		victory_points = { 377 5 }
+		victory_points = {
+			9364 1
+		}
+		victory_points = {
+			6363 1
+		}
+		victory_points = {
+			14571 1
+		}
+		victory_points = {
+			253 1
+		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
+			industrial_complex  = 2
+			dockyard = 1
 			377 = {
 				naval_base = 3
+
 			}
+			407 = {
+				naval_base = 1
+
+			}
+
 		}
 		add_core_of = ENG
 		add_core_of = WLS
+
 	}
 
-	provinces=
-	{
-253 311 377 407 3274 6363 9364 11361 	}
-
-	local_supplies=0.0 
+	provinces={
+		253 311 377 407 3274 6363 9364 11361 14571 
+	}
+	manpower=2800000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

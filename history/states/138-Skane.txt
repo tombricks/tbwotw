@@ -1,44 +1,61 @@
 
-state = {
-	id = 138
-	name = "STATE_138"
-	manpower = 1047701
-	
-	state_category = city
+state={
+	id=138
+	name="STATE_138"
+	resources={
+		steel=9.000
+	}
 
-	history = {
+	history={
 		owner = SWE
-
 		victory_points = {
-			9279 5 # Malmö
+			9279 5 
 		}
 		victory_points = {
-			11215 1 # Karlskrona
+			6345 2 
 		}
 		victory_points = {
-			6345 1 # Helsingborg
+			14711 1
 		}
-
+		victory_points = {
+			11160 1
+		}
+		victory_points = {
+			6120 1
+		}
+		victory_points = {
+			9300 1
+		}
 		buildings = {
-			infrastructure = 3 #was: 5
-			industrial_complex = 1
+			infrastructure = 3
+			air_base = 2
+			industrial_complex  = 1
 			dockyard = 1
-			11215 = {
-				naval_base = 5
-				coastal_bunker = 3
-			}
 			9279 = {
 				naval_base = 5
 				coastal_bunker = 1
+
 			}
+			6345 = {
+				naval_base = 1
+
+			}
+			11160 = {
+				naval_base = 1
+
+			}
+
 		}
-
 		add_core_of = SWE
+		add_core_of = SCN
+
 	}
 
-	provinces = {
-		3307 6120 6345 6412 9279 9300 9362 11160 11215 11327 11376 
+	provinces={
+		6120 6345 9279 9300 9362 11160 11376 14711 
 	}
-
-	local_supplies = 0.0 
+	manpower=1362164
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

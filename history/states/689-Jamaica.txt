@@ -1,25 +1,24 @@
 state={
 	id=689
 	name="STATE_689"
-	manpower = 1075000
+	manpower = 2840240
 	
-	state_category = town
+	state_category = state_default
 
 	history={
+		owner = JAM
 		add_core_of = JAM
-		owner = ENG
-		victory_points = {
-			12304 1 
-		}
 		buildings = {
 			infrastructure = 2
+			industrial_complex  = 3
+			arms_factory  = 1
+			air_base = 1
 			12304 = {
 				naval_base = 1
 			}
 		}
+		victory_points = { 12304 2 }
 	}
 	
 	provinces={ 12304 12477 }
-
-	local_supplies=0.0 
 }

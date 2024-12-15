@@ -1,0 +1,40 @@
+
+state={
+	id=927
+	name="STATE_927"
+
+	history={
+		owner = YUG
+
+		add_core_of = YUG
+		victory_points = {
+			3984 3 
+		}
+		victory_points = {
+			3939 2 
+		}
+		victory_points = {
+			9599 1
+		}
+		victory_points = {
+			3609 1
+		}
+		victory_points = {
+			6998 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SER
+
+	}
+
+	provinces={
+		797 3609 3939 3956 3984 6970 6998 9599 9602 
+	}
+	manpower=2031697
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

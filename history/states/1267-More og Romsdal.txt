@@ -1,0 +1,35 @@
+state={
+	id=1267
+	name="STATE_1267"
+
+	history={
+		owner = NOR
+		victory_points = {
+			188 1
+		}
+		victory_points = {
+			11100 1
+		}
+		victory_points = {
+			14779 1
+		}
+		buildings = {
+			infrastructure = 1
+			11100 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = NOR
+
+	}
+
+	provinces={
+		102 188 3096 9127 9216 11100 14779 
+	}
+	manpower=265544
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

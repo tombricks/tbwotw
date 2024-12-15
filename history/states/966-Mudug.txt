@@ -1,0 +1,29 @@
+
+state={
+	id=966
+	name="STATE_966"
+
+	history={
+		owner = SOM
+		victory_points = {
+			1964 3
+		}
+		victory_points = {
+			12840 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SOM
+
+	}
+
+	provinces={
+		1964 5065 10818 12840 12991 13472 13473 15387 15388 
+	}
+	manpower=900000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

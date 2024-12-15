@@ -1,28 +1,38 @@
-state = {
-	id = 679
-	name = "STATE_679"
-	manpower = 511000
 
-	history = {
+state={
+	id=679
+	name="STATE_679"
+	resources={
+		oil=11.000
+		steel=9.000
+	}
 
+	history={
 		owner = SAU
 		add_core_of = SAU
-
 		victory_points = {
-			12758 2 
+			12758 20 
 		}
-		
+		victory_points = {
+			2090 10 
+		}
+		victory_points = {
+			8092 1 
+		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
+			industrial_complex  = 6
+			arms_factory  = 1
+			air_base = 6
+
 		}
 
 	}
 
-	provinces = {
-		2033 4981 5099 7934 10748 10835 12758 
+	provinces={
+		2033 2095 7934 8092 10748 10835 12758 
 	}
-	
-	buildings_max_level_factor = 1.000
-	state_category = pastoral
-	local_supplies = 0.000
+	manpower=1777933
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

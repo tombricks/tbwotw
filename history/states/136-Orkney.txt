@@ -1,0 +1,31 @@
+
+state={
+	id=136
+	name="STATE_136"
+
+	history={
+		owner = ENG
+		victory_points = {
+			13789 1 
+		}
+		buildings = {
+			infrastructure = 1
+			13789 = {
+				naval_base = 7
+
+			}
+
+		}
+		add_core_of = ENG
+		add_core_of = SCO
+
+	}
+
+	provinces={
+		13789 
+	}
+	manpower=22100
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

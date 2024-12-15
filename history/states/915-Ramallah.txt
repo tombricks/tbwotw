@@ -1,0 +1,28 @@
+
+state={
+	id=915
+	name="STATE_915"
+
+	history={
+		owner = PAL
+		victory_points = {
+			7107 3
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex  = 1
+
+		}
+		add_core_of = PAL
+		add_core_of = HAM
+
+	}
+
+	provinces={
+		7107 
+	}
+	manpower=1762542
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

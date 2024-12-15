@@ -1,0 +1,46 @@
+
+state={
+	id=814
+	name="STATE_814"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = SYR
+		victory_points = {
+			1578 5 
+		}
+		victory_points = {
+			1549 6 
+		}
+		victory_points = {
+			13295 1 
+		}
+		victory_points = {
+			14149 1
+		}
+		victory_points = {
+			14153 1
+		}
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 1
+			air_base = 6
+			14149 = {
+				bunker = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1549 1578 10882 13295 14149 14151 14152 14153 
+	}
+	manpower=1512000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=882
+	name="STATE_882"
+
+	history={
+		owner = WES
+		add_core_of = WES
+		buildings = {
+			infrastructure = 1
+			industrial_complex  = 2
+
+		}
+		victory_points = {
+			7979 2 
+		}
+		victory_points = {
+			13223 1 
+		}
+		victory_points = {
+			13226 1 
+		}
+
+	}
+
+	provinces={
+		7979 13222 13223 13224 13226 
+	}
+	manpower=38928
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

@@ -1,0 +1,58 @@
+
+state={
+	id=971
+	name="STATE_971"
+
+	history={
+		owner = SYR
+		victory_points = {
+			1056 5
+		}
+		victory_points = {
+			12442 2 
+		}
+		victory_points = {
+			7513 1
+		}
+		victory_points = {
+			4550 1
+		}
+		victory_points = {
+			13283 1
+		}
+		buildings = {
+			infrastructure = 3
+			4550 = {
+				bunker = 2
+
+			}
+			1056 = {
+				bunker = 4
+				
+			}
+			13283 = {
+				bunker = 5
+				
+			}
+			13315 = {
+				bunker = 3
+				
+			}
+			13325 = {
+				bunker = 3
+				
+			}
+
+		}
+		add_core_of = SYR
+
+	}
+
+	provinces={
+		1056 4550 7513 12442 13283 13304 13309 13311 13312 13315 13316 13325 13326 14141 14142 
+	}
+	manpower=1803000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

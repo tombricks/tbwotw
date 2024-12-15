@@ -1,0 +1,43 @@
+
+state={
+	id=91
+	name="STATE_91"
+	resources={
+		steel=70.000
+	}
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			11479 10
+		}
+		victory_points = {
+			6483 1
+		}
+		victory_points = {
+			9558 1
+		}
+		victory_points = {
+			491 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 1
+			arms_factory  = 1
+			air_base = 2
+
+		}
+		add_core_of = UKR
+
+	}
+
+	provinces={
+		491 536 6431 6483 9468 9558 11479 
+	}
+	manpower=2534174
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

@@ -1,22 +1,38 @@
+
 state={
 	id=678
 	name="STATE_678"
+	resources={
+		oil=105.000
+	}
 
 	history={
 		owner = SAU
 		buildings = {
-			infrastructure = 0
-
+			infrastructure = 1
+			industrial_complex  = 3
+			dockyard = 1
+			12702 = {
+				naval_base = 6
+			}
+			1955 = {
+				naval_base = 3 #King Faisal Naval Base
+			}
+		}
+		victory_points = {
+			8030 3 
+		}
+		victory_points = {
+			12702 10 
 		}
 		add_core_of = SAU
 
 	}
 
 	provinces={
-		4932 5081 8118 12740 
+		1955 4932 5024 5081 8118 10791 10850 12702 12740 13947 
 	}
-	manpower=42
+	manpower=4105780
 	buildings_max_level_factor=1.000
-	state_category=wasteland
-	local_supplies=0.000
+	state_category=state_default
 }

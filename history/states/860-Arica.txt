@@ -1,0 +1,38 @@
+
+state={
+	id=860
+	name="STATE_860"
+
+	history={
+		owner = CHL
+		victory_points = {
+			5131 2
+		}
+		victory_points = {
+			14900 2
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			14900 = {
+				naval_base = 3
+
+			}
+			5131 = {
+				naval_base = 2
+				
+			}
+
+		}
+		add_core_of = CHL
+
+	}
+
+	provinces={
+		5131 14899 14900 
+	}
+	manpower=210200
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

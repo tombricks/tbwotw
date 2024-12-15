@@ -1,0 +1,73 @@
+
+state={
+	id=99
+	name="STATE_99"
+	resources={
+		oil=15.000
+	}
+
+	history={
+		owner = DEN
+		victory_points = {
+			6364 5 
+		}
+		victory_points = {
+			3341 1 
+		}
+		victory_points = {
+			3206 1 
+		}
+		victory_points = {
+			6235 2 
+		}
+		victory_points = {
+			394 1 
+		}
+		victory_points = {
+			3277 1
+		}
+		victory_points = {
+			399 1
+		}
+		victory_points = {
+			14701 1
+		}
+		victory_points = {
+			14696 1
+		}
+		victory_points = {
+			14707 1
+		}
+		victory_points = {
+			316 1
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex  = 1
+			air_base = 2
+			394 = {
+				naval_base = 3
+
+			}
+			6364 = {
+				naval_base = 1
+
+			}
+			399 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = DEN
+
+	}
+
+	provinces={
+		316 394 399 3206 3277 3341 6235 6364 14692 14696 14697 14699 14700 14701 14702 14703 14704 14705 14706 14707 
+	}
+	manpower=1316368
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

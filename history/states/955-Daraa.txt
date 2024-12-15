@@ -1,0 +1,51 @@
+
+state={
+	id=955
+	name="STATE_955"
+
+	history={
+		owner = SYR
+		victory_points = {
+			1074 3 
+		}
+		victory_points = {
+			13297 1
+		}
+		victory_points = {
+			14136 1
+		}
+		victory_points = {
+			13292 1
+		}
+		buildings = {
+			infrastructure = 2
+			1074 = {
+				bunker = 5
+
+			}
+			14136 = {
+				bunker = 5
+
+			}
+			13297 = {
+				bunker = 5
+
+			}
+			13292 = {
+				bunker = 5
+
+			}
+
+		}
+		add_core_of = SYR
+
+	}
+
+	provinces={
+		1074 13292 13297 14136 
+	}
+	manpower=1027000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

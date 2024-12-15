@@ -1,0 +1,28 @@
+state={
+	id=1458
+	name="STATE_1458"
+
+	history={
+		owner = VEN
+		victory_points = {
+			15741 2
+		}
+		victory_points = {
+			8024 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = VEN
+
+	}
+
+	provinces={
+		8024 13621 13622 13623 15740 15741 
+	}
+	manpower=747739
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

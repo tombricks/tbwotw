@@ -1,17 +1,32 @@
+
 state={
 	id=289
 	name="STATE_289"
 	resources={
-		rubber=8.000
-		tungsten=2.000
+		rubber=242.000
+		oil=26.000
+		steel=19.000
 	}
 
 	history={
 		owner = SIA
+		victory_points = {
+			7408 20 
+		}
+		victory_points = {
+			14795 2 
+		}
+		victory_points = {
+			14790 1 
+		}
+		victory_points = {
+			10221 1 
+		}
 		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 5
+			infrastructure = 4
+			industrial_complex  = 11
+			arms_factory  = 3
+			dockyard = 1
 			air_base = 3
 			7408 = {
 				naval_base = 3
@@ -19,20 +34,15 @@ state={
 			}
 
 		}
-		victory_points = {
-			7408 10 
-		}
-		
-		
 		add_core_of = SIA
 
 	}
 
 	provinces={
-		1244 1427 4319 4348 4433 4566 7225 7292 7312 7338 7353 7367 7408 7544 7559 7572 7587 10193 10221 10250 10293 10398 10411 12173 12224 12345 
+		1427 7338 7353 7367 7408 7544 7572 10221 10250 10398 10411 12173 12345 14788 14790 14792 14793 14795 
 	}
-	manpower=8422400
+	manpower=24422400
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=state_default
 	local_supplies=0.000
 }

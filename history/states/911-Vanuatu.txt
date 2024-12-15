@@ -1,0 +1,22 @@
+state={
+	id=911
+	name="STATE_911"
+	state_category = state_default
+	provinces={
+		1237 4247 12120 
+	}
+	
+	history = {
+		owner = ENG
+		victory_points = { 12120 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 2
+			12120 = { naval_base = 2 }
+		}
+		add_core_of = ENG
+	}
+	
+	manpower=260500
+	buildings_max_level_factor=1.000
+}

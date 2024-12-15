@@ -1,0 +1,38 @@
+
+state={
+	id=870
+	name="STATE_870"
+	resources={
+		steel=18.000
+	}
+
+	history={
+		owner = CZE
+
+		add_core_of = CZE
+		victory_points = {
+			11679 2 
+		}
+		victory_points = {
+			3484 2 
+		}
+		victory_points = {
+			541 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 2
+
+		}
+		add_core_of = SLO
+
+	}
+
+	provinces={
+		541 3484 3716 9539 11522 11679 14560 
+	}
+	manpower=1827722
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

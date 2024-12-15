@@ -1,0 +1,41 @@
+
+state={
+	id=498
+	name="STATE_498"
+	resources={
+		tungsten=38.000
+		oil=70.000
+		steel=34.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			15563 5
+		}
+		victory_points = {
+			2175 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 5
+			arms_factory  = 1
+			air_base = 2
+			15563 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = BRA
+
+	}
+
+	provinces={
+		2175 10933 15553 15561 15563 15564 
+	}
+	manpower=29746000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

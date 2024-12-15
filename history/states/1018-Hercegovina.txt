@@ -1,0 +1,38 @@
+
+state={
+	id=1018
+	name="STATE_1018"
+
+	history={
+		owner = YUG
+
+		add_core_of = YUG
+		victory_points = {
+			9894 2
+		}
+		victory_points = {
+			14868 1 
+		}
+		victory_points = {
+			6942 1
+		}
+		buildings = {
+			infrastructure = 2
+			14868 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = BOS
+
+	}
+
+	provinces={
+		3985 6942 6957 9894 11872 14867 14868 
+	}
+	manpower=434623
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

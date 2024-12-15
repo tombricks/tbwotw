@@ -1,0 +1,33 @@
+
+state={
+	id=721
+	name="STATE_721"
+	resources={
+		oil=7.000
+	}
+
+	history={
+		owner = POR
+		victory_points = {
+			12190 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 3
+			12190 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1326 12178 12190 13001 
+	}
+	manpower=1160000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

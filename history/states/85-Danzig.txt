@@ -1,33 +1,43 @@
+
 state={
 	id=85
 	name="STATE_85"
-	manpower = 366730
-	
-	state_category = city
+	resources={
+		oil=2.000
+		steel=5.000
+	}
+
 	history={
 		owner = POL
 		victory_points = {
-			362 10
+			362 15 
 		}
-		
-		
+		victory_points = {
+			9263 4
+		}
 		buildings = {
-			infrastructure = 3
-			arms_factory = 2
-			industrial_complex = 1
-			dockyard = 3
+			infrastructure = 4
+			industrial_complex  = 2
+			dockyard = 2
+			air_base = 3
 			362 = {
-				naval_base = 5
+				naval_base = 6
+
 			}
+			9263 = {
+				naval_base = 4
+
+			}
+
 		}
 		add_core_of = POL
-		add_core_of = DNZ
-		add_core_of = KSH
+
 	}
 
 	provinces={
-		362
+		334 362 389 3380 9263 11288 11316 11343 13953 
 	}
-
-	local_supplies=0.0 
+	manpower=2324251
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

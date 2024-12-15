@@ -1,0 +1,38 @@
+
+state={
+	id=681
+	name="STATE_681"
+	resources={
+		chromium=100.000
+		aluminium=3.000
+		steel=59.000
+	}
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 4
+			arms_factory  = 1
+			dockyard = 1
+			air_base = 3
+			12589 = {
+				naval_base = 4
+
+			}
+
+		}
+		victory_points = {
+			12589 10 
+		}
+		add_core_of = SAF
+
+	}
+
+	provinces={
+		12547 12589 12692 13671 13672 13674 13675 13678 13682 
+	}
+	manpower=6621100
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

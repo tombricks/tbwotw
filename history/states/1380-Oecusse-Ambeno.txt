@@ -1,0 +1,28 @@
+state={
+	id=1380
+	name="STATE_1380"
+
+	history={
+		owner = POR
+		victory_points = {
+			12206 1 
+		}
+		buildings = {
+			infrastructure = 1
+			12206 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		12206 
+	}
+	manpower=68913
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

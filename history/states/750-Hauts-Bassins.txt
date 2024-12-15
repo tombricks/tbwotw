@@ -1,0 +1,36 @@
+
+state={
+	id=750
+	name="STATE_750"
+
+	history={
+		owner = VOL
+		victory_points = {
+			7983 5 
+		}
+		victory_points = {
+			15810 2
+		}
+		victory_points = {
+			13624 1
+		}
+		victory_points = {
+			8071 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+
+		}
+		add_core_of = VOL
+
+	}
+
+	provinces={
+		7983 8071 13624 13625 15810 15811 15812 15817 
+	}
+	manpower=4358971
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=865
+	name="STATE_865"
+
+	history={
+		owner = COG
+		
+		add_core_of = COG
+
+		DRC = {
+			set_province_controller = 16373
+		}
+	}
+
+	provinces={
+		16323 16324 16325 16326 16327 16328 16330 16331 16333 16338 16340 16349 16352 16359 16364 16373 
+	}
+	manpower=2975544
+	buildings_max_level_factor=1.000
+	state_category=state_04
+	local_supplies=0.000
+}

@@ -1,0 +1,51 @@
+
+state={
+	id=924
+	name="STATE_924"
+
+	history={
+		owner = SYR
+		victory_points = {
+			7140 5 
+		}
+		victory_points = {
+			14145 2 
+		}
+		victory_points = {
+			13269 1 
+		}
+		victory_points = {
+			13267 1
+		}
+		add_core_of = SYR
+		buildings = {
+			infrastructure = 2
+			7140 = {
+				bunker = 7
+
+			}
+			13269 = {
+				bunker = 5
+
+			}
+			13267 = {
+				bunker = 5
+
+			}
+			14145 = {
+				bunker = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		7140 13267 13269 13373 14145 
+	}
+	manpower=1501000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

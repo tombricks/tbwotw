@@ -1,0 +1,28 @@
+
+state={
+	id=779
+	name="STATE_779"
+
+	history={
+		owner = CAR
+		add_core_of = CAR
+		#add_core_of = ABL
+		#add_core_of = UPC
+		#add_core_of = FPR
+		victory_points = {
+			1974 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1883 1974 5084 7919 8201 13591 13592 13593 13594 13595 
+	}
+	manpower=688760
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

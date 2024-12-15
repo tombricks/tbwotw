@@ -1,35 +1,50 @@
 
-state = {
-	id = 139
-	name = "STATE_139"
-	manpower = 390366
-	state_category = rural
-	resources = {
-		steel = 4
+state={
+	id=139
+	name="STATE_139"
+	resources={
+		steel=1.000
 	}
 
-	history = {
+	history={
 		owner = SWE
-		add_core_of = SWE
 		victory_points = {
-			9329 1
+			9329 2 
 		}
 		victory_points = {
-			299 2
+			242 1 
 		}
 		victory_points = {
-			211 1
+			299 1 
+		}
+		victory_points = {
+			9251 1 
+		}
+		victory_points = {
+			11390 1
+		}
+		victory_points = {
+			3229 1
 		}
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1	
-		}	
+			air_base = 2
+			industrial_complex  = 1
+			299 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = SWE
 
 	}
 
-	provinces = {
-		211 242 299 329 363 3229 6148 9251 9329 9406 9410 11231 11280  
+	provinces={
+		242 299 329 363 3229 6148 9251 9329 9406 9410 11231 11280 11311 11390 14712 14714 14715 14717 
 	}
-	
-	local_supplies = 5
+	manpower=780381
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

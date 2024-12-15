@@ -1,0 +1,31 @@
+
+state={
+	id=559
+	name="STATE_559"
+
+	history={
+		owner = SOM
+		victory_points = {
+			10928 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 3
+			arms_factory  = 1
+			10928 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = SOM
+
+	}
+
+	provinces={
+		10928 
+	}
+	manpower=3425000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

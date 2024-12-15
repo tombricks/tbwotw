@@ -1,0 +1,35 @@
+state={
+	id=1529
+	name="STATE_1529"
+	provinces={
+		4201 4735 7161 8219 12775 13832 13839 13846 13847 15948 15972 15998 16001 16011 16031 16033 16035 16049 16100 16111 16113 16126 16131 16132 16147 16166 16172 16181 16192 16205 16222 16225 16233 16252 16257 16268 16322 
+	}
+	history={
+		owner = COG
+		
+		add_core_of = COG
+
+		DRC = {
+			set_province_controller = 16147
+			set_province_controller = 16172
+			set_province_controller = 13847
+			set_province_controller = 16192
+			set_province_controller = 16233
+			set_province_controller = 15948
+			set_province_controller = 13832
+			set_province_controller = 4201
+			set_province_controller = 8219
+			set_province_controller = 12775
+			set_province_controller = 16011
+			set_province_controller = 16181
+			set_province_controller = 16001
+			set_province_controller = 16132
+			set_province_controller = 16257
+
+		}
+	}
+	manpower=1391806
+	buildings_max_level_factor=1.000
+	state_category=state_02
+	local_supplies=0.000
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=878
+	name="STATE_878"
+	resources={
+		oil=4.000
+	}
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			4473 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex  = 1
+
+		}
+		add_core_of = AZR
+		add_core_of = TLY
+
+	}
+
+	provinces={
+		4473 12434 14836 
+	}
+	manpower=190000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

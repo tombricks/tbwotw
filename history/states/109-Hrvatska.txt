@@ -1,0 +1,39 @@
+
+state={
+	id=109
+	name="STATE_109"
+
+	history={
+		owner = YUG
+
+		add_core_of = YUG
+		victory_points = {
+			11581 10
+		}
+		victory_points = {
+			3592 1
+		}
+		victory_points = {
+			14462 1
+		}
+		victory_points = {
+			11594 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 1
+			air_base = 2
+
+		}
+		add_core_of = CRO
+
+	}
+
+	provinces={
+		624 3592 3596 9611 11581 11594 13258 14460 14462 
+	}
+	manpower=2418214
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

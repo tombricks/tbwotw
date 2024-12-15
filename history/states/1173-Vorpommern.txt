@@ -1,0 +1,39 @@
+state={
+	id=1173
+	name="STATE_1173"
+
+	history={
+		owner = DDR
+		victory_points = {
+			9388 2
+		}
+		victory_points = {
+			13291 1
+		}
+		victory_points = {
+			14368 1
+		}
+		victory_points = {
+			3340 1
+		}
+		buildings = {
+			infrastructure = 3
+			9388 = {
+				naval_base = 1
+				
+			}
+
+		}
+		add_core_of = DDR
+		add_core_of = WGR
+
+	}
+
+	provinces={
+		349 3340 9388 13291 14368 
+	}
+	manpower=461156
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

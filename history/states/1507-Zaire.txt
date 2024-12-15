@@ -1,0 +1,15 @@
+state={
+	id=1507
+	name="STATE_1507"
+	provinces={
+		16024 16025 16202 16306 16308 16313 
+	}
+	history={
+		owner = POR
+		add_core_of = ANG
+	}
+	manpower=421032
+	buildings_max_level_factor=1.000
+	state_category=state_01
+	local_supplies=0.000
+}

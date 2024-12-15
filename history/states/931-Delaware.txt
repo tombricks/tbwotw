@@ -1,0 +1,28 @@
+
+state={
+	id=931
+	name="STATE_931"
+
+	history={
+		owner = USA
+		add_core_of = USA
+		victory_points = {
+			13637 1
+		}
+		victory_points = {
+			9786 2 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+		}
+
+	}
+
+	provinces={
+		9786 13637 
+	}
+	manpower=967171
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

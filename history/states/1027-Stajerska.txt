@@ -1,0 +1,32 @@
+
+state={
+	id=1027
+	name="STATE_1027"
+
+	history={
+		owner = YUG
+
+		add_core_of = YUG
+		victory_points = {
+			665 2
+		}
+		victory_points = {
+			3654 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 1
+			air_base = 3 #Cerklje ob Krki Airport
+		}
+		add_core_of = SLV
+
+	}
+
+	provinces={
+		596 665 3654 
+	}
+	manpower=705000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

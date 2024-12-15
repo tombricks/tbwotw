@@ -1,0 +1,37 @@
+
+state={
+	id=974
+	name="STATE_974"
+
+	history={
+		owner = KOR
+		victory_points = {
+			10065 3
+		}
+		victory_points = {
+			4107 2
+		}
+		victory_points = {
+			12040 2
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory  = 2
+			12040 = {
+				bunker = 5
+
+			}
+
+		}
+		add_core_of = KOR
+		add_core_of = KOR
+
+	}
+
+	provinces={
+		1003 4107 7070 7155 10065 11915 12040 13403 
+	}
+	manpower=4424157
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

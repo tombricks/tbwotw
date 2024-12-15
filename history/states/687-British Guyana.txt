@@ -1,31 +1,32 @@
+
 state={
 	id=687
 	name="STATE_687"
-	manpower = 309000
-	
-	state_category = pastoral
-	
-	resources={
-		aluminium=64 # was: 112
-	}
 
 	history={
-		add_core_of = GYA
 		owner = GYA
-		victory_points = {
-			4982 1
-		}
+		add_core_of = GYA
 		buildings = {
-			infrastructure = 1
+			infrastructure = 3
+			industrial_complex  = 3
+			arms_factory  = 1
 			4982 = {
 				naval_base = 1
+
 			}
+
 		}
-	}
-	
-	provinces={
-		4982 8107 12716 
+		victory_points = {
+			4982 2 
+		}
+
 	}
 
-	local_supplies=5.0 
+	provinces={
+		4982 8107 15720 
+	}
+	manpower=730250
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

@@ -1,0 +1,50 @@
+
+state={
+	id=981
+	name="STATE_981"
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			310 2 
+		}
+		victory_points = {
+			341 1 
+		}
+		victory_points = {
+			7482 1 
+		}
+		buildings = {
+			infrastructure = 2
+			222 = {
+				bunker = 2
+
+			}
+			319 = {
+				bunker = 2
+
+			}
+			9275 = {
+				bunker = 2
+
+			}
+			6459 = {
+				bunker = 2
+
+			}
+
+		}
+		add_core_of = LAT
+
+	}
+
+	provinces={
+		222 310 319 341 6459 7482 9275 
+	}
+	manpower=301593
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

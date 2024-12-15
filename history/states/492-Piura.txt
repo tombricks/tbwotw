@@ -1,46 +1,39 @@
-state = {
-	id = 492
-	name = "STATE_492"
-	manpower = 1601278
 
-	resources = {
-		tungsten = 6
+state={
+	id=492
+	name="STATE_492"
+	resources={
+		tungsten=3.000
 	}
-	
-	state_category = rural
 
-	history = {
-
+	history={
 		owner = PRU
-		add_core_of = PRU
-
+		victory_points = {
+			13718 5
+		}
+		victory_points = {
+			13725 2
+		}
+		victory_points = {
+			5202 2
+		}
+		victory_points = {
+			2212 1
+		}
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
+			industrial_complex  = 1
 			air_base = 1
-			13288 = {
-				naval_base = 1
-			}
-		}
-		
-		victory_points = {
-			2210 5 
-		}
 
-		victory_points = {
-			13288 1
 		}
-
-		victory_points = {
-			13286 1
-		}
+		add_core_of = PRU
 
 	}
 
-	provinces = {
-		2182 2210 2225 5202 12953 13175 13286 13288
+	provinces={
+		2210 2212 2225 5202 10940 12953 13718 13721 13722 13724 13725 
 	}
-	
-	buildings_max_level_factor = 1.000
-	local_supplies = 0.0 
+	manpower=3603069
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

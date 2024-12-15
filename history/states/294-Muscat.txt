@@ -1,0 +1,56 @@
+
+state={
+	id=294
+	name="STATE_294"
+	resources={
+		aluminium=8.000
+		chromium=13.000
+		oil=101.000
+	}
+
+	history={
+		owner = OMA
+		victory_points = {
+			10760 10
+		}
+		victory_points = {
+			14103 2 
+		}
+		victory_points = {
+			14102 2 
+		}
+		victory_points = {
+			14100 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex  = 5
+			arms_factory  = 1
+			dockyard = 1
+			air_base = 4
+			10760 = {
+				naval_base = 3
+
+			}
+			14103 = {
+				naval_base = 1
+
+			}
+			14100 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = OMA
+
+	}
+
+	provinces={
+		4262 4993 5049 8020 10760 14099 14100 14101 14102 14103 
+	}
+	manpower=4368710
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

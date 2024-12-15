@@ -1,0 +1,99 @@
+
+state={
+	id=973
+	name="STATE_973"
+
+	history={
+		owner = SUD
+		victory_points = { 
+			13443 2
+		}
+		victory_points = { 
+			14092 2
+		}
+		victory_points = { 
+			13434 1
+		}
+		victory_points = { 
+			12800 1
+		}
+		victory_points = { 
+			14091 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory  = 1
+			13437 = {
+				bunker = 3
+
+			}
+			13439 = {
+				bunker = 3
+
+			}
+			10877 = {
+				bunker = 3
+
+			}
+			14092 = {
+				bunker = 4
+
+			}
+			13428 = {
+				bunker = 3
+
+			}
+			13420 = {
+				bunker = 3
+
+			}
+			14091 = {
+				bunker = 3
+
+			}
+			13427 = {
+				bunker = 2
+
+			}
+			13424 = {
+				bunker = 2
+
+			}
+			13416 = {
+				bunker = 2
+
+			}
+			13433 = {
+				bunker = 2
+
+			}
+			4033 = {
+				bunker = 2
+
+			}
+			13445 = {
+				bunker = 2
+
+			}
+			13443 = {
+				bunker = 2
+
+			}
+			13450 = {
+				bunker = 2
+
+			}
+
+		}
+		add_core_of = SUD
+
+	}
+
+	provinces={
+		4033 10877 12744 12800 12887 13414 13416 13417 13420 13422 13424 13427 13428 13433 13434 13437 13439 13441 13443 13445 13450 14091 14092 
+	}
+	manpower=4119700
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

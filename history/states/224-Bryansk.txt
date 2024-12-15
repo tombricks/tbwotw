@@ -2,18 +2,32 @@
 state={
 	id=224
 	name="STATE_224"
-	manpower = 1707567
+	manpower = 4017567
 	
-	state_category = town
+	state_category = state_default
 
 	history={
 		owner = SOV
 		victory_points = {
-			3335 10
+			3335 5
+		}
+		victory_points = {
+			11325 1
+		}
+		victory_points = {
+			11298 1
+		}
+		victory_points = {
+			3226 1
+		}
+		victory_points = {
+			6386 1
 		}
 		buildings = {
-			infrastructure = 3 #was: 5
+			infrastructure = 3
 			air_base = 2
+			industrial_complex  = 2
+			arms_factory  = 1
 		}
 		add_core_of = SOV
 	}
@@ -21,6 +35,4 @@ state={
 	provinces={
 		288 315 343 371 398 3226 3306 3335 3364 3390 6305 6330 6386 6411 11229 11298 11325 
 	}
-
-	local_supplies=0.0 
 }

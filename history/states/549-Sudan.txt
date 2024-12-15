@@ -1,28 +1,27 @@
 
 state={
 	id=549
-	name="STATE_549" #Kurdufan / was "Sudan"
-	
-	manpower = 1802132
+	name="STATE_549"
+	resources={
+		chromium=6.000
+		oil=13.000
+	}
 
-	history = {
-		victory_points = {
-			2096 1 
-		}
+	history={
 		owner = SUD
 		add_core_of = SUD
 		buildings = {
 			infrastructure = 2
+			air_base = 1
 
 		}
 
 	}
 
 	provinces={
-		2016 4033 8052 8084 10739 10795 10827 10851 12744 
+		2016 4961 7925 8084 10827 10851 13449 13451 13454 13458 
 	}
-
+	manpower=10194293
 	buildings_max_level_factor=1.000
-	state_category=rural
-	local_supplies=0.000
+	state_category=state_default
 }

@@ -2,19 +2,17 @@ state={
 	id=730
 	name="STATE_730"
 	manpower=3426
-	state_category = tiny_island
+	state_category=state_default
 
 	history={
 		owner = FRA
+		add_core_of = FRA
 		buildings = {
 			infrastructure = 2
-			373 = {
-				naval_base = 1
-			}
+			373 = { naval_base = 1 }
 		}
+		victory_points = { 373 2 }		#St Pierre
 	}
 	
-	provinces={ 373 }
-
-	local_supplies=0.0 
+	provinces = { 373 }
 }

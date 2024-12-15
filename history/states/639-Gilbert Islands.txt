@@ -1,0 +1,22 @@
+
+state={
+	id=639
+	name="STATE_639"
+	manpower=40035
+	state_category = state_default
+
+	history={
+		owner = USA
+		victory_points = { 13021 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+			13021 = { naval_base = 1 }
+		}
+		add_core_of = USA
+	}
+
+	provinces={
+		4387 7393 13020 13021 13022 
+	}
+}

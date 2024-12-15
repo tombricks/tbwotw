@@ -1,0 +1,60 @@
+
+state={
+	id=111
+	name="STATE_111"
+	resources={
+		steel=26.000
+	}
+
+	history={
+		owner = FIN
+		victory_points = {
+			3083 20 
+		}
+		victory_points = {
+			11105 25 
+		}
+		victory_points = {
+			67 1 
+		}
+		victory_points = {
+			11056 1 
+		}
+		victory_points = {
+			6066 1 
+		}
+		victory_points = {
+			6082 1 
+		}
+		victory_points = {
+			11066 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 4
+			arms_factory  = 1
+			dockyard = 1
+			air_base = 6
+			11105 = {
+				naval_base = 6
+				coastal_bunker = 2
+
+			}
+			3083 = {
+				naval_base = 3
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = FIN
+
+	}
+
+	provinces={
+		204 3061 3083 3161 6009 6066 6108 6144 9094 9129 9183 9194 11105 11172 11211 13101 13102 
+	}
+	manpower=3670190
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

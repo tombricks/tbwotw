@@ -1,0 +1,37 @@
+
+state={
+	id=60
+	name="STATE_60"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = DDR
+		victory_points = {
+			6524 3 
+		}
+		victory_points = {
+			538 2 
+		}
+		victory_points = {
+			6501 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 1
+			air_base = 2
+
+		}
+		add_core_of = DDR
+		add_core_of = WGR
+
+	}
+
+	provinces={
+		425 482 538 3500 3561 6501 6524 9497 13116 
+	}
+	manpower=2151214
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

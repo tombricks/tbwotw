@@ -1,35 +1,41 @@
 
-state = {
-	id = 505
-	name = "STATE_505"
-	manpower = 1662200
-	
-	state_category = rural
-
-	resources = {
-		aluminium = 3
-		chromium = 3
+state={
+	id=505
+	name="STATE_505"
+	resources={
+		aluminium=11.000
+		steel=24.000
 	}
 
-	history = {
-
+	history={
 		owner = BRA
+		victory_points = {
+			15506 10
+		}
+		victory_points = {
+			5115 2
+		}
+		victory_points = {
+			15507 2
+		}
+		victory_points = {
+			15510 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 2
+			air_base = 3
+
+		}
 		add_core_of = BRA
 
-		buildings = {
-			infrastructure = 1
-		}
-
-		victory_points = {
-			12987 3 
-		}
-
 	}
 
-	provinces = {
-		5115 5148 5208 8140 12959 12987 
+	provinces={
+		5115 5208 8140 12959 12987 15502 15504 15506 15507 15509 15510 15513 
 	}
-
-	buildings_max_level_factor = 1.000
-	local_supplies = 0.0 
+	manpower=9791916
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

@@ -1,0 +1,22 @@
+
+state={
+	id=1046
+	name="STATE_1046"
+	resources={
+		tungsten=10.000
+	}
+
+	history={
+		owner = COG
+		
+		add_core_of = COG
+	}
+
+	provinces={
+		1950 7219 8054 10968 13848 13861 15940 15957 16000 16021 16036 16080 16119 16124 16180 16265 16269 16400 
+	}
+	manpower=1680673
+	buildings_max_level_factor=1.000
+	state_category=state_03
+	local_supplies=0.000
+}

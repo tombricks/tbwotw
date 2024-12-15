@@ -1,0 +1,43 @@
+
+state={
+	id=226
+	name="STATE_226"
+	resources={
+		aluminium=6.000
+		steel=65.000
+	}
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			11437 10 
+		}
+		victory_points = {
+			11561 5
+		}
+		victory_points = {
+			11422 2
+		}
+		victory_points = {
+			11452 2
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex  = 1
+
+		}
+		add_core_of = UKR
+
+	}
+
+	provinces={
+		453 472 486 6423 9419 9433 9463 9479 11422 11437 11452 11561 
+	}
+	manpower=2900300
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

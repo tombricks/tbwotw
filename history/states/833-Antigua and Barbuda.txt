@@ -1,0 +1,30 @@
+
+state={
+	id=833
+	name="STATE_833"
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 3
+			13598 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			13598 1 
+		}
+
+	}
+
+	provinces={
+		13598 
+	}
+	manpower=100963
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

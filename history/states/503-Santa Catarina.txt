@@ -1,33 +1,39 @@
 
-state = {
-	id = 503
-	name = "STATE_503"
-	manpower = 961350 # Was split with Parana from 1922700
-	
-	state_category = rural
+state={
+	id=503
+	name="STATE_503"
+	resources={
+		steel=47.000
+	}
 
-	history = {
-
+	history={
 		owner = BRA
+		victory_points = {
+			10405 5
+		}
+		victory_points = {
+			12466 2
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+			industrial_complex  = 3
+			arms_factory  = 1
+			10405 = {
+				naval_base = 3
+
+			}
+
+		}
 		add_core_of = BRA
 
-		buildings = {
-			infrastructure = 2 #was: 5, then 3
-		}
-
-		victory_points = {
-			4548 2 
-		}
-
-		victory_points = {
-			10405 1 
-		}
-		
 	}
 
-	provinces = {
-		1529 4548 10405 12466 
+	provinces={
+		1529 4533 4548 10405 12466 
 	}
-
-	local_supplies = 0.0 
+	manpower=6727000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

@@ -1,0 +1,39 @@
+
+state={
+	id=888
+	name="STATE_888"
+	resources={
+		aluminium=25.000
+	}
+
+	history={
+		owner = SYE
+		victory_points = {
+			13482 5 
+		}
+		victory_points = {
+			14123 1
+		}
+		victory_points = {
+			12894 1
+		}
+		buildings = {
+			infrastructure = 2
+			13482 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = SYE
+
+	}
+
+	provinces={
+		2029 4976 12894 13328 13482 13485 14119 14121 14123 14126 14129 14132 14133 14134 14135 
+	}
+	manpower=1255000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

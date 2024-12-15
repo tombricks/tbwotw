@@ -1,0 +1,22 @@
+
+state={
+	id=599
+	name="STATE_599"
+
+	history={
+		owner = CHI
+		buildings = {
+			air_base = 1
+
+		}
+		add_claim_by = PRC
+
+	}
+
+	provinces={
+		13605 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=296
+	name="STATE_296"
+
+	history={
+		owner = GNB
+		victory_points = {
+			12891 5 
+		}
+		victory_points = {
+			15765 1 
+		}
+		victory_points = {
+			13336 1 
+		}
+		victory_points = {
+			12747 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 3
+			12891 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = GNB
+
+	}
+
+	provinces={
+		12747 12891 13336 15765 
+	}
+	manpower=1640000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

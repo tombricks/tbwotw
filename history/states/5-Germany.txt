@@ -2,27 +2,52 @@
 state={
 	id=5
 	name="STATE_5"
-	manpower = 1238108
-	state_category = town
+	resources={
+		steel=3.000
+	}
 
 	history={
-		victory_points = {
-			6375 3
-		}
-		#victory_points = {
-		#	11386 1
-		#}
 		owner = POL
-		
+		victory_points = {
+			6375 2 
+		}
+		victory_points = {
+			6402 1
+		}
 		buildings = {
 			infrastructure = 3
+			industrial_complex  = 1
+			air_base = 2
+			9327 = {
+				bunker = 1
+
+			}
+			266 = {
+				bunker = 1
+
+			}
+			9398 = {
+				bunker = 1
+
+			}
+			11245 = {
+				bunker = 1
+
+			}
+			6402 = {
+				bunker = 1
+
+			}
+
 		}
 		add_core_of = POL
+
 	}
 
 	provinces={
-		266 3351 3380 6375 6402 9327 9346 9372 9398 11245 11386 
+		266 3351 6375 6402 9327 9346 9372 9398 11245 11386 
 	}
-
-	local_supplies=12.0 
+	manpower=1443967
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

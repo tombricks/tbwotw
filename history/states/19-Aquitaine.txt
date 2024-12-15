@@ -3,8 +3,7 @@ state={
 	id=19
 	name="STATE_19"
 	resources={
-		steel=14 #was 25
-		aluminium=11
+		steel=12.000
 	}
 
 	history={
@@ -14,27 +13,24 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			arms_factory = 1
+			industrial_complex  = 1
 			dockyard = 1
+			synthetic_refinery = 1
 			air_base = 3
 			9737 = {
 				naval_base = 3
-				coastal_bunker = 1
 
 			}
 
 		}
-		add_core_of = OCC
 		add_core_of = FRA
 
 	}
 
 	provinces={
-		6621 6762 6777 9737 11565 
+		743 3598 6621 6762 6775 6777 6792 9710 9717 9734 9737 9751 11565 11720 
 	}
-	manpower=1140400
+	manpower=5979778
 	buildings_max_level_factor=1.000
-	state_category=city
-
-	local_supplies=0.0 
+	state_category=state_default
 }

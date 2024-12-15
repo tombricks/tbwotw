@@ -1,0 +1,27 @@
+
+state={
+	id=744
+	name="STATE_744"
+
+	history={
+		owner = MAL
+		victory_points = {
+			15768 2
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory  = 1
+
+		}
+		add_core_of = MAL
+
+	}
+
+	provinces={
+		12794 15766 15767 15768 15769 
+	}
+	manpower=2625919
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

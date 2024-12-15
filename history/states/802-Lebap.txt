@@ -1,0 +1,35 @@
+
+state={
+	id=802
+	name="STATE_802"
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			12161 5
+		}
+		victory_points = {
+			756 1 
+		}
+		victory_points = {
+			14343 1 
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+
+		}
+		add_core_of = TMS
+
+	}
+
+	provinces={
+		756 1632 1649 4549 7924 9605 10742 12161 12465 14343 14345 14348 14349 14350 
+	}
+	manpower=1200000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

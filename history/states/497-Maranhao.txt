@@ -1,35 +1,42 @@
 
-state = {
-	id = 497
-	name = "STATE_497"
-	manpower = 575050 # was 2950100, then 1150100
-	
-	state_category = pastoral # Was rural
-	
-	resources = {
-		rubber = 13 # was: 30, then 23
+state={
+	id=497
+	name="STATE_497"
+	resources={
+		oil=32.000
+		steel=26.000
 	}
 
-	history = {
-
+	history={
 		owner = BRA
+		victory_points = {
+			12933 5
+		}
+		victory_points = {
+			12913 2
+		}
+		victory_points = {
+			15567 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+			air_base = 1
+			12933 = {
+				naval_base = 4
+
+			}
+
+		}
 		add_core_of = BRA
 
-		buildings = {
-			infrastructure = 1
-			#industrial_complex = 1 Should probably not have this factory
-			air_base = 1
-		}
-
-		victory_points = {
-			12933 2 
-		}
-
 	}
 
-	provinces = {
-		2150 5220 12913 12933 12947
+	provinces={
+		2150 5220 12913 12933 12947 15543 15547 15565 15567 15568 15573 
 	}
-
-	local_supplies = 0.0 
+	manpower=10950100
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

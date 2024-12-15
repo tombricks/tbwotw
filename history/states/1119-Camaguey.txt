@@ -1,0 +1,31 @@
+state={
+	id=1119
+	name="STATE_1119"
+
+	history={
+		owner = CUB
+		victory_points = { 
+			4476 3
+		}
+		victory_points = { 
+			7546 2
+		}
+		victory_points = { 
+			14047 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CUB
+
+	}
+
+	provinces={
+		4476 7546 14047 
+	}
+	manpower=1205034
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

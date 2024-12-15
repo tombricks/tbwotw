@@ -1,0 +1,76 @@
+
+state={
+	id=554
+	name="STATE_554"
+
+	history={
+		owner = SYR
+		victory_points = {
+			4111 15
+		}
+		victory_points = {
+			13306 1 
+		}
+		victory_points = {
+			13281 2 
+		}
+		victory_points = {
+			13367 1 
+		}
+		victory_points = {
+			14139 1
+		}
+		victory_points = {
+			14140 1
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 8
+			arms_factory  = 1
+			industrial_complex  = 1
+			13281 = {
+				bunker = 5
+
+			}
+			4111 = {
+				bunker = 6
+
+			}
+			14139 = {
+				bunker = 4
+
+			}
+			14140 = {
+				bunker = 4
+
+			}
+			13294 = {
+				bunker = 2
+
+			}
+			14138 = {
+				bunker = 2
+
+			}
+			13306 = {
+				bunker = 2
+
+			}
+			7184 = {
+				bunker = 2
+
+			}
+
+		}
+		add_core_of = SYR
+
+	}
+
+	provinces={
+		4111 7184 13281 13294 13302 13303 13306 13367 14138 14139 14140 
+	}
+	manpower=1711000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

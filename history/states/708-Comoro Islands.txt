@@ -1,24 +1,31 @@
+
 state={
 	id=708
 	name="STATE_708"
-	manpower = 126703
-
-	state_category = small_island
 
 	history={
-		owner = MAD
-		add_core_of = MAD
+		owner = COM
 		buildings = {
 			infrastructure = 2
+			industrial_complex  = 2
+			air_base = 1
 			13072 = {
 				naval_base = 1
+
 			}
+
 		}
+		victory_points = {
+			13072 2 
+		}
+
 	}
 
 	provinces={
-		13072 
+		11909 13072 14672 
 	}
-
-	local_supplies=0.0 
+	manpower=785000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

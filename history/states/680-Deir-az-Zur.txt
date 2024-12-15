@@ -1,32 +1,35 @@
+
 state={
 	id=680
 	name="STATE_680"
-	manpower = 324110
-	
-	state_category = wasteland
+	resources={
+		oil=2.000
+	}
 
 	history={
 		owner = SYR
 		victory_points = {
-			3942 1
+			2013 5 
 		}
 		victory_points = {
-			1549 1
+			13277 1 
 		}
 		victory_points = {
-			6883 1
+			13276 1 
 		}
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
+			air_base = 4
+
 		}
 		add_core_of = SYR
-		add_core_of = KUR
-	}
 
+	}
 
 	provinces={
-		901 1549 1578 1606 1634 2013 3942 6883 7513 10383 10882 12316 12442 
+		2013 13276 13277 
 	}
-
-	local_supplies=4.0 
+	manpower=1239000
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

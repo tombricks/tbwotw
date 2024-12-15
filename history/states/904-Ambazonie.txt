@@ -1,0 +1,33 @@
+
+state={
+	id=904
+	name="STATE_904"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = CAM
+		victory_points = {
+			10831 3
+		}
+		victory_points = {
+			13507 2
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = CAM
+		add_core_of = AMB
+
+	}
+
+	provinces={
+		10831 13507 14519 
+	}
+	manpower=5000000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

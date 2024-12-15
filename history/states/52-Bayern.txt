@@ -1,0 +1,51 @@
+
+state={
+	id=52
+	name="STATE_52"
+	resources={
+		steel=22.000
+	}
+
+	history={
+		owner = WGR
+		victory_points = {
+			692 25 
+		}
+		victory_points = {
+			708 3 
+		}
+		victory_points = {
+			9515 2 
+		}
+		victory_points = {
+			3299 2 
+		}
+		victory_points = {
+			9652 1
+		}
+		victory_points = {
+			707 1
+		}
+		victory_points = {
+			9681 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 5
+			arms_factory  = 2
+			air_base = 8
+
+		}
+		add_core_of = WGR
+		add_core_of = DDR
+
+	}
+
+	provinces={
+		532 571 586 692 707 708 3299 3541 3571 3688 3690 3705 6540 6693 6725 9515 9652 9666 9681 11497 11620 11638 11653 
+	}
+	manpower=9527204
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

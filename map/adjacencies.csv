@@ -1,0 +1,364 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+7567;12910;sea;5771;-1;-1;-1;-1;;Adelaide-Kangaroo Island
+13639;14574;sea;2871;-1;-1;-1;-1;;Alderney-Guernsey
+1135;13090;sea;6471;-1;-1;-1;-1;;Amlia-Unalaska
+10321;12251;sea;8313;-1;-1;-1;-1;;Andaman
+1751;13885;sea;8453;-1;-1;-1;-1;;Azores
+1216;10826;impassable;-1;-1;-1;-1;-1;;Badakhshan-Nuristan Border Mountains
+1216;15194;impassable;-1;-1;-1;-1;-1;;Badakhshan-Nuristan Border Mountains
+15015;15032;sea;8713;-1;-1;-1;-1;;Baffin Island-Devon Island
+1513;7245;sea;7910;-1;-1;-1;-1;;Bahamas 1
+7245;10254;sea;7910;-1;-1;-1;-1;;Bahamas 2
+4647;7245;sea;7910;-1;-1;-1;-1;;Bahamas 3
+9845;14073;sea;8871;-1;-1;-1;-1;;Balearic Islands 1
+7114;9793;sea;8845;-1;-1;-1;-1;;Balearic Islands 2
+4273;7293;sea;2239;-1;-1;-1;-1;;Bali-Lombok
+1401;7396;sea;5615;-1;-1;-1;-1;;Bangka Belitung-Sumatra
+4211;7396;sea;4225;-1;-1;-1;-1;;Bangka-Belitung
+10219;15306;sea;5462;-1;-1;-1;-1;;Barat Daya Islands
+4579;15306;sea;5290;-1;-1;-1;-1;;Barat Daya Islands
+198;11047;sea;8370;-1;-1;-1;-1;;Barents-Strait
+7385;12153;sea;8751;-1;-1;-1;-1;;Bohol-Cebu
+4269;7385;sea;8751;-1;-1;-1;-1;;Bohol-Leyte
+9833;11829;sea;5412;-1;-1;-1;-1;;Bosphorus
+7387;14200;sea;2857;-1;-1;-1;-1;;Brunei
+3701;15912;sea;8131;-1;-1;-1;-1;;Budjak-Snake Island
+1574;7557;sea;5390;-1;-1;-1;-1;;Buru-Seram
+4159;9990;sea;5681;-1;-1;-1;-1;;Calabria-Sicily
+7810;12698;sea;8668;-1;-1;-1;-1;;Canada-Newfoundland
+13071;13886;sea;210;-1;-1;-1;-1;;Canary Islands
+13027;13029;sea;2735;-1;-1;-1;-1;;Caroline Islands 1
+2489;13034;sea;2263;-1;-1;-1;-1;;Caroline Islands 10
+13028;13029;sea;4235;-1;-1;-1;-1;;Caroline Islands 2
+13027;13030;sea;2735;-1;-1;-1;-1;;Caroline Islands 3
+2489;13033;sea;7918;-1;-1;-1;-1;;Caroline Islands 4
+13030;13035;sea;2711;-1;-1;-1;-1;;Caroline Islands 5
+13031;13035;sea;2711;-1;-1;-1;-1;;Caroline Islands 6
+13034;13036;sea;2339;-1;-1;-1;-1;;Caroline Islands 7
+13031;13032;sea;2121;-1;-1;-1;-1;;Caroline Islands 8
+13032;13033;sea;2121;-1;-1;-1;-1;;Caroline Islands 9
+9632;14005;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+3711;6763;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+3667;14006;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+6674;14008;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+9628;14005;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+9632;14007;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+672;11664;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+6674;14007;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+1450;6763;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+11664;14008;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+11609;14006;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+7554;14006;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+672;6692;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+6436;7554;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+6763;7554;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+11609;14005;impassable;-1;-1;-1;-1;-1;;Caucasus Mountains
+13499;13762;sea;5735;-1;-1;-1;-1;;Cayman Islands
+14186;14188;sea;7226;-1;-1;-1;-1;;Chios-Ikaria
+14188;14189;sea;7452;-1;-1;-1;-1;;Chios-Lesbos
+4112;14188;sea;7226;-1;-1;-1;-1;;Chios-Turkey
+4252;12265;sea;5868;-1;-1;-1;-1;;Choiseul-Santa Isabel
+10288;12246;sea;5513;-1;-1;-1;-1;;Cobourg-Australia
+11909;13259;sea;2605;-1;-1;-1;-1;;Comoro Islands
+11909;14672;sea;2605;-1;-1;-1;-1;;Comoro Islands
+13072;14672;sea;2605;-1;-1;-1;-1;;Comoro Islands
+9805;10203;sea;5864;-1;-1;-1;-1;;Corfu-Epirus
+14457;14458;sea;5786;-1;-1;-1;-1;;Croatia-Krk
+14451;14452;sea;5838;-1;-1;-1;-1;;Croatia-Southern Dalmatian Archipelago
+4600;13282;sea;5735;-1;-1;-1;-1;;Cuba-Juventud
+153;13609;sea;2571;-1;-1;-1;-1;;Curacao-Aruba
+153;13608;sea;2571;-1;-1;-1;-1;;Curacao-Bonaire
+3401;14185;sea;6801;-1;-1;-1;-1;;Cyclades
+3401;7127;sea;6801;-1;-1;-1;-1;;Cyclades-Greece
+83;6201;sea;1660;-1;-1;-1;-1;;Dagö-Estonia
+15016;15035;sea;443;-1;-1;-1;-1;;Devon Island-Somerset Island
+7123;9377;sea;5533;-1;-1;-1;-1;;Dominica-Guadeloupe
+1298;12219;sea;2124;-1;-1;-1;-1;;East Nusa Tenggara-Sumba
+11833;13758;sea;5579;-1;-1;-1;-1;;Elba-Italy
+15032;15043;sea;8713;-1;-1;-1;-1;;Ellesmere Island-Devon Island
+6489;14565;sea;2977;-1;-1;-1;-1;;England-Isle of Wight
+9458;14565;sea;2977;-1;-1;-1;-1;;England-Isle of Wight
+15826;15830;sea;2800;-1;-1;-1;-1;;Eritrea-Dakhla
+83;185;sea;1885;-1;-1;-1;-1;;Estonia-Ösel
+12960;13775;sea;2580;-1;-1;-1;-1;;Falklands
+4286;12159;sea;8289;-1;-1;-1;-1;;Fiji-Sanua Levu
+13616;14023;sea;8622;-1;-1;-1;-1;;Flevoland-Noordoostpolder
+6241;13616;sea;8622;-1;-1;-1;-1;;Flevoland-Utrecht
+14854;14855;sea;7006;-1;-1;-1;-1;;Florida Keys
+14999;15009;sea;9077;-1;-1;-1;-1;;Fury and Hecla Strait
+3277;14693;sea;14687;-1;-1;-1;-1;;Fyn-Jylland
+3374;14689;sea;14687;-1;-1;-1;-1;;Fyn-Nordslesvig
+332;14693;sea;14687;-1;-1;-1;-1;;Fyn-Nordslesvig
+3325;14697;sea;14695;-1;-1;-1;-1;;Fyn-Samsø
+11366;13875;sea;2729;-1;-1;-1;-1;;Germany-North Frisian Islands
+4387;13022;sea;8547;-1;-1;-1;-1;;Gilbert Islands 1
+13020;13022;sea;8570;-1;-1;-1;-1;;Gilbert Islands 2
+4387;13021;sea;8570;-1;-1;-1;-1;;Gilbert Islands 3
+7393;13021;sea;8673;-1;-1;-1;-1;;Gilbert Islands 4
+379;11106;sea;2597;-1;-1;-1;-1;;Grenada-St Vincent
+1269;14401;sea;5868;-1;-1;-1;-1;;Guadalcanal-Central Islands
+9377;13597;sea;2887;-1;-1;-1;-1;;Guadeloupe-Montserrat
+1070;4160;sea;5244;-1;-1;-1;-1;;Hainan-Strait
+7195;10048;sea;5339;-1;-1;-1;-1;;Hawaii 1
+4180;7195;sea;5339;-1;-1;-1;-1;;Hawaii 2
+4180;7112;sea;5627;-1;-1;-1;-1;;Hawaii 3
+6345;14698;sea;2431;-1;-1;-1;-1;;Helsingör-Helsingborg
+7423;15371;sea;2876;-1;-1;-1;-1;;Iloilo-Romblon
+1345;13603;sea;5960;-1;-1;-1;-1;;Indonesia-Riau Islands
+14021;14022;sea;2824;-1;-1;-1;-1;;Inner Hebrides
+6062;14022;sea;3590;-1;-1;-1;-1;;Inner Hebrides-Outer Hebrides
+3373;14021;sea;2824;-1;-1;-1;-1;;Inner Hebrides-Scotland
+11266;14021;sea;2824;-1;-1;-1;-1;;Inner Hebrides-Scotland
+1025;11985;sea;7932;-1;-1;-1;-1;;Japan-Kyushu
+4273;7654;sea;2239;-1;-1;-1;-1;;Java-Bali
+1342;10279;sea;2737;-1;-1;-1;-1;;Java-Sumatra
+13638;13639;sea;2871;-1;-1;-1;-1;;Jersey-Guernsey
+10313;12113;sea;5960;-1;-1;-1;-1;;Johor-Riau Islands
+4424;12299;sea;5960;-1;-1;-1;-1;;Johor-Singapore
+14701;14704;sea;2431;-1;-1;-1;-1;;Jylland-Anholt
+394;14706;sea;2431;-1;-1;-1;-1;;Jylland-Læsø
+6364;14697;sea;14695;-1;-1;-1;-1;;Jylland-Samsø
+4198;12032;sea;8472;-1;-1;-1;-1;;Kanoya-Yokushima
+12754;12822;impassable;-1;-1;-1;-1;-1;;Kashmir
+10905;12822;impassable;-1;-1;-1;-1;-1;;Kashmir
+10887;10905;impassable;-1;-1;-1;-1;-1;;Kashmir
+13989;13992;impassable;-1;-1;-1;-1;-1;;Kashmir
+13989;13990;impassable;-1;-1;-1;-1;-1;;Kashmir
+13313;13990;impassable;-1;-1;-1;-1;-1;;Kashmir
+2084;4558;impassable;-1;-1;-1;-1;-1;;Kashmir
+2041;13989;impassable;-1;-1;-1;-1;-1;;Kashmir
+10905;13313;impassable;-1;-1;-1;-1;-1;;Kashmir
+1910;2041;impassable;-1;-1;-1;-1;-1;;Kashmir
+2084;14559;impassable;-1;-1;-1;-1;-1;;Kashmir
+6741;9680;sea;8282;-1;-1;-1;-1;;Kerch Strait
+10577;15085;sea;5321;-1;-1;-1;-1;;Khabarovsk-Shantar Islands
+7071;13338;sea;5345;-1;-1;-1;-1;;Kinmen-Fuijan
+7884;12661;sea;8538;-1;-1;-1;-1;;Kodiak-Alaska
+7003;9941;sea;7226;-1;-1;-1;-1;;Kos-Bodrum
+1399;1515;sea;220;-1;-1;-1;-1;;Kurils 1
+1515;13037;sea;5614;-1;-1;-1;-1;;Kurils 2
+4646;13037;sea;4465;-1;-1;-1;-1;;Kurils-Hokkaido
+7046;10092;sea;8791;-1;-1;-1;-1;;Kyushu-Shikoku
+1426;14958;sea;5977;-1;-1;-1;-1;;Labrador-Nunavut
+1106;12001;sea;5913;-1;-1;-1;-1;;Lefkada-Epirus
+6864;14189;sea;7452;-1;-1;-1;-1;;Lesbos-Turkey
+3305;14688;sea;2408;-1;-1;-1;-1;;Lolland-Falster
+3305;3374;sea;2408;-1;-1;-1;-1;;Lolland-Fyn
+7293;10191;sea;2239;-1;-1;-1;-1;;Lombok-W.Nusa Tenggara
+4101;15375;sea;8676;-1;-1;-1;-1;;Luzon-Batanes
+10306;15372;sea;2876;-1;-1;-1;-1;;Luzon-Marinduque
+4189;10062;sea;5269;-1;-1;-1;-1;;Macao-Hong Kong
+1085;14401;sea;5868;-1;-1;-1;-1;;Malaita-Central Islands
+761;14933;sea;9092;-1;-1;-1;-1;;Manitoba-Akimiski
+1944;5088;sea;2232;-1;-1;-1;-1;;Maracaibo
+12140;13024;sea;2783;-1;-1;-1;-1;;Mariana Islands 1
+13023;13024;sea;2806;-1;-1;-1;-1;;Mariana Islands 2
+3995;13023;sea;2806;-1;-1;-1;-1;;Mariana Islands 3
+13041;13044;sea;7287;-1;-1;-1;-1;;Marshall Islands 1
+13042;13043;sea;2414;-1;-1;-1;-1;;Marshall Islands 2
+13040;13042;sea;8699;-1;-1;-1;-1;;Marshall Islands 3
+13043;13044;sea;2414;-1;-1;-1;-1;;Marshall Islands 4
+13039;13041;sea;8750;-1;-1;-1;-1;;Marshall Islands 5
+13045;13046;sea;7062;-1;-1;-1;-1;;Marshall Islands 6
+1002;13045;sea;2438;-1;-1;-1;-1;;Marshall Islands 7
+1002;13044;sea;2438;-1;-1;-1;-1;;Marshall Islands 8
+13039;13040;sea;8699;-1;-1;-1;-1;;Marshall Islands 9
+177;7123;sea;5533;-1;-1;-1;-1;;Martinique-Dominica
+4196;13339;sea;8371;-1;-1;-1;-1;;Matsu-Fuijan
+12096;13961;sea;7226;-1;-1;-1;-1;;Megisti-Turkey
+1293;4269;sea;8751;-1;-1;-1;-1;;Mindanao-Leyte
+10272;15370;sea;2971;-1;-1;-1;-1;;Mindoro-Busuanga
+1221;4288;sea;2876;-1;-1;-1;-1;;Mindoro-Luzon
+4288;15372;sea;2876;-1;-1;-1;-1;;Mindoro-Marinduque
+10272;15371;sea;2876;-1;-1;-1;-1;;Mindoro-Romblon
+3284;10767;sea;2597;-1;-1;-1;-1;;Miranda-Trinidad
+13597;13598;sea;2887;-1;-1;-1;-1;;Montserrat-Antigua
+4450;13599;sea;2887;-1;-1;-1;-1;;Montserrat-Saint Martin
+11928;13941;sea;8396;-1;-1;-1;-1;;Nantong-Chongming Island
+10186;12153;sea;8751;-1;-1;-1;-1;;Negros-Cebu
+6192;12530;sea;5740;-1;-1;-1;-1;;Nenetsia-Kolguyev Island
+480;9431;sea;8621;-1;-1;-1;-1;;Netherlands outlier
+4421;7251;sea;7010;-1;-1;-1;-1;;New Britain-Latangai
+1263;4231;sea;5741;-1;-1;-1;-1;;New Caledonia 1
+4360;7304;sea;8614;-1;-1;-1;-1;;New Foundland-Strait
+10319;14401;sea;5868;-1;-1;-1;-1;;New Georgia-Central Islands
+12265;14402;sea;5868;-1;-1;-1;-1;;New Georgia-Choiseul
+10231;10248;sea;430;-1;-1;-1;-1;;New Guinea-Fergusson
+1117;9952;sea;2658;-1;-1;-1;-1;;Niigata-Sado
+1437;7413;sea;4899;-1;-1;-1;-1;;North Maluku
+7369;10342;sea;4899;-1;-1;-1;-1;;North Maluku
+1419;7413;sea;5294;-1;-1;-1;-1;;North Maluku
+1419;10141;sea;5267;-1;-1;-1;-1;;North Maluku
+1437;10342;sea;4899;-1;-1;-1;-1;;North Maluku
+7369;7557;sea;4899;-1;-1;-1;-1;;North Maluku-South Maluku
+1814;12632;sea;5637;-1;-1;-1;-1;;North-South NZ Islands
+15004;15024;sea;8153;-1;-1;-1;-1;;Northwest Territories-Banks Island
+22;3016;sea;5792;-1;-1;-1;-1;;Norway-Hammerfest
+44;11050;sea;5792;-1;-1;-1;-1;;Norway-Ringvassøya
+91;11090;sea;5792;-1;-1;-1;-1;;Norway-Senja
+14949;14981;sea;8978;-1;-1;-1;-1;;Nunavut-Nunavut Islands
+14983;15016;sea;443;-1;-1;-1;-1;;Nunavut-Somerset Island
+15003;15013;sea;8153;-1;-1;-1;-1;;Nunavut-Victoria Island
+14979;15014;sea;443;-1;-1;-1;-1;;Nunavut-Victoria Island
+15159;15160;sea;15012;-1;-1;-1;-1;;October Revolution Island-Bolshevik Island
+1123;11932;sea;8499;-1;-1;-1;-1;;Okinawa 1
+1123;7115;sea;8318;-1;-1;-1;-1;;Okinawa 2
+241;14709;sea;2729;-1;-1;-1;-1;;Ostfriesland
+7419;15370;sea;2971;-1;-1;-1;-1;;Palawan-Busuanga
+1261;10302;sea;2876;-1;-1;-1;-1;;Panay-Negros
+10781;15204;impassable;-1;-1;-1;-1;-1;;Panjshir Valley
+10781;10826;impassable;-1;-1;-1;-1;-1;;Panjshir Valley
+10781;12248;impassable;-1;-1;-1;-1;-1;;Panjshir Valley
+10781;15190;impassable;-1;-1;-1;-1;-1;;Panjshir Valley
+4509;7542;sea;2585;-1;-1;-1;-1;;Papua-Japen
+1329;10251;sea;7235;-1;-1;-1;-1;;Papua-New Britain
+14816;14817;sea;6007;-1;-1;-1;-1;;Perlis-Langkawi
+14024;14025;sea;4240;-1;-1;-1;-1;;Phu Quoc-Cambodia
+4223;14024;sea;4240;-1;-1;-1;-1;;Phu Quoc-Vietnam
+15024;15045;sea;8153;-1;-1;-1;-1;;Prince Patrick Island-Banks Island
+15023;15042;sea;443;-1;-1;-1;-1;;Prince of Wales Island-Bathurst Island
+15016;15023;sea;443;-1;-1;-1;-1;;Prince of Wales Island-Somerset Island
+1440;13596;sea;5507;-1;-1;-1;-1;;Puerto Rico-Saint Thomas
+15038;15047;sea;15048;-1;-1;-1;-1;;Qaanaaq-Pituffik
+7364;14947;sea;8953;-1;-1;-1;-1;;Quebec-Akpatok
+13196;14934;sea;8768;-1;-1;-1;-1;;Quebec-Belcher Islands
+12147;14949;sea;8978;-1;-1;-1;-1;;Quebec-Nunavut Islands
+10007;10122;sea;7226;-1;-1;-1;-1;;Rhodes-Turkey
+12113;13603;sea;5960;-1;-1;-1;-1;;Riau Islands
+9388;13291;sea;2358;-1;-1;-1;-1;;Rugen
+12171;14815;sea;2857;-1;-1;-1;-1;;Sabah-Labuan
+4450;13597;sea;2887;-1;-1;-1;-1;;Saint Kitts-Montserrat
+13084;13938;sea;2887;-1;-1;-1;-1;;Saint Martin-Anguilla
+13084;13599;sea;2887;-1;-1;-1;-1;;Saint Martin-Sint Eustatius
+4155;13084;sea;5507;-1;-1;-1;-1;;Saint Martin-Virgin Islands
+13596;13908;sea;5507;-1;-1;-1;-1;;Saint Thomas-Saint Croix
+4155;13596;sea;5507;-1;-1;-1;-1;;Saint Thomas-Tortola
+1742;7868;sea;2510;-1;-1;-1;-1;;Sakhalin-Siberia
+7290;13080;sea;8364;-1;-1;-1;-1;;Samoa
+6550;14186;sea;7226;-1;-1;-1;-1;;Samos-Ikaria
+1311;4228;sea;2856;-1;-1;-1;-1;;San Bernardino Strait
+1042;10291;sea;6819;-1;-1;-1;-1;;San Cristobal-Guadalcanal
+1042;7437;sea;6819;-1;-1;-1;-1;;San Cristobal-Rennell Island
+1370;14401;sea;5868;-1;-1;-1;-1;;Santa Isabel-Central Islands
+1085;1370;sea;5868;-1;-1;-1;-1;;Santa Isabel-Malaita
+3838;6891;sea;5579;-1;-1;-1;-1;;Sardinia-Corsica
+8073;13928;sea;2800;-1;-1;-1;-1;;Saudi Arabia-Farasan Islands
+12101;13934;sea;5388;-1;-1;-1;-1;;Saudi Arabia-Tiran
+11064;13789;sea;3195;-1;-1;-1;-1;;Scotland-Orkney
+7014;13941;sea;8396;-1;-1;-1;-1;;Shanghai-Chongming Island
+4094;7212;sea;8791;-1;-1;-1;-1;;Shikoku-Chugoku
+7072;9965;sea;8791;-1;-1;-1;-1;;Shikoku-Kansai
+4378;14403;sea;229;-1;-1;-1;-1;;Shortland-Bougainville
+14403;14404;sea;229;-1;-1;-1;-1;;Shortland-Choiseul
+14402;14403;sea;229;-1;-1;-1;-1;;Shortland-New Georgia
+12113;12299;sea;5960;-1;-1;-1;-1;;Singapore-Riau Islands
+14688;14691;sea;2382;-1;-1;-1;-1;;Sjaelland-Falster
+3325;14694;sea;2408;-1;-1;-1;-1;;Sjaelland-Fyn
+3260;3325;sea;2408;-1;-1;-1;-1;;Sjaelland-Fyn
+211;299;sea;2282;-1;-1;-1;-1;;Småland-Öland
+10188;12148;sea;7914;-1;-1;-1;-1;;Society Islands-Tuamotu Islands
+4306;4608;sea;5666;-1;-1;-1;-1;;Soerbaja-Madura
+10995;15868;sea;2346;-1;-1;-1;-1;;South Georgia-South Sandwich Islands
+1712;14949;sea;48;-1;-1;-1;-1;;Southampton Island-Nunavut Islands
+3868;14451;sea;5838;-1;-1;-1;-1;;Southern Dalmatian Archipelago
+3868;3924;sea;5838;-1;-1;-1;-1;;Southern Dalmatian Archipelago-Croatia
+15021;15033;sea;8812;-1;-1;-1;-1;;Spitsbergen-Edgeøya
+15033;15044;sea;8812;-1;-1;-1;-1;;Spitsbergen-Nordaustlandet
+13364;14679;sea;3603;-1;-1;-1;-1;;Spratly Islands
+14676;14677;sea;2946;-1;-1;-1;-1;;Spratly Islands
+13363;14679;sea;3603;-1;-1;-1;-1;;Spratly Islands
+13362;14678;sea;3603;-1;-1;-1;-1;;Spratly Islands
+14680;14681;sea;3603;-1;-1;-1;-1;;Spratly Islands
+13363;14677;sea;2946;-1;-1;-1;-1;;Spratly Islands
+14674;14675;sea;2978;-1;-1;-1;-1;;Spratly Islands
+13357;13358;sea;2978;-1;-1;-1;-1;;Spratly Islands
+14679;14681;sea;3603;-1;-1;-1;-1;;Spratly Islands
+13362;13364;sea;3603;-1;-1;-1;-1;;Spratly Islands
+13364;14678;sea;3603;-1;-1;-1;-1;;Spratly Islands
+13358;13359;sea;2978;-1;-1;-1;-1;;Spratly Islands
+13361;13362;sea;3603;-1;-1;-1;-1;;Spratly Islands
+13359;14675;sea;2978;-1;-1;-1;-1;;Spratly Islands
+13360;14675;sea;2978;-1;-1;-1;-1;;Spratly Islands
+13364;14680;sea;3603;-1;-1;-1;-1;;Spratly Islands
+13360;13361;sea;3603;-1;-1;-1;-1;;Spratly Islands
+177;13009;sea;5533;-1;-1;-1;-1;;St Lucia-Martinique
+379;11350;sea;5533;-1;-1;-1;-1;;St Vincent-Barbados
+379;13009;sea;5533;-1;-1;-1;-1;;St Vincent-St Lucia
+10222;12444;sea;5515;-1;-1;-1;-1;;Sulawesi-Pulau Buton
+1351;10153;sea;8412;-1;-1;-1;-1;;Sulawesi-Sangihe Islands
+1421;10184;sea;2899;-1;-1;-1;-1;;Sulu-Mindanao
+1355;12234;sea;2317;-1;-1;-1;-1;;Sumba-Timor
+15020;15913;sea;2446;-1;-1;-1;-1;;Svalbard-Bear Island
+1091;13606;sea;5322;-1;-1;-1;-1;;Taiwan-Penghu
+2196;13323;sea;5394;-1;-1;-1;-1;;Tanzania-Mafia Island
+2196;13797;sea;5394;-1;-1;-1;-1;;Tanzania-Zanzibar
+11122;15159;sea;15012;-1;-1;-1;-1;;Taymyria-Bolshevik Island
+2972;15157;sea;5918;-1;-1;-1;-1;;Taymyria-Kara Sea Islands
+4228;7307;sea;2876;-1;-1;-1;-1;;Ticao Pass
+7669;10276;sea;5263;-1;-1;-1;-1;;Tiwi-Darwin
+3284;13012;sea;2597;-1;-1;-1;-1;;Tobago-Trinidad
+3962;9859;sea;5946;-1;-1;-1;-1;;Tsugaru Strait
+1158;10011;sea;2708;-1;-1;-1;-1;;Tsushima-Kyushu
+13604;14818;sea;2928;-1;-1;-1;-1;;Tudjuh Archipelago
+13604;14819;sea;2928;-1;-1;-1;-1;;Tudjuh Archipelago
+1513;10440;sea;7230;-1;-1;-1;-1;;Turks & Caicos-Bahamas
+13056;13057;sea;8419;-1;-1;-1;-1;;Tuvalu 1
+13055;13056;sea;8419;-1;-1;-1;-1;;Tuvalu 2
+13054;13055;sea;2852;-1;-1;-1;-1;;Tuvalu 3
+10694;13090;sea;6064;-1;-1;-1;-1;;Unalaska-Unimak
+1393;7259;sea;5257;-1;-1;-1;-1;;Vancouver-Strait
+1237;12120;sea;5660;-1;-1;-1;-1;;Vanuatu 1
+4247;12120;sea;5609;-1;-1;-1;-1;;Vanuatu 2
+11584;14182;sea;5786;-1;-1;-1;-1;;Venezia
+4526;13609;sea;2571;-1;-1;-1;-1;;Venezuela-Aruba
+10912;15749;sea;2597;-1;-1;-1;-1;;Venezuela-Nuevo Esparta
+15019;15024;sea;8153;-1;-1;-1;-1;;Victoria Island-Banks Island
+7331;14673;sea;3218;-1;-1;-1;-1;;Vietnam-Con Dao
+6363;14571;sea;8340;-1;-1;-1;-1;;Wales-Anglesey
+14012;14013;sea;640;-1;-1;-1;-1;;Wallis-Futuna
+1298;12162;sea;2124;-1;-1;-1;-1;;West Nusa Tenggara-East Nusa Tenggara
+4446;12126;sea;812;-1;-1;-1;-1;;West Sumatra Islands
+1428;12126;sea;812;-1;-1;-1;-1;;West Sumatra Islands
+15324;15326;sea;436;-1;-1;-1;-1;;West Sumatra Islands
+12126;15324;sea;436;-1;-1;-1;-1;;West Sumatra Islands
+1428;7368;sea;1236;-1;-1;-1;-1;;West Sumatra Islands
+15148;15158;sea;5391;-1;-1;-1;-1;;Yakutia-New Siberian Islands
+3943;13963;sea;5812;-1;-1;-1;-1;;Zadar Archipelago
+6287;9279;sea;2382;-1;-1;-1;-1;;Öresund Bridge
+185;6201;sea;1885;-1;-1;-1;-1;;Ösel-Dagö
+2239;2265;;-1;-1;-1;-1;-1;ALAS_STRAIT;Alas Strait
+2776;2800;;-1;-1;-1;-1;-1;BAB_EL_MANDEB;Bab-el-Mandeb
+2239;2440;;-1;-1;-1;-1;-1;BALI_STRAIT;Bali Strait
+4679;5240;;-1;-1;-1;-1;-1;BASS_STRAIT;Bass Strait
+2734;8445;;-1;-1;-1;-1;-1;BOHAI_STRAIT;Bohai Strait
+5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
+2824;2942;sea;6046;-1;-1;-1;-1;CALEDONIAN_CANAL;Caledonian Canal
+7452;7678;;-1;-1;-1;-1;-1;DARDANELLES_STRAIT;Dardanelles
+2455;14767;;-1;-1;-1;-1;-1;DROBAK_SOUND;Drøbak Sound
+5382;5407;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar North
+2400;5407;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar South
+5430;13872;;-1;-1;-1;-1;-1;GOLDEN_GATE_STRAIT;Golden Gate Bridge
+2408;14695;;-1;-1;-1;-1;-1;GREAT_BELT;Great Belt
+2729;14687;sea;14369;-1;-1;-1;-1;KIEL_CANAL;Kiel Canal
+2583;4465;;-1;-1;-1;-1;-1;LA_PEROUSE_STRAIT;La Pérouse Strait
+2534;4465;;-1;-1;-1;-1;-1;LA_PEROUSE_STRAIT;La Pérouse Strait
+14687;14695;;-1;-1;-1;-1;-1;LITTLE_BELT;Little Belt
+2833;8822;;-1;-1;-1;-1;-1;MAKASSAR_STRAIT;Makassar Strait
+7479;7933;;-1;-1;-1;-1;-1;PALK_STRAIT;Palk Strait
+2284;8857;sea;7617;1560;1009;1556;1016;PANAMA_CANAL;Panama Canal
+2358;14366;sea;14367;-1;-1;-1;-1;PIAST_CANAL;Piast Canal
+5960;5984;;-1;-1;-1;-1;-1;STRAITS_OF_MALACCA;Straits of Malacca
+2824;8340;;-1;-1;-1;-1;-1;STRAITS_OF_MOYLE;Straits of Moyle
+2309;5344;;-1;-1;-1;-1;-1;STRAIT_OF_BALTIYSK;Strait of Baltiysk
+5929;11748;;-1;-1;-1;-1;-1;STRAIT_OF_DOVER;Strait of Dover
+8621;11748;;-1;-1;-1;-1;-1;STRAIT_OF_DOVER;Strait of Dover
+5838;5864;;-1;-1;-1;-1;-1;STRAIT_OF_OTRANTO;Strait of Otranto
+2510;5295;;-1;-1;-1;-1;-1;STRAIT_OF_TARTARY;Strait of Tartary
+803;5388;sea;1155;-1;-1;-1;-1;SUEZ_CANAL;Suez Canal
+2714;2737;;-1;-1;-1;-1;-1;SUNDA_STRAIT;Sunda Strait
+2382;2431;;-1;-1;-1;-1;-1;THE_SOUND;The Sound
+5388;13935;;-1;-1;-1;-1;-1;TIRAN_STRAIT;Straits of Tiran
+209;1434;sea;13198;-1;-1;-1;-1;WHITE_SEA_CANAL;White Sea Canal
+5658;7230;;-1;-1;-1;-1;-1;WINDWARD_PASSAGE;Windward Passage
+5840;5866;;-1;-1;-1;-1;-1;YUCATAN_CHANNEL;Yucatan Channel
+-1;-1;;-1;-1;-1;-1;-1;-1

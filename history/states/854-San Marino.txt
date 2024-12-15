@@ -1,0 +1,26 @@
+
+state={
+	id=854
+	name="STATE_854"
+
+	history={
+		owner = SMA
+		victory_points = {
+			13207 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+
+		}
+		add_core_of = SMA
+
+	}
+
+	provinces={
+		13207 
+	}
+	manpower=33344
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

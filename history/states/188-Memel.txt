@@ -1,30 +1,37 @@
-state=
-{
+
+state={
 	id=188
 	name="STATE_188"
-	manpower = 150000
-	
-	
-	state_category = rural
-	
-	history = {
-		victory_points = {
-			3288 3
-		}
+
+	history={
 		owner = SOV
+
 		add_core_of = SOV
-		buildings = {
-			infrastructure = 3 #was: 5
-			industrial_complex = 1
-			3288 = {
-				naval_base = 1
-			}
-		}
 		add_core_of = LIT
-	}
-	provinces={
-		3288 	
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 1
+			3288 = {
+				bunker = 1
+
+			}
+			3288 = {
+				naval_base = 6
+
+			}
+
+		}
+		victory_points = {
+			3288 3 
+		}
+
 	}
 
-	local_supplies=0.0 
+	provinces={
+		3288 14211 14212 
+	}
+	manpower=252000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

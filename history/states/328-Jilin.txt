@@ -1,0 +1,51 @@
+
+state={
+	id=328
+	name="STATE_328"
+	resources={
+		rubber=15.000
+	}
+
+	history={
+		owner = PRC
+		victory_points = {
+			1567 15
+		}
+		victory_points = {
+			7663 10
+		}
+		victory_points = {
+			4642 5
+		}
+		victory_points = {
+			3913 3
+		}
+		victory_points = {
+			9803 3
+		}
+		victory_points = {
+			14641 3
+		}
+		victory_points = {
+			4561 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 7
+			air_base = 2
+
+		}
+		add_core_of = PRC
+		add_core_of = CHI
+		add_core_of = MAN
+
+	}
+
+	provinces={
+		930 946 1499 1567 3888 3913 3932 3949 4503 4561 4572 4633 4642 6905 6947 7523 7652 7663 9759 9803 9841 9866 9913 11744 11781 11850 11864 14641 
+	}
+	manpower=27462297
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

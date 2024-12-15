@@ -1,0 +1,39 @@
+
+state={
+	id=300
+	name="STATE_300"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = URG
+		victory_points = {
+			10362 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 5
+			arms_factory  = 2
+			dockyard = 1
+			air_base = 1
+			10362 = {
+				naval_base = 6
+				bunker = 1
+				coastal_bunker = 1
+
+			}
+
+		}
+		add_core_of = URG
+
+	}
+
+	provinces={
+		10362 
+	}
+	manpower=3350500
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

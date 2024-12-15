@@ -1,0 +1,47 @@
+
+state={
+	id=871
+	name="STATE_871"
+	resources={
+		steel=43.000
+	}
+
+	history={
+		owner = KOR
+		add_core_of = KOR
+		add_core_of = KOR
+		victory_points = {
+			13401 3 
+		}
+		victory_points = {
+			7021 2 
+		}
+		victory_points = {
+			11958 2 
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 5
+			industrial_complex  = 3
+			arms_factory  = 1
+			anti_air_building = 4
+			4004 = {
+				bunker = 5
+
+			}
+			11958 = {
+				bunker = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4004 7021 10036 11958 12011 13296 13401 
+	}
+	manpower=1564615
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

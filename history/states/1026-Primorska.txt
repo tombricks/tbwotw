@@ -1,0 +1,34 @@
+state={
+	id=1026
+	name="STATE_1026"
+	
+	history={
+		owner = YUG
+
+		add_core_of = YUG
+		victory_points = {
+			599 1
+		}
+		victory_points = {
+			11595 1
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			599 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = SLV
+
+	}
+	
+	provinces={
+		599 11595 
+	}
+	manpower=231138
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

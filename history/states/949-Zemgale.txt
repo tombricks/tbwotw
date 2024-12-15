@@ -1,0 +1,34 @@
+
+state={
+	id=949
+	name="STATE_949"
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			6222 1 
+		}
+		victory_points = {
+			6342 1 
+		}
+		victory_points = {
+			3525 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = LAT
+
+	}
+
+	provinces={
+		265 3525 6222 6342 
+	}
+	manpower=235417
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

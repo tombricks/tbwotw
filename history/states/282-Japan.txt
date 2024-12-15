@@ -1,52 +1,39 @@
 
-state = {
-	id = 282
-	name = "STATE_282" # Kanto
-	manpower = 13773000
+state={
+	id=282
+	name="STATE_282" # Kanto
+	manpower = 43300000
 	
-	state_category = megalopolis
+	state_category = state_default
 	
 	resources = {
-		aluminium = 1 # was: 2
+		steel = 156
 	}
 
-	history = {
-
+	history={
 		owner = JAP
-		add_core_of = JAP
-
+		victory_points = { 1182 40 }
+		victory_points = { 9998 20 }
+		victory_points = { 4188 5 }
+		victory_points = { 1097 5 }
+		victory_points = { 1113 5 }
+		victory_points = { 4000 3 }
+		victory_points = { 11908 3 }
+		victory_points = { 7016 3 }
 		buildings = {
-			infrastructure = 4 #was: 8
-			air_base = 6
-			industrial_complex = 4
-			arms_factory = 2
-			dockyard = 4
-			9998 = {
-				naval_base = 6
-			}
+			infrastructure = 5
+			air_base = 8
+			industrial_complex  = 11
+			arms_factory  = 3
+			dockyard = 2
+			1182 = { naval_base = 5 }
+			4188 = { naval_base = 5 }
+			9998 = { naval_base = 8 }
 		}
-
-		victory_points = {
-			1182 50 
-		}
-
-		victory_points = {
-			9998 40 
-		}
-
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 3
-				dockyard = 4
-				industrial_complex = 5
-			}
-		}
-
+		add_core_of = JAP
 	}
 
-	provinces = {
+	provinces={
 		993 1097 1113 1182 4000 4100 4184 4188 7016 9998 11908 
 	}
-
-	local_supplies = 0.0 
 }

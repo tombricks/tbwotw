@@ -1,28 +1,27 @@
+
 state={
 	id=739
 	name="STATE_739"
 
 	history={
-		owner = CAN
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			3272 1
+		}
 		buildings = {
-			infrastructure = 1
-
-			1869 = {
-				naval_base = 1
-
-			}
-
+			infrastructure = 2
 
 		}
-		add_core_of = CAN
+		add_core_of = LIT
+
 	}
 
 	provinces={
-		1869
+		3272 6407 11312 
 	}
-	manpower=12684
-	buildings_max_level_factor=1	
-	state_category="small_island"
-
-	local_supplies=0.0 
+	manpower=149125
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

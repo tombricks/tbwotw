@@ -1,0 +1,33 @@
+
+state={
+	id=302
+	name="STATE_302"
+	resources={
+		tungsten=98.000
+		oil=6.000
+	}
+
+	history={
+		owner = BOL
+		victory_points = {
+			5230 10
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory  = 2
+			industrial_complex  = 4
+			air_base = 2
+
+		}
+		add_core_of = BOL
+
+	}
+
+	provinces={
+		5188 5230 8157 8225 13174 13195 15890 15892 15898 15902 15907 
+	}
+	manpower=8044500
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

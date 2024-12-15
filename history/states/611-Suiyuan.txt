@@ -1,0 +1,46 @@
+
+state={
+	id=611
+	name="STATE_611"
+	resources={
+		tungsten=50.000
+		aluminium=400.000
+		steel=18.000
+		oil=30.000
+	}
+
+	history={
+		owner = PRC
+		victory_points = {
+			7631 10
+		}
+		victory_points = {
+			12706 5
+		}
+		victory_points = {
+			10629 3
+		}
+		victory_points = {
+			12403 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 5
+			arms_factory  = 1
+			air_base = 4
+
+		}
+		add_core_of = CHI
+		add_core_of = PRC
+		add_core_of = SMO
+
+	}
+
+	provinces={
+		1959 2087 3427 4525 4960 4986 7048 7158 7545 7631 10424 10451 10629 10854 12331 12403 12609 12706 12880 14624 14634 
+	}
+	manpower=25050000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

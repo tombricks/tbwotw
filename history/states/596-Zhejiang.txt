@@ -1,45 +1,77 @@
-state=
-{
+
+state={
 	id=596
 	name="STATE_596"
-	manpower = 21230700
-	state_category = city
-	history=
-	{
-		owner = PRC
-		add_core_of = PRC
-		
-		victory_points = { 
-			9974 1 
-		}
-		victory_points = { 
-			7191 1 
-		}
-		
-		buildings = {
-			infrastructure = 2
+	resources={
+		tungsten=97.000
+		aluminium=60.000
+		oil=50.000
+		steel=10.000
+	}
 
+	history={
+		owner = PRC
+		victory_points = {
+			7191 10
+		}
+		victory_points = {
+			9974 5
+		}
+		victory_points = {
+			1055 5
+		}
+		victory_points = {
+			1168 5
+		}
+		victory_points = {
+			11920 5
+		}
+		victory_points = {
+			11947 3
+		}
+		victory_points = {
+			9944 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 5
+			dockyard = 1
+			air_base = 1
+			arms_factory  = 1
 			7191 = {
-				naval_base = 1
+				naval_base = 2
 				coastal_bunker = 1
 				bunker = 1
+
 			}
 			9974 = {
-				naval_base = 3
+				naval_base = 5
 				coastal_bunker = 1
 				bunker = 1
+
 			}
 			1055 = {
 				naval_base = 3
 				coastal_bunker = 1
 				bunker = 1
+
 			}
+			1168 = {
+				naval_base = 3
+
+			}
+
 		}
+		add_core_of = CHI
+		add_core_of = PRC
 
 	}
+
 	provinces={
-		1055 1096 1168 1195 4013 4042 4099 7058 7086 7146 7174 7191 9944 9972 9974 10014 10058 10086 10101 11920 11947 11991 12059 
+		1055 1096 1168 1195 4013 4042 4099 7058 7086 7120 7146 7174 7191 9944 9972 9974 10014 10058 10086 10101 11920 11947 11991 12059 
 	}
-
-	local_supplies=0.0 
+	manpower=54890000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

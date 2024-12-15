@@ -1,29 +1,27 @@
 
 state={
 	id=420
-	name="STATE_420"
-	manpower = 1314948
-	
-	state_category = rural
+	name="STATE_420" #Shomal
 
 	history={
 		owner = PER
-		victory_points = {
-			7969 5
-		}
-		victory_points = {
-			4901 3
-		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
+			industrial_complex  = 3
 		}
 		add_core_of = PER
-		add_core_of = AZR
+        victory_points = { 4637 10 } #rasht
+		victory_points = { 7602 3 } #gorgan
+		victory_points = { 10385 3 } #sari
+		victory_points = { 10768 1 } #amol
+		victory_points = { 4580 1 } #chalus
+		victory_points = { 13256 1 } #gonbad
 	}
 
 	provinces={
-		4553 4609 4637 4901 7969 10454 10523 
+		4609 4637 7602 10385 10768 4580 13256 4901 
 	}
-
-	local_supplies=3.0 
+	manpower= 6126771
+	buildings_max_level_factor=1.000
+	state_category = state_default
 }

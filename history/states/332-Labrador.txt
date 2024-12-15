@@ -1,27 +1,22 @@
+
 state={
 	id=332
 	name="STATE_332"
-	
-	state_category = wasteland
 
 	history={
-		owner = CAN
+		owner = FIN
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 
-			12503 = {
-				naval_base = 1
-			}
 		}
-		add_core_of = CAN
+		add_core_of = FIN
 
 	}
 
 	provinces={
-		1426 1785 4720 4787 12503 13165 13180 
+		67 3119 6141 6163 9073 9160 9166 9167 9219 11033 11066 11144 13100 13103 13106 13113 
 	}
-	manpower=22179
+	manpower=275320
 	buildings_max_level_factor=1.000
-
-	local_supplies=0.0 
+	state_category=state_default
 }

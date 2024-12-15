@@ -1,0 +1,49 @@
+
+state={
+	id=283
+	name="STATE_283"
+	resources={
+		rubber=8.000
+	}
+
+	history={
+		owner = PRC
+		victory_points = {
+			2022 10
+		}
+		victory_points = {
+			7911 5
+		}
+		victory_points = {
+			5057 3
+		}
+		victory_points = {
+			1647 3
+		}
+		victory_points = {
+			14654 3
+		}
+		victory_points = {
+			2028 3
+		}
+		victory_points = {
+			1630 2
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+
+		}
+		add_core_of = PRC
+		add_core_of = CHI
+
+	}
+
+	provinces={
+		517 556 1630 1647 1778 1933 2022 2028 3745 5057 5100 6638 7911 7971 12327 12596 12776 12820 12882 14599 14616 14621 14622 14632 14654 
+	}
+	manpower=15000000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

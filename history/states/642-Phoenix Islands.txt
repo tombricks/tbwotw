@@ -1,0 +1,26 @@
+
+state={
+	id=642
+	name="STATE_642"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 1
+			13050 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = USA
+
+	}
+
+	provinces={
+		13050 
+	}
+	manpower=1459
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

@@ -1,0 +1,44 @@
+
+state={
+	id=864
+	name="STATE_864"
+	resources={
+		tungsten=4.000
+	}
+
+	history={
+		owner = COG
+		
+		add_core_of = COG
+
+		DRC = {
+			set_province_controller = 2126 
+			set_province_controller = 10025 
+			set_province_controller = 10766 
+			set_province_controller = 10883 
+			set_province_controller = 13836 
+			set_province_controller = 13845 
+			set_province_controller = 13862 
+			set_province_controller = 15937 
+			set_province_controller = 15949 
+			set_province_controller = 15950 
+			set_province_controller = 15973 
+			set_province_controller = 15995 
+			set_province_controller = 16029 
+			set_province_controller = 16178 
+			set_province_controller = 16208 
+			set_province_controller = 16271 
+			set_province_controller = 16295 
+			set_province_controller = 16303
+		}
+
+	}
+
+	provinces={
+		2126 8016 10025 10766 10883 11934 13824 13836 13845 13862 15937 15949 15950 15966 15973 15995 16018 16029 16178 16208 16220 16247 16248 16260 16263 16267 16271 16295 16303 
+	}
+	manpower=2049300
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

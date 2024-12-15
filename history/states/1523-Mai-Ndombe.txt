@@ -1,0 +1,16 @@
+state={
+	id=1523
+	name="STATE_1523"
+	provinces={
+		191 1516 7548 13828 13838 15944 15955 15956 15969 16008 16013 16019 16051 16071 16091 16093 16099 16142 16182 16227 16231 16290 
+	}
+	history={
+		owner = COG
+		
+		add_core_of = COG
+	}
+	manpower=1108693
+	buildings_max_level_factor=1.000
+	state_category=state_02
+	local_supplies=0.000
+}

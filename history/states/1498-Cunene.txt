@@ -1,0 +1,26 @@
+state={
+	id=1498
+	name="STATE_1498"
+	provinces={
+		15960 15962 16034 16059 16069 16082 16115 16212 16297 16310 16314 
+	}
+	history={
+		owner = POR
+		add_core_of = ANG
+		
+		UNI = {
+			set_province_controller = 15960
+			set_province_controller = 16034
+			set_province_controller = 16059
+			set_province_controller = 16082
+			set_province_controller = 16115
+			set_province_controller = 16212
+			set_province_controller = 16297
+			set_province_controller = 16310 
+		}
+	}
+	manpower=701276
+	buildings_max_level_factor=1.000
+	state_category=state_01
+	local_supplies=0.000
+}

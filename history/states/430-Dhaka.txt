@@ -1,0 +1,40 @@
+
+state={
+	id=430
+	name="STATE_430"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = BAN
+		victory_points = {
+			11929 15
+		}
+		victory_points = {
+			9993 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 6
+			dockyard = 1
+			arms_factory  = 2
+			air_base = 6
+			11929 = {
+				naval_base = 6
+
+			}
+
+		}
+		add_core_of = BAN
+
+	}
+
+	provinces={
+		1075 4162 9993 11929 12423 
+	}
+	manpower=36433505
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

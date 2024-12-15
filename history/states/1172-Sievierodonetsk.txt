@@ -1,0 +1,48 @@
+
+state={
+	id=1172
+	name="STATE_1172"
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			6519 2 
+		}
+		victory_points = {
+			14866 1
+		}
+		victory_points = {
+			523 1 
+		}
+		victory_points = {
+			11487 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+			air_base = 1
+			6519 = {
+				bunker = 5
+
+			}
+			9476 = {
+				bunker = 5
+
+			}
+
+		}
+		add_core_of = UKR
+		add_core_of = LPR
+
+	}
+
+	provinces={
+		523 547 570 6519 9476 11487 11513 14866 
+	}
+	manpower=101135
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

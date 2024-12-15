@@ -1,0 +1,16 @@
+state={
+	id=1499
+	name="STATE_1499"
+	provinces={
+		15931 16137 16216 16270 16273 16280 16305 
+	}
+	history={
+		owner = POR
+		add_core_of = ANG
+		
+	}
+	manpower=350838
+	buildings_max_level_factor=1.000
+	state_category=state_01
+	local_supplies=0.000
+}

@@ -2,27 +2,18 @@
 state={
 	id=538
 	name="STATE_538"
-	resources={
-		rubber=5.000
-	}
-	state_category = pastoral
-	manpower = 1693974
 
 	history={
 		owner = COG
-		buildings = {
-			infrastructure = 1
-
-		}
+		
 		add_core_of = COG
-
 	}
 
 	provinces={
-		988 7219 7931 8048 10071 10883 10951 12741 12824 
+		988 1181 1968 4515 12925 13834 13835 13837 13851 15942 15953 15967 15985 16037 16065 16078 16090 16097 16144 16176 16193 16253 16291 
 	}
-	
+	manpower=912885
 	buildings_max_level_factor=1.000
-	
-	local_supplies=1.000
+	state_category=state_02
+	local_supplies=0.000
 }

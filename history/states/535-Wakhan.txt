@@ -1,0 +1,27 @@
+
+state={
+	id=535
+	name="STATE_535"
+
+	history={
+		owner = AFG
+		victory_points = {
+			7519 1
+		}
+		buildings = {
+			infrastructure = 1
+			
+		}
+		add_core_of = AFG
+		add_claim_by = CHI
+
+	}
+
+	provinces={
+		7519 
+	}
+	manpower=16873
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

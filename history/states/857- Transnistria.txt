@@ -1,0 +1,35 @@
+
+state={
+	id=857
+	name="STATE_857"
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			13210 2 
+		}
+		victory_points = {
+			13214 1 
+		}
+		victory_points = {
+			13213 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+			air_base = 1 #They have an airbase so there must be one somewhere
+		}
+		add_core_of = MOL
+
+	}
+
+	provinces={
+		13210 13213 13214 
+	}
+	manpower=530200
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

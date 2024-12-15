@@ -1,0 +1,34 @@
+state={
+	id=1464
+	name="STATE_1464"
+
+	history={
+		owner = VOL
+		victory_points = {
+			15819 2 
+		}
+		victory_points = {
+			15816 2 
+		}
+		victory_points = {
+			15814 1
+		}
+		victory_points = {
+			15820 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = VOL
+
+	}
+
+	provinces={
+		2001 7950 12851 13630 15814 15816 15818 15819 15820 
+	}
+	manpower=1094907
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

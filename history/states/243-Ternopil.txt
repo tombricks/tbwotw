@@ -1,0 +1,32 @@
+
+state={
+	id=243
+	name="STATE_243"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = SOV
+
+		add_core_of = SOV
+		victory_points = {
+			9454 5
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+
+		}
+		add_core_of = UKR
+
+	}
+
+	provinces={
+		438 3483 3562 9454 11427 14320 
+	}
+	manpower=1107294
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

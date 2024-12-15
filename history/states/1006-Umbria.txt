@@ -1,0 +1,29 @@
+
+state={
+	id=1006
+	name="STATE_1006"
+
+	history={
+		owner = ITA
+		victory_points = {
+			3885 2 
+		}
+		victory_points = {
+			9794 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 1
+
+		}
+		add_core_of = ITA
+
+	}
+
+	provinces={
+		3885 6926 9794 13714 
+	}
+	manpower=889001
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=934
+	name="STATE_934"
+
+	history={
+		owner = SOM
+		victory_points = {
+			15386 3
+		}
+		victory_points = {
+			13279 2
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOM
+
+	}
+
+	provinces={
+		2020 13279 13314 15383 15385 15386 
+	}
+	manpower=1947100
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

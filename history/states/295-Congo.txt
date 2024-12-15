@@ -2,34 +2,22 @@
 state={
 	id=295
 	name="STATE_295"
-	manpower = 1947522
-	state_category = rural
+	resources={
+		oil=2.000
+		steel=1.000
+	}
 
 	history={
 		owner = COG
-		buildings = {
-			infrastructure = 2
-			industrial_complex = 1
-			10968 = {
-				naval_base = 1
-
-			}
-
-		}
-		victory_points = {
-			191 1 
-		}
-		victory_points = {
-			5117 3 
-		}
+		
 		add_core_of = COG
-
 	}
 
 	provinces={
-		5117 10025 10968 12775 12896 12925 12945 
+		2073 12945 16092 
 	}
-	
+	manpower=8396480
 	buildings_max_level_factor=1.000
-	local_supplies=2.000
+	state_category=state_07
+	local_supplies=0.000
 }

@@ -1,0 +1,21 @@
+state={
+	id=1503
+	name="STATE_1503"
+	provinces={
+		15975 15977 16040 16158 16167 16179 16196 16229 16309 
+	}
+	history={
+		owner = POR
+		add_core_of = ANG
+		
+		UNI = {
+			set_province_controller = 15975
+			set_province_controller = 16158
+			set_province_controller = 16040
+		}
+	}
+	manpower=1332926
+	buildings_max_level_factor=1.000
+	state_category = state_01
+	local_supplies=0.000
+}

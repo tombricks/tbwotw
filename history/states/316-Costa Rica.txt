@@ -2,35 +2,46 @@
 state={
 	id=316
 	name="STATE_316"
-	manpower = 503856
-	resources={
-		chromium=1 # was: 1
-	}
-	
-	state_category = town
-	
 
 	history={
 		owner = COS
+		victory_points = {
+			13087 5 
+		}
+		victory_points = {
+			15607 1
+		}
+		victory_points = {
+			13092 1
+		}
+		victory_points = {
+			15606 1
+		}
 		buildings = {
 			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 2 
+			industrial_complex  = 5
+			arms_factory  = 1
+			dockyard = 1
 			air_base = 1
-			13087 = {
-				naval_base = 1
+			15606 = {
+				naval_base = 3
+
 			}
+			15607 = {
+				naval_base = 1
+
+			}
+
 		}
 		add_core_of = COS
-		victory_points = {
-			13087 3
-		}
 
 	}
 
 	provinces={
-		12878 13087 13092 
+		12878 13087 13092 15605 15606 15607 15608 
 	}
-
-	local_supplies=0.0 
+	manpower=4580250
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

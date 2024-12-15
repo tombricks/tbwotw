@@ -1,32 +1,35 @@
-state = {
+state=
+{
 	id=182
 	name="STATE_182"
-	manpower = 387900
+	manpower = 632674
 	
-	state_category = town
-	history = {
+	state_category = state_default
+	history=
+	{
 		owner = GRE
 		victory_points = {
-			9940 5
+			9940 3
 		}
 		victory_points = {
-			12058 3
+			12058 2
+		}
+		victory_points = {
+			1164 1
+		}
+		victory_points = {
+			4170 1
 		}
 		buildings = {
 			infrastructure = 2
 			air_base = 2
-			12058 = {
-				naval_base = 1
-			}
-			9940 = {
-				naval_base = 3
-			}
+			9940 = { naval_base = 3 }
+			12058 = { naval_base = 1 }
+			1164 = { naval_base = 1 }
+			4170 = { naval_base = 1 }
 		}
 		add_core_of = GRE
 	}
-	provinces = {
-		1164 4170 9940 12058
-	}
-
-	local_supplies=0.0 
+	provinces=
+	{ 1164 4170 9940 12058 	}
 }

@@ -1,0 +1,27 @@
+
+state={
+	id=509
+	name="STATE_509"
+
+	history={
+		owner = ARG
+		victory_points = {
+			5213 3
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 2
+
+		}
+		add_core_of = ARG
+
+	}
+
+	provinces={
+		2106 5213 10986 15690 15693 15694 15701 
+	}
+	manpower=1704241
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

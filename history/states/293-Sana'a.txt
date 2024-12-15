@@ -1,0 +1,65 @@
+
+state={
+	id=293
+	name="STATE_293"
+
+	history={
+		owner = YEM
+		victory_points = {
+			10840 10
+		}
+		victory_points = {
+			13481 2
+		}
+		victory_points = {
+			1973 1
+		}
+		victory_points = {
+			14127 1
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			industrial_complex  = 3
+			10752 = {
+				bunker = 2
+
+			}
+			13481 = {
+				bunker = 5
+
+			}
+			14118 = {
+				bunker = 5
+
+			}
+			1973 = {
+				bunker = 5
+
+			}
+			14122 = {
+				bunker = 5
+
+			}
+			14127 = {
+				bunker = 5
+
+			}
+			10840 = {
+				bunker = 5
+
+			}
+
+		}
+		add_core_of = YEM
+
+	}
+
+	provinces={
+		1973 10752 10840 13481 13484 14118 14122 14127 
+	}
+	manpower=4109000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

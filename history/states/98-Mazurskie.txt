@@ -1,23 +1,26 @@
+
 state={
 	id=98
 	name="STATE_98"
-	manpower = 1412100
-	
-	state_category = rural
+
 	history={
-		victory_points = {
-			3230 5
-		}
 		owner = POL
+		victory_points = {
+			3295 5 
+		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
+			air_base = 2
+
 		}
 		add_core_of = POL
+
 	}
 
 	provinces={
-		548 3230 6259 6321 6401 6567 9290 9316 11385 
+		243 279 3230 3295 3324 6347 6401 
 	}
-
-	local_supplies=7.0 
+	manpower=1642100
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

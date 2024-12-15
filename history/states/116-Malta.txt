@@ -1,25 +1,33 @@
-state=
-{
+
+state={
 	id=116
 	name="STATE_116"
-	manpower = 241621
-	state_category = small_island
-	history= {
-		owner = MLT
-		add_core_of = MLT
+
+	history={
+		owner = MAL
 		victory_points = {
-			12003 5 
+			12003 2 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
+			industrial_complex  = 3
+			arms_factory  = 1
 			air_base = 3
 			12003 = {
-				naval_base = 3
+				naval_base = 4
 				coastal_bunker = 1
-			}
-		}
-	}
-	provinces= { 12003 }
 
-	local_supplies=0.0 
+			}
+
+		}
+
+	}
+
+	provinces={
+		12003 
+	}
+	manpower=420330
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

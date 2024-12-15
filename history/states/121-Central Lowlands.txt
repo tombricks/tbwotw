@@ -1,0 +1,51 @@
+
+state={
+	id=121
+	name="STATE_121"
+	resources={
+		oil=35.000
+		steel=49.000
+	}
+
+	history={
+		owner = ENG
+		victory_points = {
+			9392 11
+		}
+		victory_points = {
+			3273 10
+		}
+		victory_points = {
+			6300 1 
+		}
+		victory_points = {
+			14576 1
+		}
+		victory_points = {
+			9383 1
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex  = 7
+			arms_factory  = 1
+			air_base = 4
+			dockyard = 1
+			9392 = {
+				naval_base = 5
+
+			}
+
+		}
+		add_core_of = ENG
+		add_core_of = SCO
+
+	}
+
+	provinces={
+		159 3273 6300 6320 6385 6395 9237 9383 9392 11306 14576 14577 
+	}
+	manpower=1431624
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

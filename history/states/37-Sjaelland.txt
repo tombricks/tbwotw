@@ -1,0 +1,49 @@
+
+state={
+	id=37
+	name="STATE_37"
+
+	history={
+		owner = DEN
+		victory_points = {
+			6287 10
+		}
+		victory_points = {
+			6393 1 
+		}
+		victory_points = {
+			14688 1 
+		}
+		victory_points = {
+			14694 1 
+		}
+		victory_points = {
+			14698 1
+		}
+		victory_points = {
+			14691 1
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex  = 4
+			arms_factory  = 1
+			dockyard = 2
+			air_base = 5
+			6287 = {
+				naval_base = 8
+
+			}
+
+		}
+		add_core_of = DEN
+
+	}
+
+	provinces={
+		3260 3305 6287 6393 14688 14691 14694 14698 
+	}
+	manpower=1835562
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

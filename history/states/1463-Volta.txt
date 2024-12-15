@@ -1,0 +1,25 @@
+state={
+	id=1463
+	name="STATE_1463"
+
+	history={
+		owner = GHA
+		victory_points = {
+			12785 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = GHA
+
+	}
+
+	provinces={
+		12785 13895 15758 15761 15764 
+	}
+	manpower=2118252
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

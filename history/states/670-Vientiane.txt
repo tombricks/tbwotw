@@ -1,0 +1,33 @@
+
+state={
+	id=670
+	name="STATE_670"
+	resources={
+		rubber=7.000
+		steel=1.000
+	}
+
+	history={
+		owner = LAO
+		victory_points = {
+			1464 10 
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+			industrial_complex  = 2
+			arms_factory  = 1
+
+		}
+		add_core_of = LAO
+
+	}
+
+	provinces={
+		1464 
+	}
+	manpower=948477
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

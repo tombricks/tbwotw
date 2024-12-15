@@ -1,0 +1,29 @@
+
+state={
+	id=1021
+	name="STATE_1021"
+
+	history={
+		owner = SWE
+		victory_points = {
+			35 3 
+		}
+		victory_points = {
+			9185 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SWE
+
+	}
+
+	provinces={
+		35 3106 6084 9185 11044 14728 14732 14733 
+	}
+	manpower=274516
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

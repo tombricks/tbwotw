@@ -2,46 +2,44 @@
 state={
 	id=130
 	name="STATE_130"
-	manpower = 4762495
-	
-	state_category = metropolis
-	
 	resources={
-		steel=71 # was: 120
+		oil=9.000
 	}
 
 	history={
 		owner = ENG
 		victory_points = {
-			9379 10 
+			9379 6
 		}
 		victory_points = {
-			11297 5 
+			9315 5 
 		}
 		victory_points = {
-			9315 15
+			11297 2
+		}
+		victory_points = {
+			9269 2
 		}
 		buildings = {
-			infrastructure = 4 #was: 7
-			arms_factory = 2
-			industrial_complex = 3
+			infrastructure = 4
+			industrial_complex  = 3
+			arms_factory  = 1
 			air_base = 10
 			11297 = {
 				naval_base = 5
+
 			}
+
 		}
 		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 3
-				industrial_complex = 4
-			}
-		}
+		add_core_of = YRK
+
 	}
 
 	provinces={
-		6268 9269 9315 9332 9379 9397 11297 11317 11382 
+		364 9269 9315 9332 9379 11297 11317 
 	}
-
-	local_supplies=0.0 
+	manpower=5284000
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

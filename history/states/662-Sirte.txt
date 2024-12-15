@@ -1,22 +1,47 @@
+
 state={
 	id=662
 	name="STATE_662"
-	manpower = 13213
-	
-	state_category = wasteland
-	
-	
-	history={
-		owner = LBA
-		buildings = {
-			infrastructure = 1
-		}
-		add_core_of = LBA
-	}
-	
-	provinces={
-		4200 7076 7136 8069 13073 
+	resources={
+		oil=9.000
 	}
 
-	local_supplies=0.0 
+	history={
+		owner = LBA
+		victory_points = {
+			4047 5
+		}
+		victory_points = {
+			4057 1
+		}
+		victory_points = {
+			10117 1
+		}
+		victory_points = {
+			10046 1
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			4047 = {
+				naval_base = 2
+
+			}
+			4057 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = LBA
+
+	}
+
+	provinces={
+		1041 4047 4057 7136 7194 8069 10046 10117 12088 13073 14246 14247 
+	}
+	manpower=113213
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

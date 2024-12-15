@@ -1,0 +1,33 @@
+
+state={
+	id=982
+	name="STATE_982"
+	resources={
+		oil=28.000
+	}
+
+	history={
+		owner = IRQ
+		victory_points = {
+			6826 5
+		}
+		victory_points = {
+			14435 2
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = IRQ
+		add_core_of = KUR
+
+	}
+
+	provinces={
+		6826 13347 13350 14435 
+	}
+	manpower=850787
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

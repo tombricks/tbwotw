@@ -1,0 +1,29 @@
+
+state={
+	id=818
+	name="STATE_818"
+
+	history={
+		owner = SAF
+		victory_points = {
+			4556 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 3
+			arms_factory  = 1
+			air_base = 2
+
+		}
+		add_core_of = SAF
+
+	}
+
+	provinces={
+		4556 13688 15234 15236 
+	}
+	manpower=2199492
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

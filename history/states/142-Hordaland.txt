@@ -1,0 +1,41 @@
+
+state={
+	id=142
+	name="STATE_142"
+	resources={
+		aluminium=41.000
+		oil=160.000
+	}
+
+	history={
+		owner = NOR
+		victory_points = {
+			122 5
+		}
+		victory_points = {
+			14771 1
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex  = 1
+			dockyard = 1
+			122 = {
+				naval_base = 3
+				coastal_bunker = 2
+
+			}
+
+		}
+		add_core_of = NOR
+
+	}
+
+	provinces={
+		65 122 3192 6145 9170 11198 14771 
+	}
+	manpower=1550200
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

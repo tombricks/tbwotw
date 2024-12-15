@@ -1,0 +1,25 @@
+
+state={
+	id=835
+	name="STATE_835"
+
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = ITA
+		victory_points = {
+			13205 3
+		}
+
+	}
+
+	provinces={
+		13205 
+	}
+	manpower=1000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+}

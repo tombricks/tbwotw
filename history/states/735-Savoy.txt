@@ -1,33 +1,33 @@
-state = {
-	id = 735
-	name = "STATE_735"
 
-	state_category = town
+state={
+	id=735
+	name="STATE_735"
 
-	history = {
+	history={
 		owner = FRA
-		add_core_of = OCC
 		add_core_of = FRA
-		add_claim_by = SPM
 		victory_points = {
-			778 1 
+			9434 5 
 		}
 		victory_points = {
-			9909 5 
+			11563 5 
 		}
 		buildings = {
-			infrastructure = 2
-			9909 = {
-				naval_base = 2
-			}		
+			infrastructure = 3
+			industrial_complex  = 1
+			485 = {
+				naval_base = 1
+
+			}
+
 		}
+
 	}
 
-	provinces = {
-		764 778 3764 3959 6609 6975 9603 9736 9745 9909 11573 
+	provinces={
+		485 3549 6569 9434 9578 11563 
 	}
-	manpower = 907500
-	buildings_max_level_factor = 1.000
-
-	local_supplies = 0.0 
+	manpower=1915000
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

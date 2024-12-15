@@ -1,0 +1,37 @@
+
+state={
+	id=755
+	name="STATE_755"
+	resources={
+		oil=3.000
+	}
+
+	history={
+		owner = CAM
+		victory_points = {
+			6039 5
+		}
+		victory_points = {
+			9137 3
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex  = 1
+			6039 = {
+				naval_base = 4
+
+			}
+
+		}
+		add_core_of = CAM
+
+	}
+
+	provinces={
+		2080 6039 9137 13503 14518 14520 
+	}
+	manpower=8150250
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
+}

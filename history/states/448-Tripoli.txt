@@ -2,29 +2,48 @@
 state={
 	id=448
 	name="STATE_448"
-	manpower = 469136
-	
-	state_category = town
 
 	history={
 		owner = LBA
-		
 		victory_points = {
-			1149 10 
+			1149 15
+		}
+		victory_points = {
+			14269 3
+		}
+		victory_points = {
+			14270 2
+		}
+		victory_points = {
+			1189 1
+		}
+		victory_points = {
+			14268 1
 		}
 		buildings = {
-			infrastructure = 2
-			air_base = 6
+			infrastructure = 3
+			industrial_complex  = 1
+			arms_factory  = 1
+			air_base = 2
 			1149 = {
 				naval_base = 5
+
 			}
+			14270 = {
+				naval_base = 5
+
+			}
+
 		}
 		add_core_of = LBA
+
 	}
 
 	provinces={
-		1118 1149 1189 4194 7066 7209 9980 12039 
+		1149 1189 12039 14268 14269 14270 
 	}
-
-	local_supplies=0.0 
+	manpower=2569136
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

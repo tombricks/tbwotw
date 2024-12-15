@@ -2,29 +2,27 @@
 state={
 	id=455
 	name="STATE_455"
-	manpower = 932000
-	
-	state_category = rural
 
 	history={
 		owner = JOR
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
-		}
-		victory_points = {
-			7151 1 
-		}
-		victory_points = {
-			11976 1 
-		}
+			industrial_complex  = 4
+			arms_factory  = 2
+			air_base = 4
 
+		}
+		victory_points = {
+			7151 20 
+		}
 		add_core_of = JOR
+
 	}
 
 	provinces={
-		1544 4017 4115 4440 4562 4574 4591 4603 7001 7151 7170 10089 11976 
+		7151 
 	}
-
-	local_supplies=0.0 
+	manpower=4007000
+	buildings_max_level_factor=1.000
+	state_category=state_default
 }

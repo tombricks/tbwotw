@@ -1,0 +1,26 @@
+state={
+	id=1528
+	name="STATE_1528"
+	provinces={
+		1929 13176 13817 13820 13826 13833 13852 13858 13863 15943 15958 15993 16020 16044 16048 16075 16134 16145 16151 16169 16186 16240 16293 16298 16318 
+	}
+	history={
+		owner = COG
+		
+		add_core_of = COG
+
+		DRC = {
+			set_province_controller = 16293
+			set_province_controller = 13833
+			set_province_controller = 13858
+			set_province_controller = 16075
+			set_province_controller = 16318
+			set_province_controller = 16169
+			set_province_controller = 16134
+		}
+	}
+	manpower=673646
+	buildings_max_level_factor=1.000
+	state_category=state_01
+	local_supplies=0.000
+}

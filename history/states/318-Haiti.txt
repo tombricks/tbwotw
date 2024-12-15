@@ -1,35 +1,42 @@
-state=
-{
+
+state={
 	id=318
 	name="STATE_318"
-	manpower = 2380000
-	
-	state_category = town
-	
-	resources={
-		chromium=2 # was: 3
-	}
-	history=
-	{
+
+	history={
 		owner = HAI
-		buildings = {
-			infrastructure = 2
-			arms_factory = 1
-			industrial_complex = 2 
-			air_base = 1
-			4641 = {
-				naval_base = 3
-			}
-		}
-		add_core_of = HAI
 		victory_points = {
 			4641 5 
 		}
+		victory_points = {
+			14045 2
+		}
+		victory_points = {
+			1594 2
+		}
+		victory_points = {
+			1635 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex  = 3
+			arms_factory  = 1
+			air_base = 1
+			4641 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = HAI
 
 	}
+
 	provinces={
-		1594 1635 4641
+		1594 1635 4641 14045 
 	}
-
-	local_supplies=0.0 
+	manpower=9980000
+	buildings_max_level_factor=1.000
+	state_category=state_default
+	local_supplies=0.000
 }

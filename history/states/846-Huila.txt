@@ -1,0 +1,35 @@
+
+state={
+	id=846
+	name="STATE_846"
+
+	history={
+		owner = POR
+		add_core_of = ANG
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 2
+
+		}
+
+		UNI = {
+			set_province_controller = 15929
+			set_province_controller = 16249
+			set_province_controller = 16301
+			set_province_controller = 16139
+			set_province_controller = 16073
+		}
+
+	}
+
+	provinces={
+		15929 15941 15982 16073 16138 16139 16249 16266 16286 16301 16315 
+	}
+	manpower=1768917
+	buildings_max_level_factor=1.000
+	state_category=state_02
+	local_supplies=0.000
+}

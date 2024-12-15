@@ -1,0 +1,20 @@
+state={
+	id=743
+	name="STATE_743"
+	
+	history = {
+		owner = POL
+		victory_points = { 9387 2 }
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+		}
+	}
+	provinces={
+		444 537 3473 3572 6236 9387 11478 3438
+	}
+	manpower=1016652
+	buildings_max_level_factor=1.000
+	
+	state_category = state_default
+}
