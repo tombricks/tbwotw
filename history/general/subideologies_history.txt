@@ -77,6 +77,11 @@ set_variable = { global.subideology_color_r_@token:subideology_baathism = 1 }
 set_variable = { global.subideology_color_g_@token:subideology_baathism = 123 }
 set_variable = { global.subideology_color_b_@token:subideology_baathism = 72 }
 
+add_to_array = { global.subideologies = token:subideology_fascism }
+set_variable = { global.subideology_color_r_@token:subideology_fascism = 150 }
+set_variable = { global.subideology_color_g_@token:subideology_fascism = 75 }
+set_variable = { global.subideology_color_b_@token:subideology_fascism = 0 }
+
 for_each_loop = {
 	array = global.subideologies
 	value = subideology

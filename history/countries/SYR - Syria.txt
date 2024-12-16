@@ -7,6 +7,10 @@ set_politics = {
 	elections_allowed = no
 }
 
+set_variable = { subideology = token:subideology_baathism }
+
 set_popularities = {
 	socialism = 100
 }
+
+add_ideas = ARAB_federation_of_arab_republics_member

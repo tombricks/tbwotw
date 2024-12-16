@@ -5,35 +5,16 @@ bookmarks = {
 		date = 1975.1.1.12
 		picture = "GFX_select_date_1939"
 		default_country = "SOV"
-	
-		SOV = {
-			history = SOV_DEFAULT_DESC
-			ideology = real_socialism
-		}
-
-		PRC = {
-			history = PRC_DEFAULT_DESC
-			ideology = anti_revisionism
-		}
-
-		FRA = {
-			history = FRA_DEFAULT_DESC
-			ideology = socialism
-		}
-
-		EGY = {
-			history = EGY_DEFAULT_DESC
-			ideology = socialism
-		}
-
-		ENG = {
-			history = FRA_DEFAULT_DESC
-			ideology = reactionary
-		}
 		
-		"---"={
-			history = "OTHER_DEFAULT_DESC"
-		}
+		USA = { history = USA_DEFAULT_DESC }
+		ENG = { history = ENG_DEFAULT_DESC }
+		FRA = { history = FRA_DEFAULT_DESC }
+		SOV = { history = SOV_DEFAULT_DESC }
+		EGY = { history = EGY_DEFAULT_DESC }
+		RAJ = { history = RAJ_DEFAULT_DESC }
+		PRC = { history = PRC_DEFAULT_DESC }
+		"---" = { history = OTHER_DEFAULT_DESC }
+
 
 		effect = {
 			randomize_weather = 12346 # <- Obligatory in every bookmark !

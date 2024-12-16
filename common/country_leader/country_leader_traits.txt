@@ -12,4 +12,7 @@ leader_traits = {
 	subideology_christian_democracy = { random = no }
 	subideology_arab_socialism = { random = no }
 	subideology_baathism = { random = no }
+	subideology_larouchism = { random = no }
+	subideology_national_conservatism = { random = no }
+	subideology_fascism = { random = no }
 }
