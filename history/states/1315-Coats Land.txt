@@ -5,7 +5,6 @@ state={
 	history={
 		owner = XYZ
 		add_claim_by = ENG
-		set_demilitarized_zone = yes
 	}
 
 	provinces={

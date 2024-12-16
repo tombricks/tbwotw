@@ -5,7 +5,6 @@ state={
 
 	history={
 		owner = XYZ
-		set_demilitarized_zone = yes
 
 	}
 

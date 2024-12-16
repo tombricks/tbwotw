@@ -71,12 +71,12 @@
 
  ENG_anti_revisionism_party: "FORUM"
  ENG_anti_revisionism_party_long: "FORUM for Marxist-Leninist Unity"
- ENG_reactionary_party: "National Government"
- ENG_reactionary_party_long: "National Government"
  ENG_real_socialism_party: "CPGB"
  ENG_real_socialism_party_long: "Communist Party of Great Britain"
  ENG_socialism_party: "SLP"
  ENG_socialism_party_long: "Socialist Labour Party"
+ ENG_reactionary_party: "National Government"
+ ENG_reactionary_party_long: "National Government"
 
  EQG_socialism_party: "PUNT" 
  EQG_socialism_party_long: "United National Workers' Party" 
@@ -91,17 +91,33 @@
  ETH_real_socialism_party: "COPWE"
  ETH_real_socialism_party_long: "Commission for Organizing the Party of the Working People of Ethiopia"
 
+ FRA_real_socialism_party: "PCF"
+ FRA_real_socialism_party_long: "French Communist Party"
+
  IRE_reactionary_party: "FG"
  IRE_reactionary_party_long: "Fine Gael"
 
  IRQ_socialism_party: "Iraqi Ba'ath"
  IRQ_socialism_party_long: "Arab Socialist Ba'ath Party - Iraqi Regional Branch"
 
+ JOR_socialism_party: "NGP"
+ JOR_socialism_party_long: "National Gathering Party"
+
+ LBA_socialism_party: "ASU"
+ LBA_socialism_party_long: "Arab Socialist Union"
+
  MEX_socialism_party: "PRI"
  MEX_socialism_party_long: "Institutional Revolutionary Party"
 
  PAK_socialism_party: "PPP"
  PAK_socialism_party_long: "Pakistan People's Party"
+
+ PAL_anti_revisionism_party: "DFLP"
+ PAL_anti_revisionism_party_long: "Democratic Front for the Liberation of Palestine"
+ PAL_real_socialism_party: "PFLP"
+ PAL_real_socialism_party_long: "Popular Front for the Liberation of Palestine"
+ PAL_socialism_party: "Fatah"
+ PAL_socialism_party_long: "Palestinian National Liberation Movement"
 
  PRC_anti_revisionism_party: "CPC"
  PRC_anti_revisionism_party_long: "Communist Party of China"

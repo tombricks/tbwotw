@@ -19,6 +19,7 @@ TAG_wants_SUPERPOWER = { # Trigger for if you want SOV
 	}
 }
 SUPERPOWER_volunteers_trigger = {
+	enemies_strength_ratio > 0.8
 	NOT = {
 		any_enemy_country = {
 			TAG_wanted_by_SUPERPOWER = yes

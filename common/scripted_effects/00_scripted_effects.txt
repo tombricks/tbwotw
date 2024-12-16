@@ -4,3 +4,9 @@ PRC_frends = {
 	add_to_array = { superpower:superpower_wants = THIS }
 	add_to_array = { superpower:superpower_wanted_by = THIS }
 }
+SOV_frends = {
+	set_temp_variable = { superpower = SOV }
+	add_to_array = { superpower:friends = THIS }
+	add_to_array = { superpower:superpower_wants = THIS }
+	add_to_array = { superpower:superpower_wanted_by = THIS }
+}

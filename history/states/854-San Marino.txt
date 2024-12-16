@@ -4,7 +4,7 @@ state={
 	name="STATE_854"
 
 	history={
-		owner = SMA
+		owner = ITA
 		victory_points = {
 			13207 1 
 		}
@@ -13,7 +13,7 @@ state={
 			industrial_complex  = 1
 
 		}
-		add_core_of = SMA
+		add_core_of = ITA
 
 	}
 

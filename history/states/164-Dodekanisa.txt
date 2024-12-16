@@ -5,7 +5,6 @@ state={
 
 	history={
 		owner = GRE
-		set_demilitarized_zone = yes
 		victory_points = {
 			10007 1 
 		}

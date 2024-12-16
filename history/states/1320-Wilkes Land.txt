@@ -6,7 +6,6 @@ state={
 	history={
 		owner = XYZ
 		add_claim_by = AST
-		set_demilitarized_zone = yes
 
 	}
 

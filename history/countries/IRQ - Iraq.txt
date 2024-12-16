@@ -7,6 +7,12 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Ahmed Hassan al-Bakr"
+	picture = "gfx/leaders/IRQ/Ahmed Hassan al-Bakr.dds"
+	ideology = socialism_type
+}
+
 set_variable = { subideology = token:subideology_baathism }
 
 set_popularities = {

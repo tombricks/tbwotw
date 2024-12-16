@@ -336,3 +336,6 @@ d_powers_test = {
 		}
 	}
 }
+d_log_enemies_strength_ratio = {
+	log = "[THIS.GetTag]: [?enemies_strength_ratio]"
+}

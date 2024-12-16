@@ -7,6 +7,16 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Yasser Arafat"
+	picture = "gfx/leaders/PAL/Yasser Arafat.dds"
+	ideology = socialism_type
+}
+
+set_variable = { subideology = token:subideology_arab_socialism }
+
 set_popularities = {
 	socialism = 100
 }
+
+add_ideas = ARAB_federation_of_arab_republics_member

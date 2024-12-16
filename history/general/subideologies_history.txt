@@ -23,9 +23,9 @@ set_variable = { global.subideology_color_g_@token:subideology_national_governme
 set_variable = { global.subideology_color_b_@token:subideology_national_government = 99 }
 
 add_to_array = { global.subideologies = token:subideology_islamic_socialism }
-set_variable = { global.subideology_color_r_@token:subideology_islamic_socialism = 69 }
-set_variable = { global.subideology_color_g_@token:subideology_islamic_socialism = 109 }
-set_variable = { global.subideology_color_b_@token:subideology_islamic_socialism = 41 }
+set_variable = { global.subideology_color_r_@token:subideology_islamic_socialism = 89 }
+set_variable = { global.subideology_color_g_@token:subideology_islamic_socialism = 114 }
+set_variable = { global.subideology_color_b_@token:subideology_islamic_socialism = 51 }
 
 add_to_array = { global.subideologies = token:subideology_hitlerian_marxism }
 set_variable = { global.subideology_color_r_@token:subideology_hitlerian_marxism = 131 }

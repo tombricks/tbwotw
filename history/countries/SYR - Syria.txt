@@ -7,6 +7,12 @@ set_politics = {
 	elections_allowed = no
 }
 
+create_country_leader = {
+	name = "Salah Jadid"
+	picture = "gfx/leaders/SYR/Salah Jadid.dds"
+	ideology = socialism_type
+}
+
 set_variable = { subideology = token:subideology_baathism }
 
 set_popularities = {
