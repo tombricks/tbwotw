@@ -60,7 +60,7 @@ scripted_map_modes = {
 		far_text = country
 		near_text = country
 	}
-	ideas_map_mode = {
+	alignment_map_mode = {
 		top = {
 			type = country
 			color = {
@@ -77,16 +77,47 @@ scripted_map_modes = {
 					set_temp_variable = { alpha = 1.0 }
 					if = {
 						limit = {
-							always = no
+							has_government = reactionary
+						}
+						set_temp_variable = { red = 0 }
+						set_temp_variable = { blue = 0 }
+						set_temp_variable = { green = 0 }
+					}
+					else_if = {
+						limit = {
+							is_in_array = { SOV.friends = THIS }
+							is_in_array = { PRC.friends = THIS }
 						}
 						set_temp_variable = { red = 1 }
 						set_temp_variable = { blue = 1 }
 						set_temp_variable = { green = 1 }
 					}
-					else = {
-						set_temp_variable = { red = 0 }
+					else_if = {
+						limit = {
+							OR = {
+								tag = SOV
+								is_in_array = { SOV.friends = THIS }
+							}
+						}
+						set_temp_variable = { red = 1 }
 						set_temp_variable = { blue = 0 }
 						set_temp_variable = { green = 0 }
+					}
+					else_if = {
+						limit = {
+							OR = {
+								tag = PRC
+								is_in_array = { PRC.friends = THIS }
+							}
+						}
+						set_temp_variable = { red = 1 }
+						set_temp_variable = { blue = 0 }
+						set_temp_variable = { green = 1 }
+					}
+					else = {
+						set_temp_variable = { red = 0.5 }
+						set_temp_variable = { blue = 0.5 }
+						set_temp_variable = { green = 0.5 }
 					}
 				}
 

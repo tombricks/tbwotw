@@ -88,8 +88,10 @@
 
  ETH_anti_revisionism_party: "EPRP"
  ETH_anti_revisionism_party_long: "Ethiopian People's Revolutionary Party"
- ETH_real_socialism_party: "COPWE"
- ETH_real_socialism_party_long: "Commission for Organizing the Party of the Working People of Ethiopia"
+ ETH_real_socialism_party: "MEISON"
+ ETH_real_socialism_party_long: "All-Ethiopia Socialist Movement"
+ ETH_socialism_party: "Derg"
+ ETH_socialism_party_long: "Provisional Military Administrative Council"
 
  FRA_real_socialism_party: "PCF"
  FRA_real_socialism_party_long: "French Communist Party"
@@ -135,8 +137,10 @@
  SAF_reactionary_party: "NP"
  SAF_reactionary_party_long: "National Party"
 
- SOM_anti_revisionism_party: "SRSP"
- SOM_anti_revisionism_party_long: "Somali Revolutionary Socialist Party"
+#SOM_anti_revisionism_party: "SRSP"
+#SOM_anti_revisionism_party_long: "Somali Revolutionary Socialist Party"
+ SOM_socialism_party: "SRC"
+ SOM_socialism_party_long: "Supreme Revolutionary Council"
 
  SOV_anti_revisionism_party: "SRC(b)"
  SOV_anti_revisionism_party_long: "Soviet Revolutionary Communists (Bolsheviks)"

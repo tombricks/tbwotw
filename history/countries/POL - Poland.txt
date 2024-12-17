@@ -6,10 +6,11 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-add_to_array = { SOV.friends = THIS }
-add_to_array = { SOV.superpower_wants = THIS }
-add_to_array = { SOV.superpower_wanted_by = THIS }
+
+SOV_become_friends = yes
 
 set_popularities = {
 	real_socialism = 100
 }
+
+set_variable = { subideology = token:subideology_marxism_leninism }

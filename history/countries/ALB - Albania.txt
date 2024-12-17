@@ -6,9 +6,8 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-add_to_array = { PRC.friends = THIS }
-add_to_array = { PRC.superpower_wants = THIS }
-add_to_array = { PRC.superpower_wanted_by = THIS }
+
+PRC_become_friends = yes
 
 create_country_leader = {
 	name = "Enver Hoxha"

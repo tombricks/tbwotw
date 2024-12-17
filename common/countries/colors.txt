@@ -155,8 +155,8 @@ CAN = {
 	color_ui = rgb { 233 59 59 }
 }
 CHI = {
-	color = hsv { 0.18 0.6 0.9 }
-	color_ui = hsv { 0.18 0.6 0.9 }
+	color = rgb { 28 74 142 }
+	color_ui = rgb { 28 74 142 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -243,8 +243,8 @@ UAE = {
 	color_ui = rgb { 190 156 61 }
 }
 SIA = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 171 190 152 }
+	color = rgb { 211 33 87 }
+	color_ui = rgb { 211 33 87 }
 }
 SIK = {
 	color = rgb { 71 190 152 }
@@ -391,20 +391,20 @@ ARM = {
 	color_ui = rgb { 176 102 180 }
 }
 LAO = {
-	color = rgb { 176 102 136 }
-	color_ui = rgb { 176 102 136 }
+	color = rgb { 183 60 48 }
+	color_ui = rgb { 183 60 48 }
 }
 INS = {
 	color = rgb { 40 50 120 }
 	color_ui = rgb { 40 50 120 }
 }
 VIN = {
-	color = rgb { 230 223 50 }
-	color_ui = rgb { 230 223 50 }
+	color = rgb { 213 158 68 }
+	color_ui = rgb { 213 158 68 }
 }
 CAM = {
-	color = rgb { 100 71 150 }
-	color_ui = rgb { 100 71 150 }
+	color = rgb { 145 9 0 }
+	color_ui = rgb { 145 9 0 }
 }
 MAL = {
 	color = rgb { 197 96 100 }

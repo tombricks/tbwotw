@@ -1,12 +1,16 @@
 capital = 671
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = real_socialism
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
+SOV_become_friends = yes
+
 set_popularities = {
-	socialism = 100
+	real_socialism = 100
 }
+
+set_variable = { subideology = token:subideology_marxism_leninism }

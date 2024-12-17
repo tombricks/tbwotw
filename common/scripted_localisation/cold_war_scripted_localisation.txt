@@ -1,0 +1,225 @@
+defined_text = {
+	name = loc_SOV_friends
+	text = {
+		trigger = {
+			is_in_array = { SOV.friends = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_SOV_enemies
+	text = {
+		trigger = {
+			is_in_array = { SOV.enemies = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_SOV_superpower_wanted_by
+	text = {
+		trigger = {
+			is_in_array = { SOV.superpower_wanted_by = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_SOV_superpower_wants
+	text = {
+		trigger = {
+			is_in_array = { SOV.superpower_wants = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_SOV_superpower_wants_lite
+	text = {
+		trigger = {
+			is_in_array = { SOV.superpower_wants_lite = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_SOV_TAG_wanted_by_SUPERPOWER
+	text = {
+		trigger = {
+			set_temp_variable = { superpower = SOV }
+			TAG_wanted_by_SUPERPOWER = yes
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_SOV_TAG_wanted_by_SUPERPOWER_lite
+	text = {
+		trigger = {
+			set_temp_variable = { superpower = SOV }
+			TAG_wanted_by_SUPERPOWER_lite = yes
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_SOV_TAG_wants_SUPERPOWER
+	text = {
+		trigger = {
+			set_temp_variable = { superpower = SOV }
+			TAG_wants_SUPERPOWER = yes
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_SOV_SUPERPOWER_volunteers_trigger
+	text = {
+		trigger = {
+			set_temp_variable = { superpower = SOV }
+			SUPERPOWER_volunteers_trigger = yes
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+
+defined_text = {
+	name = loc_PRC_friends
+	text = {
+		trigger = {
+			is_in_array = { PRC.friends = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_PRC_enemies
+	text = {
+		trigger = {
+			is_in_array = { PRC.enemies = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_PRC_superpower_wanted_by
+	text = {
+		trigger = {
+			is_in_array = { PRC.superpower_wanted_by = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_PRC_superpower_wants
+	text = {
+		trigger = {
+			is_in_array = { PRC.superpower_wants = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_PRC_superpower_wants_lite
+	text = {
+		trigger = {
+			is_in_array = { PRC.superpower_wants_lite = THIS }
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_PRC_TAG_wanted_by_SUPERPOWER
+	text = {
+		trigger = {
+			set_temp_variable = { superpower = PRC }
+			TAG_wanted_by_SUPERPOWER = yes
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_PRC_TAG_wanted_by_SUPERPOWER_lite
+	text = {
+		trigger = {
+			set_temp_variable = { superpower = PRC }
+			TAG_wanted_by_SUPERPOWER_lite = yes
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_PRC_TAG_wants_SUPERPOWER
+	text = {
+		trigger = {
+			set_temp_variable = { superpower = PRC }
+			TAG_wants_SUPERPOWER = yes
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}
+defined_text = {
+	name = loc_PRC_SUPERPOWER_volunteers_trigger
+	text = {
+		trigger = {
+			set_temp_variable = { superpower = PRC }
+			SUPERPOWER_volunteers_trigger = yes
+		}
+		localization_key = yes
+	}
+	text = {
+		localization_key = no
+	}
+}

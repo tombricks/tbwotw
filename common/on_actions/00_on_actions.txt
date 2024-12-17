@@ -8,6 +8,13 @@ on_actions = {
 					}
 					d_create_army = yes
 				}
+
+				if = {
+					limit = {
+						has_government = reactionary
+					}
+					add_ideas = reactionary_spirit
+				}
 			}
 		}
 	}
@@ -44,6 +51,24 @@ on_actions = {
 						}
 					}
 				}
+			}
+		}
+	}
+	on_ruling_party_change = {
+		effect = {
+			if = {
+				limit = {
+					NOT = { has_government = reactionary }
+					has_idea = reactionary_spirit
+				}
+				remove_ideas = reactionary_spirit
+			}
+			else_if = {
+				limit = {
+					has_government = reactionary
+					NOT = { has_idea = reactionary_spirit }
+				}
+				add_ideas = reactionary_spirit
 			}
 		}
 	}

@@ -1,23 +1,29 @@
 capital = 271
 
 set_politics = {
-	ruling_party = real_socialism
+	ruling_party = socialism
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
-add_to_array = { SOV.friends = THIS }
-add_to_array = { SOV.superpower_wants = THIS }
-add_to_array = { SOV.superpower_wanted_by = THIS }
 
 set_popularities = {
-	real_socialism = 100
+	socialism = 100
 }
 
 create_country_leader = {
-	name = "Mengistu Haile Mariam"
-	picture = "gfx/leaders/ETH/Mengistu Haile Mariam.dds"
-	ideology = real_socialism_type
+	name = "Tafari Benti"
+	picture = "gfx/leaders/ETH/Tafari Benti.dds"
+	ideology = socialism_type
 }
 
-set_variable = { subideology = token:subideology_marxism_leninism }
+add_to_array = { SOV.superpower_wants_lite = THIS }
+
+set_variable = { subideology = token:subideology_socialism }
+
+# March 1975 - Land Reform, Republic and Marxism-Leninism - pro-Soviet orientation
+# September 1975 - Party formation
+# September 1976 - Red Terror begins
+# December 1976 - Restructuring
+# February 1977 - Mengistu takes charge
+# July 1977 - Ogaden War, Somali-Soviet split

@@ -1,0 +1,11 @@
+ideas = {
+	hidden_ideas = {
+		reactionary_spirit = {
+			modifier = {
+				anti_revisionism_acceptance = -250
+				real_socialism_acceptance = -250
+				socialism_acceptance = -250
+			}
+		}
+	}
+}

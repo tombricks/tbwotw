@@ -7,7 +7,7 @@ guiTypes = {
 			name = "ideology"
 			position = { x = 97 y = 312 }
 			font = "hoi_18mbs"
-			text = "[THIS.GetSubideologyNoun]"
+			text = "[THIS.GetSubideologyAdj]"
 			maxWidth = 155
 			maxHeight = 20
 		}
@@ -20,7 +20,7 @@ guiTypes = {
 			name = "ideology_name"
 			position = { x = 263 y = 140 }
 			font = "hoi_16mbs"
-			text = "[THIS.GetSubideologyNoun]"
+			text = "[THIS.GetSubideologyAdj]"
 			maxWidth = 245
 			maxHeight = 20
 		}

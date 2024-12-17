@@ -1,23 +1,22 @@
 capital = 559
 
 set_politics = {
-	ruling_party = anti_revisionism
+	ruling_party = socialism
 	last_election = "1960.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
-add_to_array = { PRC.friends = THIS }
-add_to_array = { PRC.superpower_wants = THIS }
-add_to_array = { PRC.superpower_wanted_by = THIS }
+
+add_to_array = { PRC.superpower_wants_lite = THIS }
 
 set_popularities = {
-	anti_revisionism = 100
+	socialism = 100
 }
 
 create_country_leader = {
 	name = "Mohammed Siad Barre"
 	picture = "gfx/leaders/SOM/Mohammed Siad Barre.dds"
-	ideology = anti_revisionism_type
+	ideology = socialism_type
 }
 
 set_variable = { subideology = token:subideology_marxism_leninism }

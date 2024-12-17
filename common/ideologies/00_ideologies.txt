@@ -18,13 +18,16 @@ ideologies = {
 
 		rules = {
 			can_send_volunteers = yes
+			can_guarantee_other_ideologies = no
 		}
-
+		
 		modifiers = {
 		}
-
+		
 		faction_modifiers = {
 		}
+		
+		can_be_boosted = no
 
 		ai_fascist = yes
 	}
@@ -47,9 +50,11 @@ ideologies = {
 
 		rules = {
 			can_send_volunteers = yes
+			can_guarantee_other_ideologies = yes
 		}
 
 		modifiers = {
+			reactionary_acceptance = -250
 		}
 
 		faction_modifiers = {
@@ -76,9 +81,11 @@ ideologies = {
 
 		rules = {
 			can_send_volunteers = yes
+			can_guarantee_other_ideologies = yes
 		}
 
 		modifiers = {
+			reactionary_acceptance = -250
 		}
 
 		faction_modifiers = {
@@ -105,9 +112,11 @@ ideologies = {
 
 		rules = {
 			can_send_volunteers = yes
+			can_guarantee_other_ideologies = yes
 		}
 
 		modifiers = {
+			reactionary_acceptance = -250
 		}
 
 		faction_modifiers = {

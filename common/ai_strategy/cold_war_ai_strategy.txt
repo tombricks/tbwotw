@@ -57,7 +57,7 @@ SOV_soft_aid = {
 	ai_strategy = {
 		type = befriend
 		id = SOV
-		value = 150
+		value = 100
 	}
 
 	ai_strategy = {
@@ -65,6 +65,22 @@ SOV_soft_aid = {
 		target = non_aggression_pact
 		id = SOV
 		value = 150
+	}
+}
+
+SOV_soft_aid_lite = {
+	reversed = yes
+	abort_when_not_enabled = yes
+
+	enable = {
+		set_temp_variable = { superpower = SOV }
+		TAG_wanted_by_SUPERPOWER_lite = yes
+	}
+
+	ai_strategy = {
+		type = befriend
+		id = SOV
+		value = 50
 	}
 }
 
@@ -190,7 +206,7 @@ PRC_soft_aid = {
 	ai_strategy = {
 		type = befriend
 		id = PRC
-		value = 150
+		value = 100
 	}
 
 	ai_strategy = {
@@ -198,6 +214,22 @@ PRC_soft_aid = {
 		target = non_aggression_pact
 		id = PRC
 		value = 150
+	}
+}
+
+PRC_soft_aid = {
+	reversed = yes
+	abort_when_not_enabled = yes
+
+	enable = {
+		set_temp_variable = { superpower = PRC }
+		TAG_wanted_by_SUPERPOWER_lite = yes
+	}
+
+	ai_strategy = {
+		type = befriend
+		id = PRC
+		value = 50
 	}
 }
 

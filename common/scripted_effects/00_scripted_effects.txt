@@ -1,12 +1,13 @@
-PRC_frends = {
-	set_temp_variable = { superpower = PRC }
+SUPERPOWER_become_friends = {
 	add_to_array = { superpower:friends = THIS }
 	add_to_array = { superpower:superpower_wants = THIS }
 	add_to_array = { superpower:superpower_wanted_by = THIS }
 }
-SOV_frends = {
+SOV_become_friends = {
 	set_temp_variable = { superpower = SOV }
-	add_to_array = { superpower:friends = THIS }
-	add_to_array = { superpower:superpower_wants = THIS }
-	add_to_array = { superpower:superpower_wanted_by = THIS }
+	SUPERPOWER_become_friends = yes
+}
+PRC_become_friends = {
+	set_temp_variable = { superpower = PRC }
+	SUPERPOWER_become_friends = yes
 }
