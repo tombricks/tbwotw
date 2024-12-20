@@ -4,7 +4,7 @@ state={
 	name="STATE_745"
 
 	history={
-		owner = MAL
+		owner = MLI
 		victory_points = {
 			15793 2
 		}
@@ -16,7 +16,7 @@ state={
 			industrial_complex  = 1
 
 		}
-		add_core_of = MAL
+		add_core_of = MLI
 
 	}
 

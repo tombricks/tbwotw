@@ -33,8 +33,8 @@
  subideology_islamic_socialism_noun: "Islamic Socialism"
  subideology_anti_communism: "Anti-Communist"
  subideology_anti_communism_noun: "Anti-Communism"
- subideology_hitlerian_marxism: "Hitlerian-Marxism"
- subideology_hitlerian_marxism_noun: "Hitlerian-Marxist"
+ subideology_hitlerian_marxism: "Hitlerian-Marxist"
+ subideology_hitlerian_marxism_noun: "Hitlerian-Marxism"
  subideology_titoism: "Titoist"
  subideology_titoism_noun: "Titoism"
  subideology_national_communism: "National Communist"
@@ -42,7 +42,7 @@
  subideology_hoxhaism: "Hoxhaist"
  subideology_hoxhaism_noun: "Hoxhaism"
  subideology_democratic_socialism: "Democratic Socialist"
- subideology_democratic_socialism_noun: "Democratic Socialist"
+ subideology_democratic_socialism_noun: "Democratic Socialism"
  subideology_larouchism: "LaRouchism"
  subideology_larouchism_noun: "LaRouchist"
  subideology_christian_democracy: "Christian Democratic"
@@ -152,6 +152,9 @@
 
  SYR_socialism_party: "Syrian Ba'ath"
  SYR_socialism_party_long: "Arab Socialist Ba'ath Party - Syrian Regional Branch"
+
+ POR_reactionary_party: "UN" 
+ POR_reactionary_party_long: "National Union" 
 
  USA_socialism_party: "NCLC"
  USA_socialism_party_long: "National Caucus of Labor Committees"

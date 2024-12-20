@@ -4,7 +4,6 @@ state={
 
 	history={
 		owner = XYZ
-		add_claim_by = ENG
 	}
 
 	provinces={

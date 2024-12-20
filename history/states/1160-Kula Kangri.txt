@@ -5,8 +5,6 @@ state={
 	history={
 		owner = BHU
 		add_core_of = BHU
-		add_claim_by = CHI
-		add_claim_by = PRC
 	}
 
 	provinces={

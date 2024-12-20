@@ -17,10 +17,6 @@ state={
 			}
 
 		}
-		add_claim_by = PRC
-		add_claim_by = CHI
-		add_claim_by = VIN
-		add_claim_by = PHI
 	}
 
 	provinces={

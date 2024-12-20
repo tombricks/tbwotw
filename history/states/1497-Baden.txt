@@ -3,7 +3,7 @@ state={
 	name="STATE_1497"
 
 	history={
-		owner = WGR
+		owner = FRA
 		victory_points = {
 			3530 4 
 		}
@@ -17,7 +17,6 @@ state={
 			infrastructure = 1
 
 		}
-		add_core_of = WGR
 		add_core_of = DDR
 
 	}

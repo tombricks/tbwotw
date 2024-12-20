@@ -1,5 +1,8 @@
 capital = 112
 
+set_convoys = 50
+generic_scripted_effect = yes
+
 set_politics = {
 	ruling_party = reactionary
 	last_election = "1960.1.1"
@@ -10,3 +13,11 @@ set_politics = {
 set_popularities = {
 	reactionary = 100
 }
+
+create_country_leader = {
+	name = "Marcelo Caetano"
+	picture = "gfx/leaders/POR/Marcelo Caetano.dds"
+	ideology = reactionary_type
+}
+
+set_variable = { subideology = token:subideology_fascism }

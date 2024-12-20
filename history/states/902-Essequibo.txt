@@ -10,7 +10,6 @@ state={
 
 		}
 		add_core_of = GYA
-		add_claim_by = VEN
 
 	}
 

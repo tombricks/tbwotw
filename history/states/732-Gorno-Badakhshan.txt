@@ -18,7 +18,6 @@ state={
 
 		}
 		add_core_of = TAJ
-		add_claim_by = CHI
 
 	}
 

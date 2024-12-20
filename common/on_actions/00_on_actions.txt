@@ -37,6 +37,28 @@ on_actions = {
 					}
 					log = "Civil War: [ROOT.GetTag] ([ROOT.GetRulingIdeology]) vs [FROM.GetTag] ([FROM.GetRulingIdeology])"
 
+					ROOT = {
+						meta_effect = {
+							text = {
+								if = { limit = { NOT = { has_country_flag = dont_ideology_name has_any_cosmetic_tag = yes } }
+									set_cosmetic_tag = [COSMETIC]
+								}
+							}
+							ORIGINAL_TAG = "[?ROOT.original_tag.GetTag]"
+							COSMETIC = "[?ROOT.original_tag.GetTag]_ideology"
+						}
+					}
+					FROM = {
+						meta_effect = {
+							text = {
+								if = { limit = { NOT = { has_country_flag = dont_ideology_name } }
+									set_cosmetic_tag = [COSMETIC]
+								}
+							}
+							COSMETIC = "[?FROM.original_tag.GetTag]_ideology"
+						}
+					}
+
 					# Indian Civil War
 					if = {
 						limit = {
@@ -51,6 +73,19 @@ on_actions = {
 						}
 					}
 				}
+			}
+		}
+	}
+	on_civil_war_end = {
+		effect = {
+			meta_effect = {
+				text = {
+					if = {
+						limit = { has_cosmetic_tag = [COSMETIC] has_civil_war = no }
+						drop_cosmetic_tag = yes
+					}
+				}
+				COSMETIC = "[?ROOT.original_tag.GetTag]_ideology"
 			}
 		}
 	}

@@ -1,5 +1,8 @@
 capital = 327
 
+set_convoys = 50
+generic_scripted_effect = yes
+
 set_politics = {
 	ruling_party = socialism
 	last_election = "1960.1.1"

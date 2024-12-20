@@ -9,8 +9,6 @@ state={
 
 		}
 		add_core_of = SPR
-		add_claim_by = POR
-
 	}
 
 	provinces={

@@ -15,7 +15,7 @@ state={
 
 		}
 		add_core_of = DDR
-		add_core_of = WGR
+		add_core_of = DDR
 		victory_points = {
 			3522 5 
 		}

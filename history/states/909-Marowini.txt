@@ -7,7 +7,6 @@ state={
 		owner = FRA
 		add_core_of = FRA
 		add_core_of = CAY
-		add_claim_by = SUR
 	}
 
 	provinces={

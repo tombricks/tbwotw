@@ -5,8 +5,6 @@ state={
 
 	history={
 		owner = XYZ
-		add_claim_by = CHL
-		add_claim_by = ENG
 
 	}
 
